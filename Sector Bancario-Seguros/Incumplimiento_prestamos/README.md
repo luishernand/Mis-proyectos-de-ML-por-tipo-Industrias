@@ -11,8 +11,8 @@ Para clasificar si el prestatario incumplirá el préstamo utilizando  a partir 
 nuevas variables predictoras, necesitamos predecir si Si el préstamo fue pagado o esta en proceso de cobro. Para esto utilizaremos Modelos de Clasificación de Machine Learning en python.  
 
 ## Conjunto de Datos: 
-para este proyecto bajamos los datos de [kaggle](https://www.kaggle.com/), [loan_train.csv]()
-El conjunto de datos consta de **346** observaciones y **8** características.Encabezado del conjunto de datos:
+para este proyecto bajamos los datos de [kaggle](https://www.kaggle.com/), [loan_train.csv](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/loan_train.csv).
+El conjunto de datos consta de **346** observaciones y **8** características.
 
 |loan_status|	Principal|	terms|	effective_date|	due_date|	age	|education	Gender|
 |-----------|----------|----------|----------|----------|----|----------|
@@ -21,6 +21,7 @@ El conjunto de datos consta de **346** observaciones y **8** características.En
 |2|	PAIDOFF|	1000|	15|	2016-09-08|	2016-09-22|	27|	college	|male|
 |3|	PAIDOFF|	1000	|30|	2016-09-09	|2016-10-08|	28	|college	|female|
 |4|	PAIDOFF|	1000	|30|	2016-09-09	|2016-10-08|	29|	college	|male|
+
  
 ## Data Engineering-(Ingeniería de datos):  
 No tenía características vacías e irrelevantes.  
@@ -43,8 +44,16 @@ A continuación se mencionan las características utilizadas para nuestro modelo
 
 
 **Target Variable-(Destino o a predecir)** 
-La variable de destino en nuestro conjunto de datos es Loan_status	que muestra el estado del préstamo. Tiene 2 diferentes
+La variable de destino en nuestro conjunto de datos es Loan_status	que muestra el estado del préstamo. Tiene 2 diferentes datos:
 PAIDOFF y COLLECTION 
+
+## Analisis de Datos (EDA):
+
+La variable de destino o Target cuenta con la siguiente cantidad de registros:
+PAIDOFF       260
+COLLECTION     86
+Estos datos nos indican que el 75.14% de las persanas ya han pagado su prestamos
+
 
 ## Modelos Aplicados  
 1. KNeighborsClassifier
