@@ -51,7 +51,7 @@ PAIDOFF y COLLECTION
 
 La variable de destino o Target cuenta con la siguiente cantidad de registros:
 PAIDOFF =260, COLLECTION =86
-![a1](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/target_value_counts.png)
+![a1](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/target_value_counts.png)  
 Estos datos nos indican que el 75.14% de las persanas ya han pagado su prestamos
 
 
