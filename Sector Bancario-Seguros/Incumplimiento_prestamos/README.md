@@ -10,7 +10,10 @@ ocurre cuando un prestatario no paga una deuda de acuerdo con el acuerdo inicial
 Para clasificar si el prestatario incumplirá el préstamo utilizando  a partir de determinadas características del cliente. Eso significa, dado un conjunto de
 nuevas variables predictoras, necesitamos predecir si Si el préstamo fue pagado o esta en proceso de cobro. Para esto utilizaremos Modelos de Clasificación de Machine Learning en python.  
 
-###  El conjunto de datos consta de **346** observaciones y **8** características
+## Conjunto de Datos: 
+para este proyecto bajamos los datos de [kaggle](https://www.kaggle.com/), [loan_train.csv]()
+El conjunto de datos consta de **346** observaciones y **8** características.Encabezado del conjunto de datos:
+
 |loan_status|	Principal|	terms|	effective_date|	due_date|	age	|education	Gender|
 |-----------|----------|----------|----------|----------|----|----------|
 |0|	PAIDOFF|	1000|	30|	2016-09-08|	2016-10-07|	45|	High School or Below	|male|
