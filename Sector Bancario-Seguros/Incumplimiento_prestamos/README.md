@@ -50,8 +50,8 @@ PAIDOFF y COLLECTION
 ## Analisis de Datos (EDA):
 
 La variable de destino o Target cuenta con la siguiente cantidad de registros:
-PAIDOFF       260
-COLLECTION     86
+PAIDOFF =260, COLLECTION =86
+![a1]()
 Estos datos nos indican que el 75.14% de las persanas ya han pagado su prestamos
 
 
