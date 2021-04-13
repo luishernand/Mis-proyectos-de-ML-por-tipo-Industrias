@@ -157,7 +157,12 @@ Para este tipo de porblema de clasificación Incumplumiento de Préstamo no util
 
 
 
-       Creado por:  Luis Hernández   email:   luishernand11@gmail.com    loan_default[note book]
+## Note BooK:
++ Loan Deafault[note book]  
+
+---
+
+       Creado por:  Luis Hernández   email:   luishernand11@gmail.com  
 
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
 [dt]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/dt_mtx.png
