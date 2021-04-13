@@ -157,8 +157,9 @@ Para este tipo de porblema de clasificación Incumplumiento de Préstamo no util
 
 
 
-## Note BooK:
-+ Loan Deafault[note book]  
+---
+## Note Book:
++ Loan Deafault [note book]  
 
 ---
 
