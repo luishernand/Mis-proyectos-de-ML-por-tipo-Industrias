@@ -68,7 +68,7 @@ Notamos  que las personas que obtienen el préstamo al final de la semana no lo 
 
 Educación de los prestatarios:  
 Tenemos en los suiguientes lugares:
-1. High School or Below con 151.               ![ed]
+1. High School or Below con 151.![ed]
 2. college con 149.
 3. Bechalor con 44.
 4. Master or Above con 2          
