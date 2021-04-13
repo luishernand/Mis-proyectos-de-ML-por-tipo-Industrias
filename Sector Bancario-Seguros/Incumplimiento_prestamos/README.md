@@ -85,7 +85,8 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
 4. Logistic Regression  
 
 ### Evaluación de los modelos:  
-               
+  
+   **accuracy(La exactitud)**  mide el porcentaje de casos que el modelo ha acertado  
 
     Modelo                            accuracy        
     KNeighborsClassifier               0.80        
