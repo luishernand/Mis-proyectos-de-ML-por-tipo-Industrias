@@ -49,10 +49,10 @@ PAIDOFF y COLLECTION
 
 ## Analisis de Datos (EDA):
 
-La variable de destino o Target cuenta con la siguiente cantidad de registros:
+La variable de destino o **Target** cuenta con la siguiente cantidad de registros:
 PAIDOFF =260, COLLECTION =86
 ![a1](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/target_value_counts.png)  
-Estos datos nos indican que el 75.14% de las persanas ya han pagado su prestamos, el resto se encuentra en morosidad.
+Estos datos nos indican que el 75.14% de las personas ya han pagado su prestamos, el resto se encuentra en morosidad.
 
 
 ![a2](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/prestamo-genero.png)
@@ -62,18 +62,21 @@ Estos datos nos indican que el 75.14% de las persanas ya han pagado su prestamos
 |male   |  73.13% |   26.87%|  
   
   
-Day of week: 
+**Day of week:**   
 Notamos  que las personas que obtienen el préstamo al final de la semana no lo cancelan, así que usamos la binarización de funciones para establecer valores de umbral inferiores al día 4.  
 ![a3](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/day_ofweek.png)
 
-Educación de los prestatarios:  
+**Educación de los prestatarios:**  
+![ed]
 1. High School or Below con 151.
 2. college con 149.
 3. Bechalor con 44.
 4. Master or Above con 2   
-![ed]   
 
 
+**Correlación de los Datos:**    
+el coeficiente de correlación se utiliza para medir el grado de relación de dos o más variables siempre y cuando sean cuantitativas y continuas.
+![corr] 
 
 ## Modelos Aplicados  
 1. KNeighborsClassifier
@@ -82,4 +85,9 @@ Educación de los prestatarios:
 4. Logistic Regression  
 
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
+[dt]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/dt_mtx.png
+[knn]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/knn_mtx.png
+[lr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/lr_mtx.png
+[svc]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/svc_mtx.png
+[corr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/data_corr.png
 
