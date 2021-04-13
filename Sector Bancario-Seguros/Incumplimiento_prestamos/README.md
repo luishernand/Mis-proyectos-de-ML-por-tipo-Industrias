@@ -153,9 +153,11 @@ El modelo con mayor accuracy o exactitud para este tipo de datos es KNeighborsCl
 Para este tipo de porblema de clasificación Incumplumiento de Préstamo no utilizamos técnicas tale como:
 - tratamiento de datos desbalanceados.
 - Optimización de Hiperparametros(Tuning Hyperparameters).
-- Interpretación de los modelos.
+- Interpretación de los modelos.  
 
-       Creado por:  Luis Hernández   email:   luishernand11@gmail.com   
+
+
+       **Creado por:**  Luis Hernández   **email:**   luishernand11@gmail.com    [note book]
 
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
 [dt]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/dt_mtx.png
@@ -163,4 +165,4 @@ Para este tipo de porblema de clasificación Incumplumiento de Préstamo no util
 [lr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/lr_mtx.png
 [svc]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/svc_mtx.png
 [corr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/data_corr.png
-
+[note book]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/Load%20Prediction.ipynb
