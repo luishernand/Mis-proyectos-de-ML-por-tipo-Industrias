@@ -66,6 +66,12 @@ Day of week:
 Notamos  que las personas que obtienen el préstamo al final de la semana no lo cancelan, así que usamos la binarización de funciones para establecer valores de umbral inferiores al día 4.  
 ![a3](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/day_ofweek.png)
 
+Educación de los prestatarios:
+
+High School or Below    151
+college                 149
+Bechalor                 44
+Master or Above           2
 
 ## Modelos Aplicados  
 1. KNeighborsClassifier
