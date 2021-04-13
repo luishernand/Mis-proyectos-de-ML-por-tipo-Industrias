@@ -94,6 +94,7 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
     Logistic Regression                0.69        
     DecisionTreeClassifier             0.61        
     
+ **Classification Report:** se utiliza para medir la calidad de las predicciones de un algoritmo de clasificación. Cuántas predicciones son verdaderas y cuántas son falsas. Más específicamente, los verdaderos positivos, falsos positivos, verdaderos negativos y falsos negativos se utilizan para predecir las métricas de un informe de clasificación como se muestra a continuación.
  
      KNeighborsClassifier         precision    recall   f1-score   support
       
