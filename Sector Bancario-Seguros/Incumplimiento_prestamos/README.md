@@ -86,7 +86,8 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
 
 ### Evaluación de los modelos:  
   
-   **accuracy(La exactitud)**  mide el porcentaje de casos que el modelo ha acertado  
+   ### accuracy(La exactitud):  
+   mide el porcentaje de casos que el modelo ha acertado  
 
     Modelo                            accuracy        
     KNeighborsClassifier               0.80        
@@ -94,18 +95,53 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
     Logistic Regression                0.69        
     DecisionTreeClassifier             0.61        
     
- **Classification Report:** se utiliza para medir la calidad de las predicciones de un algoritmo de clasificación. Cuántas predicciones son verdaderas y cuántas son falsas. Más específicamente, los verdaderos positivos, falsos positivos, verdaderos negativos y falsos negativos se utilizan para predecir las métricas de un informe de clasificación como se muestra a continuación.
+ ### Classification Report:
+ se utiliza para medir la calidad de las predicciones de un algoritmo de clasificación. Cuántas predicciones son verdaderas y cuántas son falsas. Más específicamente, los verdaderos positivos, falsos positivos, verdaderos negativos y falsos negativos se utilizan para predecir las métricas de un informe de clasificación como se muestra a continuación.
  
      KNeighborsClassifier         precision    recall   f1-score   support
       
        COLLECTION                     0.54      0.47      0.50        15
          PAIDOFF                      0.86      0.89      0.88        55
 
-    accuracy                           0.80        70
+        accuracy                                          0.80        70
         macro avg                      0.70      0.68     0.69        70
        weighted avg                    0.79      0.80     0.79        70
+       
+       
+  DecisionTreeClassifier            precision    recall  f1-score   support
 
-#### Visualización de la Matriz de Confusión
+      COLLECTION                       0.27      0.47      0.34        15
+       PAIDOFF                         0.82      0.65      0.73        55
+
+    accuracy                                               0.61        70
+     macro avg                         0.54      0.56      0.53        70
+    weighted avg                       0.70      0.61      0.64        70
+    
+    
+    
+     Support Vector Machine         precision    recall  f1-score   support
+
+       COLLECTION                      0.36      0.27      0.31        15
+         PAIDOFF                       0.81      0.87      0.84        55
+
+         accuracy                                          0.74        70
+        macro avg                      0.59      0.57      0.57        70
+      weighted avg                     0.72      0.74      0.73        70
+
+
+     Logistic Regression            precision    recall  f1-score   support
+
+         COLLECTION                    0.18      0.13      0.15        15
+          PAIDOFF                      0.78      0.84      0.81        55
+
+         accuracy                                          0.69        70
+       macro avg                       0.48      0.48      0.48        70
+      weighted avg                     0.65      0.69      0.67        70
+      
+      
+
+#### Matriz de Confusión:  
+es una herramienta que permite visualizar el desempeño de un algoritmo  de aprendizaje supervisado. Cada columna de la matriz representa el número de predicciones de cada clase, mientras que cada fila representa a las instancias en la clase real., o sea en términos prácticos nos permite ver  qué tipos de aciertos y errores está teniendo nuestro modelo a la hora de pasar por el proceso de aprendizaje con los datos.  
 ![knn] ![dt] ![svc] ![lr]
 
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
