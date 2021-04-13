@@ -84,6 +84,16 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
 3. Support Vector Machine
 4. Logistic Regression  
 
+### Evaluación de los modelos:  
+                precision    recall  f1-score   support
+
+  COLLECTION       0.54      0.47      0.50        15
+     PAIDOFF       0.86      0.89      0.88        55
+
+    accuracy                           0.80        70
+   macro avg       0.70      0.68      0.69        70
+weighted avg       0.79      0.80      0.79        70
+
 #### Visualización de la Matriz de Confusión
 ![knn] ![dt] ![svc] ![lr]
 
