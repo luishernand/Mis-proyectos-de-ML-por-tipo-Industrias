@@ -67,7 +67,7 @@ Notamos  que las personas que obtienen el préstamo al final de la semana no lo 
 ![a3](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/day_ofweek.png)
 
 Educación de los prestatarios:  
-![ed] ![nivek]
+![ed] ![nivel]
 1. High School or Below con 151.
 2. college con 149.
 3. Bechalor con 44.
