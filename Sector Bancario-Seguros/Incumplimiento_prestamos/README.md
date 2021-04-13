@@ -59,9 +59,11 @@ Estos datos nos indican que el 75.14% de las persanas ya han pagado su prestamos
 |Gender|PAIDOFF|COLLECTION|
 |------|-------|----------|
 |female | 86.54% |     13.46%|    
-|male   |  73.13% |   26.87%|
-
-
+|male   |  73.13% |   26.87%|  
+  
+  
+Day of week: 
+Notamos  que las personas que obtienen el préstamo al final de la semana no lo cancelan, así que usamos la binarización de funciones para establecer valores de umbral inferiores al día 4.  
 ![a3](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/day_ofweek.png)
 
 
