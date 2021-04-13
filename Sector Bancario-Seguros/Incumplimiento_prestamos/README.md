@@ -87,10 +87,11 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
 ### Evaluación de los modelos:  
                
 
-    accuracy                           0.80        KNeighborsClassifier
-    accuracy                           0.74        Support Vector Machine
-    accuracy                           0.69        Logistic Regression
-    accuracy                           0.61        DecisionTreeClassifier
+    Modelo                            accuracy        
+    KNeighborsClassifier               0.80        
+    Support Vector Machine             0.74        
+    Logistic Regression                0.69        
+    DecisionTreeClassifier             0.61        
     
     
 
