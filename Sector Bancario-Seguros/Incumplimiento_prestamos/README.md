@@ -67,11 +67,11 @@ Notamos  que las personas que obtienen el préstamo al final de la semana no lo 
 ![a3](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/day_ofweek.png)
 
 Educación de los prestatarios:  
-![ed] ![nivel]
 1. High School or Below con 151.
 2. college con 149.
 3. Bechalor con 44.
-4. Master or Above con 2          
+4. Master or Above con 2 
+![ed]   
 
 
 
@@ -82,4 +82,4 @@ Educación de los prestatarios:
 4. Logistic Regression  
 
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
-[nivel]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/Nivel%20de%20Educaci%C3%B3n_texto.png
+
