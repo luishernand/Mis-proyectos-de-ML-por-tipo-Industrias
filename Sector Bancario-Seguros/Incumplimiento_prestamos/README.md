@@ -155,10 +155,12 @@ Para este tipo de porblema de clasificación Incumplumiento de Préstamo no util
 - Optimización de Hiperparametros(Tuning Hyperparameters).
 - Interpretación de los modelos.
 
+**Creado por:** [Luis Hernández]
+
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
 [dt]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/dt_mtx.png
 [knn]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/knn_mtx.png
 [lr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/lr_mtx.png
 [svc]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/svc_mtx.png
 [corr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/data_corr.png
-
+[Luis Hernández]:luishernand11@gmail.com
