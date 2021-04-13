@@ -108,12 +108,12 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
        weighted avg                    0.79      0.80     0.79        70
        
        
-  DecisionTreeClassifier            precision    recall  f1-score   support
+    DecisionTreeClassifier            precision    recall  f1-score   support
 
       COLLECTION                       0.27      0.47      0.34        15
        PAIDOFF                         0.82      0.65      0.73        55
 
-    accuracy                                               0.61        70
+     accuracy                                              0.61        70
      macro avg                         0.54      0.56      0.53        70
     weighted avg                       0.70      0.61      0.64        70
     
@@ -142,7 +142,18 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
 
 #### Matriz de Confusión:  
 es una herramienta que permite visualizar el desempeño de un algoritmo  de aprendizaje supervisado. Cada columna de la matriz representa el número de predicciones de cada clase, mientras que cada fila representa a las instancias en la clase real., o sea en términos prácticos nos permite ver  qué tipos de aciertos y errores está teniendo nuestro modelo a la hora de pasar por el proceso de aprendizaje con los datos.  
-![knn] ![dt] ![svc] ![lr]
+
+![knn] ![dt] ![svc] ![lr]  
+
+
+## Conclusión:   
+
+El modelo con mayor accuracy o exactitud para este tipo de datos es KNeighborsClassifier y un mejor resultado en las demas evaluaciones realizadas. Tenemos que tener en cuenta las desventajas que tiene este tipo de modelo con un gran volumne de datos.
+
+Para este tipo de porblema de clasificación Incumplumiento de Préstamo no utilizamos técnicas tale como:
+- tratamiento de datos desbalanceados.
+- Optimización de Hiperparametros(Tuning Hyperparameters).
+- Interpretación de los modelos.
 
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
 [dt]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/dt_mtx.png
