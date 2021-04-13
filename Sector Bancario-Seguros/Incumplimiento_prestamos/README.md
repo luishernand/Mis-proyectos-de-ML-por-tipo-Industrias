@@ -84,6 +84,9 @@ el coeficiente de correlación se utiliza para medir el grado de relación de do
 3. Support Vector Machine
 4. Logistic Regression  
 
+#### Visualización de la Matriz de Confusión
+![knn] ![dt] ![svc] ![lr]
+
 [ed]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/educacion.png
 [dt]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/dt_mtx.png
 [knn]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/knn_mtx.png
