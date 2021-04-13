@@ -70,7 +70,7 @@ Educación de los prestatarios:
 1. High School or Below con 151.
 2. college con 149.
 3. Bechalor con 44.
-4. Master or Above con 2 
+4. Master or Above con 2   
 ![ed]   
 
 
