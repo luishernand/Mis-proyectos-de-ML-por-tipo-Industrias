@@ -55,7 +55,7 @@ PAIDOFF =260, COLLECTION =86
 Estos datos nos indican que el 75.14% de las persanas ya han pagado su prestamos, el resto se encuentra en morosidad.
 
 Estatus de los prestamos por Genero:  
-![pg](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario- Seguros/Incumplimiento_prestamos/data/prestamo-genero.png)
+![a2](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario- Seguros/Incumplimiento_prestamos/data/prestamo-genero.png)
 |Gender|PAIDOFF|COLLECTION|
 |------|-------|----------|
 |female | 86.54% |     13.46%|    
