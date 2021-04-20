@@ -28,11 +28,13 @@ composión de los datos: **284,807** registros y **31** características o varia
 ![history]
 ![displot] 
 ![box plot]  
-Podemos Observar los importes que van desde 0 hasta por encima de los 25,000 mil Dolares.  Las trasnsaciones de tipo fraudulentas tienen un menor monto que las normales.
+Podemos Observar los importes que van desde 0 hasta por encima de los 25,000 mil Dolares.  Las trasnsaciones de tipo fraudulentas tienen un menor monto que las normales. 
+Para las transaciones de tipo normal berificamos que los montos mayores van desde los 5,026.26 hasta los 25,691.16 estos solo se fectuaron una solo vez.
 
-**Outlliers**  
+**Análisis de las transaciones de tipo fraude**  
+![trans fraud]  
 
-![trans fraud]
+Como podemos observar en el Gráfico,  transaciones de fraude tienen la perticularidad de tener importe desde  0 hasta 252 siendo montos minimos pero efectuados con una cantidad de veces mayor. 
  
 
 
