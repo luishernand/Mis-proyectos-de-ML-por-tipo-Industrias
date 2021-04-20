@@ -144,7 +144,9 @@ el performce fue:
   
   sus resultados son muy buenos de 95% de accuracy, muy buen recall y presicion, comparandolo con la esrategia de Oversampling esta tiene la ventaja en cuanto al tiempo de entrenamiento.  
   
-  
+**Confussion Matrix:**  
+
+![lr] ![smote] ![undersampling] ![balanced]
   
 
 
@@ -167,3 +169,10 @@ el performce fue:
 [trans fraud]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/montos%20transaciones%20fraudeluentas.png
 
 
+[balanced]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr%20balanced.png
+
+[undersampling]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr%20undersampling.png 
+
+[lr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr.png  
+
+[smote]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr_smote.png
