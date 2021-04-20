@@ -25,12 +25,12 @@ composión de los datos: **284,807** registros y **31** características o varia
 ![class]  
 
 
-![history]  
-Podemos Observar los importes que van desde 0 hasta por encima de los 25,000 mil Dolares.  
+![history]
+![displot] 
+![box plot]  
+Podemos Observar los importes que van desde 0 hasta por encima de los 25,000 mil Dolares.  Las trasnsaciones de tipo fraudulentas tienen un menor monto que las normales.
 
 **Outlliers**  
-![displot] 
-![box plot]
 
 ![trans fraud]
  
