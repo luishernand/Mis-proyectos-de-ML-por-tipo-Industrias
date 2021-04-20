@@ -80,7 +80,7 @@ el performce fue:
     macro avg      0.53      0.93      0.54     99683
     weighted avg   1.00      0.97      0.98     99683  
     
-  Su precicion para la clase de Fraudes fue muy malo pero su recall Aumento  
+  Su precicion para la clase de Fraudes fue muy bajo,  su recall Aumneto al 89% 
   
   **Logistic Regression with class weigths**:  utilizamos un peso para la compensar la clase desbalanceada. 
   para esto dividimos la cantidad de la clase 0 enre la clase 1. ejemplo:
@@ -104,7 +104,49 @@ el performce fue:
     
     Obtuvo comparado con el anterior obtuvo un ligero incremeto en la precision y el f1, pero sigue siendo muy bajos.    
     
-  **Logistic regression SMOTE:**  se utiliza para genrear datos sintéticos, utiliza un vecino más cercano para generar datos nuevos
+  **Logistic regression SMOTE(OverSampling):**  se utiliza para genrear datos sintéticos, utiliza un vecino más cercano para generar datos nuevos.
+  
+  Nuestra clase ahora tiene los siguientes valores:  
+  0 = 284,315
+  1 = 284,315  
+  
+                  precision    recall  f1-score   support
+
+        normal       0.97      0.99      0.98     99316
+       fraudes       0.99      0.97      0.98     99705
+
+      accuracy                           0.98    199021
+     macro avg       0.98      0.98      0.98    199021
+    weighted avg     0.98      0.98      0.98    199021  
+    
+    
+ Con esta estrategia de logramos balancear las clases y lograr un mejor performace general del modelo, su desventaja consite en que pude estasn:
+ - Nos aumenta la data.
+ - Incremeta el tiempo de entrenamiento
+ - podemos alterar la distribución “natural” de esa clase y confundir al modelo en su clasificación  
+
+**Logistic Regression Udernsampling:** elimina las  muestras de la clase mayoritaria para reducirlo e intentar equilibrar la situación. Tiene como “peligroso” o desventaja que podemos prescindir de muestras importantes, que brindan información y por lo tanto empeorar el modelo. Entonces para seleccionar qué muestras eliminar, deberíamos seguir algún criterio.  
+
+
+0 = 492  
+1 = 492  
+
+  
+                precision    recall  f1-score   support
+
+      normal       0.92      0.99      0.96       129
+     fraudes       0.99      0.91      0.95       117
+
+    accuracy                           0.95       246
+    macro avg      0.96      0.95      0.95       246
+    weighted avg   0.95      0.95      0.95       246
+    
+  
+  sus resultados son muy buenos de 95% de accuracy, muy buen recall y presicion, comparandolo con la esrategia de Oversampling esta tiene la ventaja en cuanto al tiempo de entrenamiento.  
+  
+  
+  
+
 
 
 
