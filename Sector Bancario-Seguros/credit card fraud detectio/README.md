@@ -192,7 +192,7 @@ Trainable params: 119,265
 Non-trainable params: 192  
 
 las métricas de evaluación:  
-0s 17ms/step - loss: 0.1821 - accuracy: 0.9365 - val_loss: 0.2059 - val_accuracy: 0.91
+0s 17ms/step - loss: 0.1821 - accuracy: 0.9365 - val_loss: 0.2059 - val_accuracy: 0.91  
 ![accsin] ![losssin]
 
 
@@ -202,7 +202,7 @@ Trainable params: 29,153
 Non-trainable params: 192
 
 las métricas de evaluación:  
-0s 14ms/step - loss: 0.1953 - accuracy: 0.9292 - val_loss: 0.2456 - val_accuracy: 0.90
+0s 14ms/step - loss: 0.1953 - accuracy: 0.9292 - val_loss: 0.2456 - val_accuracy: 0.90  
 ![accmax] ![lossmax]
 
 
