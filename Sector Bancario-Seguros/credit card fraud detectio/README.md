@@ -24,11 +24,12 @@ composión de los datos: **284,807** registros y **31** características o varia
 **Target** o la variable de destino contiene 0(Transacciones Normales)= 28,4315 y 1(Fraudes) = 492, esto representa un 99.83% las transacciones de tipo 0 y el 0.17% para las transaciones de tipo 1. *Este conjunto de datos está muy desequilibrado, ya que  la clase 1(fraudes) representa el 0.17% de todas las transacciones*.  
 ![class]  
 
-  
+
+![history]
 
 ![displot]
 ![box plot]
-![history]
+
 ![trans fraud]
  
 
