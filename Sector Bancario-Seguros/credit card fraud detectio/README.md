@@ -34,8 +34,22 @@ Para las transaciones de tipo normal berificamos que los montos mayores van desd
 **Análisis de las transaciones de tipo fraude**  
 ![trans fraud]  
 
-Como podemos observar en el Gráfico,  transaciones de fraude tienen la perticularidad de tener importe desde  0 hasta 252 siendo montos minimos pero efectuados con una cantidad de veces mayor. 
- 
+Como podemos observar en el Gráfico,  transaciones de fraude tienen la particularidad de tener importe desde  0 hasta 252 siendo montos minimos pero efectuados con una cantidad de veces mayor.  
+
+## Modelos Aplicados:
+1. Logistic Regression
+2. Stacking Models
+3. Convulational Neural Net
+
+1. **Logistic Regression:** Aplicamos varios tipos de tecnicas que van desde:
+    - Regression Logistica Normal.
+   - Logistic Regression with balanced class weigths
+   - Logistic  Regression with class weigths
+   - Logistic regression SMOTE.
+   - Logistic Regression Udernsampling  
+
+
+   
 
 
 [box plot]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/boxplot_amount.png
