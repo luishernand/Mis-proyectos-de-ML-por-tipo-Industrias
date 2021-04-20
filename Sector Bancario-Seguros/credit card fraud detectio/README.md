@@ -206,8 +206,18 @@ las métricas de evaluación:
 ![accmax] ![lossmax]
 
 
+## Conclusión  
 
- 
+Aplicamos modelos taanto de machine learning como Deep learning para este conjunto de datos muy desbalanceado. Es muy frecuente encontrarnos con datasets con clases desbalanceadas, de hecho… lo más raro sería encontrar datasets bien equilibrados, aplicamos diversas estrategias a seguir para combatir esta problemática: eliminar muestras del set mayoritario, crear muestras sintéticas con algún criterio, ensamble y penalización. 
+
+Además revisamos la Matriz de Confusión y comprendimos que las métricas pueden ser engañosas, si miramos a nuestros aciertos únicamente, puede que pensemos que tenemos un buen clasificador, cuando realmente está fallando. 
+
+
+Para nosostros la mejor estrategia  para datos de desbalance para este tipo de datos es la de undersampling  y nuestro mejor modelo de entrenamiento seria la de fusionar o realizar stacking con varios modelos, asi evitariamos el overfitting.
+
+
+
+
 
 
   
