@@ -146,7 +146,7 @@ el performce fue:
   
 **Confussion Matrix:**  
 
-![lr] ![smote] ![undersampling] ![balanced]
+![lr]  ![balanced] 1[weigth] ![smote] ![undersampling]
   
 
 
@@ -175,4 +175,6 @@ el performce fue:
 
 [lr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr.png  
 
-[smote]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr_smote.png
+[smote]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr_smote.png  
+
+[weigth]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/class%20weigth.png
