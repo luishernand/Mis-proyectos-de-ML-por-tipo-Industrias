@@ -185,23 +185,23 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
 
 Podemos obeservar que la combinación de varios modelos nos un mejor resultado.  
 
-3. Convulational Neural Net: 
-**Conv1d sin maxpol:**   
+3. Convulational Neural Net:  
+**Conv1d sin maxpol:**     
 Total params: 119,457
 Trainable params: 119,265
 Non-trainable params: 192  
 
-las métricas de evaluación:
+las métricas de evaluación:  
 0s 17ms/step - loss: 0.1821 - accuracy: 0.9365 - val_loss: 0.2059 - val_accuracy: 0.91
 
 
 
-**Convd1 con Maxpol1d:  
+**Convd1 con Maxpol1d:**    
 Total params: 29,345
 Trainable params: 29,153
 Non-trainable params: 192
 
-las métricas de evaluación:
+las métricas de evaluación:  
 0s 14ms/step - loss: 0.1953 - accuracy: 0.9292 - val_loss: 0.2456 - val_accuracy: 0.90
 
 
