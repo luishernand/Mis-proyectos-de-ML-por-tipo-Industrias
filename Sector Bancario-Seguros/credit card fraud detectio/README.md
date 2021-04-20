@@ -187,7 +187,7 @@ Podemos obeservar que la combinación de varios modelos nos un mejor resultado.
 
 3. Convulational Neural Net: 
  
- Model: "sequential"
+            Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -220,9 +220,6 @@ Non-trainable params: 192
   
 
   
-**Confussion Matrix:**  
-
-![lr]  ![balanced] ![weigth] ![smote] ![undersampling]  ![stack]  
 
 
 
