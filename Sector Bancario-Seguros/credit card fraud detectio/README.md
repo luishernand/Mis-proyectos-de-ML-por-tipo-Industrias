@@ -62,7 +62,10 @@ El Performace fue:
     macro avg      0.91      0.80      0.85     99683
     weighted avg   1.00      1.00      1.00     99683  
     
-    
+  Podemos Observar que tiene una muy buena precision pero no posee buen recal de la clase de fraudes.  
+  
+ **Logistic Regression with balanced class weigths:** Entrenamos el modelo con el parametro siguiente: 
+ ```LogisticRegression(C = 1e5, max_iter=500, class_weight='balanced')```
 
 
 
