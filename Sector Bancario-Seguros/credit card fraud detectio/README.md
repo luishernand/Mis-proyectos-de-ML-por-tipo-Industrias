@@ -146,7 +146,29 @@ el performce fue:
   
 **Confussion Matrix:**  
 
-![lr]  ![balanced] ![weigth] ![smote] ![undersampling]
+![lr]  ![balanced] ![weigth] ![smote] ![undersampling]  
+
+2. Stacking Models:  Utiliza un algoritmo de meta aprendizaje para aprender cómo combinar mejor las predicciones de dos o más algoritmos básicos de Machine Learning. El beneficio del apilamiento es que puede aprovechar las capacidades de una variedad de modelos de buen desempeño en una tarea de clasificación o regresión y hacer predicciones que tienen un mejor desempeño que cualquier modelo individual en el conjunto.  
+
+para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:  
+- KNeighborsClassifier.
+- SVC
+- DecisionTreeClassifier
+- RandomForestClassifier 
+- MLPClassifier 
+
+* Evaluación Stacking:  
+            
+                  precision    recall  f1-score   support
+
+        normal       0.95      0.97      0.96        99
+         fraudes     0.97      0.95      0.96        98
+
+        accuracy                         0.96       197
+        macro avg    0.96      0.96      0.96       197
+        eighted avg  0.96      0.96      0.96       197
+        
+        
   
 
 
