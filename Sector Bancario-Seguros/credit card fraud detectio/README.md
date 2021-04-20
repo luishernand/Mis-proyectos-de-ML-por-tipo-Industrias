@@ -8,15 +8,26 @@ Cada año, se pierden miles de millones de dinero debido al fraude con tarjetas 
 ## Conjunto de Datos   
 Los datos fueron obtenidos desde: https://www.kaggle.com/mlg-ulb/creditcardfraud  
 El conjunto de datos contiene transacciones realizadas con tarjetas de crédito en septiembre de 2013 por titulares de tarjetas europeos.
-consta de **284,807** observaciones y **31** características,  solo con variables de entrada numéricas que son el resultado de una transformación PCA. Desafortunadamente, debido a problemas de confidencialidad, no podemos proporcionar las características originales y más información de fondo sobre los datos. Las características V1, V2,… V28 son los componentes principales obtenidos con PCA, las únicas características que no se han transformado con PCA son 'Time' y 'Amount'. .
+Las variables de entrada son  numéricas,  que son el resultado de una transformación PCA. Desafortunadamente, debido a problemas de confidencialidad, no podemos proporcionar las características originales y más información de fondo sobre los datos. Las características V1, V2,… V28 son los componentes principales obtenidos con PCA, las únicas características que no se han transformado con PCA son 'Time' y 'Amount'.
 
-composión de los datos:
+composión de los datos: **284,807** registros y **31** características o variables.
 |variables|Descripción|
 |---------|-----------|
 |Time|los segundos transcurridos entre cada transacción y la primera transacción en el conjunto de datos|
 |Amount|el Importe de la transacción|
-|Class|es la variable de respuesta y toma el valor 1 en caso de fraude y 0 en caso contrario|
-|V1....V28|Variables de entrada numéricas|
+|V1....V28|Variables de entrada numéricas|  
+
+
+**Target es Class:** es la variable de respuesta y toma el valor 1 en caso de fraude y 0 en caso contrario.  
+
+## Análisis de datos Exploratorio(EDA)  
+Target o la variable de destino contiene 0(Transacciones Normales)= 28,4315 y 1(Fraudes) = 492  
+![class]  
+
+esto representa un 99.83% las transacciones de tipo 0 y el 0.17% para las transaciones de tipo 1.
+
+*Este conjunto de datos está muy desequilibrado, la clase 1(fraudes) representa el 0.17% de todas las transacciones*.
+
  
 
 
