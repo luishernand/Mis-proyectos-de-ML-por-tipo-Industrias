@@ -187,9 +187,9 @@ Podemos obeservar que la combinación de varios modelos nos un mejor resultado.
 
 3. Convulational Neural Net: 
  
-            Model: "sequential"
+Model: sequential
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 =================================================================
 conv1d (Conv1D)              (None, 29, 32)            96        
 _________________________________________________________________
