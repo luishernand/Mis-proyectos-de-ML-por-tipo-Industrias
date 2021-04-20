@@ -146,7 +146,7 @@ el performce fue:
   
 **Confussion Matrix:**  
 
-![lr]  ![balanced] 1[weigth] ![smote] ![undersampling]
+![lr]  ![balanced] ![weigth] ![smote] ![undersampling]
   
 
 
