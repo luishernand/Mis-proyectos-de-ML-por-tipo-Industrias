@@ -51,8 +51,18 @@ Como podemos observar en el Gráfico,  transaciones de fraude tienen la particul
 
 **Regression Logistica Normal**  
 Aplicamos el modelo de Ml normal sin aplicar ninguna técnica para los tipos de datos desbalanceados. 
+El Performace fue:  
 
-*score*
+                 precision    recall  f1-score   support
+
+      normal       1.00      1.00      1.00     99507
+     fraudes       0.82      0.60      0.69       176
+
+    accuracy                           1.00     99683
+    macro avg      0.91      0.80      0.85     99683
+    weighted avg   1.00      1.00      1.00     99683  
+    
+    
 
 
 
