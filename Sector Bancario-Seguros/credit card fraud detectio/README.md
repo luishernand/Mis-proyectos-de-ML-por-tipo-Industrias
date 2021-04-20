@@ -25,10 +25,11 @@ composión de los datos: **284,807** registros y **31** características o varia
 ![class]  
 
 
-![history] Podemos Observar los importes que van desde 0 hasta por encima de los 25, mil Dolares.  
+![history]  
+Podemos Observar los importes que van desde 0 hasta por encima de los 25, mil Dolares.  
 
-![displot]
-![box plot]
+**Outlliers**
+![displot] ![box plot]
 
 ![trans fraud]
  
