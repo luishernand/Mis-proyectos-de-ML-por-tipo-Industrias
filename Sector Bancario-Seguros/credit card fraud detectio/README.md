@@ -25,7 +25,7 @@ composión de los datos: **284,807** registros y **31** características o varia
 ![class]  
 
 
-![history]
+![history] Podemos Observar los importes que van desde 0 hasta por encima de los 25, mil Dolares.  
 
 ![displot]
 ![box plot]
