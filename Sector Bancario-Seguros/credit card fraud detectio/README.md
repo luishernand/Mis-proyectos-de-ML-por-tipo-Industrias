@@ -27,7 +27,9 @@ composión de los datos: **284,807** registros y **31** características o varia
 esto representa un 99.83% las transacciones de tipo 0 y el 0.17% para las transaciones de tipo 1. *Este conjunto de datos está muy desequilibrado, ya que  la clase 1(fraudes) representa el 0.17% de todas las transacciones*.  
 
 ![displot]
-
+![box plot]
+![history]
+![trans fraud]
  
 
 
