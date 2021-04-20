@@ -186,34 +186,23 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
 Podemos obeservar que la combinación de varios modelos nos un mejor resultado.  
 
 3. Convulational Neural Net: 
- 
-Model: sequential
-
-|Layer (type)|                 Output Shape|              Param |   
-|------------|-----------------------------|--------------------|
-  |conv1d (Conv1D)|              (None, 29, 32)|            96  |      
-
-  |batch_normalization| (BatchNo (None, 29, 32) |           128|       
-
-  |dropout (Dropout)  |          (None, 29, 32) |           0|         
-
-  |conv1d_1 (Conv1D) |           (None, 28, 64) |           4160|      
-
-  |batch_normalization_1 |(Batch (None, 28, 64)  |          256|       
-
-  |dropout_1 (Dropout)  |        (None, 28, 64) |           0  |       
-
-  |flatten (Flatten)            (None, 1792)|              0  |       
-
-  |dense (Dense)   |             (None, 64)                114752 |   
-
-  |dropout_2 (Dropout)  |        (None, 64)                0 |        
-
-  |dense_1 (Dense)  |            (None, 1) |                65 |       
-
+**Conv1d sin maxpol:**   
 Total params: 119,457
 Trainable params: 119,265
 Non-trainable params: 192  
+
+las métricas de evaluación:
+0s 17ms/step - loss: 0.1821 - accuracy: 0.9365 - val_loss: 0.2059 - val_accuracy: 0.91
+
+
+
+**Convd1 con Maxpol1d:  
+Total params: 29,345
+Trainable params: 29,153
+Non-trainable params: 192
+
+las métricas de evaluación:
+0s 14ms/step - loss: 0.1953 - accuracy: 0.9292 - val_loss: 0.2456 - val_accuracy: 0.90
 
 
 
