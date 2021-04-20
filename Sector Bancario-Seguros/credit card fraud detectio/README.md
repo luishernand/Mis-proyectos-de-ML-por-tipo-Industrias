@@ -68,6 +68,18 @@ El Performace fue:
  ``` python 
  LogisticRegression(C = 1e5, max_iter=500, class_weight='balanced')
  ```
+el performce fue: 
+                
+                precision    recall  f1-score   support
+
+      normal       1.00      0.97      0.99     99507
+     fraudes       0.05      0.89      0.10       176
+
+    accuracy                           0.97     99683
+    macro avg      0.53      0.93      0.54     99683
+    weighted avg   1.00      0.97      0.98     99683  
+    
+  Su precicion para la clase de Fraudes fue muy malo pero su recall Aumento 
 
 
 
