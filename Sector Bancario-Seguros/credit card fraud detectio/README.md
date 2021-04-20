@@ -143,10 +143,7 @@ el performce fue:
     
   
   sus resultados son muy buenos de 95% de accuracy, muy buen recall y presicion, comparandolo con la esrategia de Oversampling esta tiene la ventaja en cuanto al tiempo de entrenamiento.  
-  
-**Confussion Matrix:**  
 
-![lr]  ![balanced] ![weigth] ![smote] ![undersampling]  
 
 2. Stacking Models:  Utiliza un algoritmo de meta aprendizaje para aprender cómo combinar mejor las predicciones de dos o más algoritmos básicos de Machine Learning. El beneficio del apilamiento es que puede aprovechar las capacidades de una variedad de modelos de buen desempeño en una tarea de clasificación o regresión y hacer predicciones que tienen un mejor desempeño que cualquier modelo individual en el conjunto.  
 
@@ -168,8 +165,7 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
   |knn	|0.680203	|0.360375	|0.676923|  
   |svc	|0.517766	|0.124987	|0.059406|  
 
-![stack]  
-
+  
             
                   precision    recall  f1-score   support
 
@@ -180,10 +176,53 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
         macro avg    0.96      0.96      0.96       197
         eighted avg  0.96      0.96      0.96       197
         
+   El performace de es muy bueno de un 96% y muy buen recall
    
+     
+**Confussion Matrix:**  
+
+![lr]  ![balanced] ![weigth] ![smote] ![undersampling]  ![stack]  
+
+Podemos obeservar que la combinación de varios modelos nos un mejor resultado.  
+
+3. Convulational Neural Net: 
  
- 
+ Model: "sequential"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+conv1d (Conv1D)              (None, 29, 32)            96        
+_________________________________________________________________
+batch_normalization (BatchNo (None, 29, 32)            128       
+_________________________________________________________________
+dropout (Dropout)            (None, 29, 32)            0         
+_________________________________________________________________
+conv1d_1 (Conv1D)            (None, 28, 64)            4160      
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 28, 64)            256       
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 28, 64)            0         
+_________________________________________________________________
+flatten (Flatten)            (None, 1792)              0         
+_________________________________________________________________
+dense (Dense)                (None, 64)                114752    
+_________________________________________________________________
+dropout_2 (Dropout)          (None, 64)                0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 1)                 65        
+=================================================================
+Total params: 119,457
+Trainable params: 119,265
+Non-trainable params: 192  
+
+
+
   
+
+  
+**Confussion Matrix:**  
+
+![lr]  ![balanced] ![weigth] ![smote] ![undersampling]  ![stack]  
 
 
 
