@@ -191,25 +191,25 @@ Model: sequential
 
 |Layer (type)|                 Output Shape|              Param |   
 |------------|-----------------------------|--------------------|
-|conv1d (Conv1D)|              (None, 29, 32)|            96  |      
+  |conv1d (Conv1D)|              (None, 29, 32)|            96  |      
 
-|batch_normalization| (BatchNo (None, 29, 32) |           128|       
+  |batch_normalization| (BatchNo (None, 29, 32) |           128|       
 
-|dropout (Dropout)  |          (None, 29, 32) |           0|         
+  |dropout (Dropout)  |          (None, 29, 32) |           0|         
 
-|conv1d_1 (Conv1D) |           (None, 28, 64) |           4160|      
+  |conv1d_1 (Conv1D) |           (None, 28, 64) |           4160|      
 
-|batch_normalization_1 |(Batch (None, 28, 64)  |          256|       
+  |batch_normalization_1 |(Batch (None, 28, 64)  |          256|       
 
-|dropout_1 (Dropout)  |        (None, 28, 64) |           0  |       
+  |dropout_1 (Dropout)  |        (None, 28, 64) |           0  |       
 
-|flatten (Flatten)            (None, 1792)|              0  |       
+  |flatten (Flatten)            (None, 1792)|              0  |       
 
-|dense (Dense)   |             (None, 64)                114752 |   
+  |dense (Dense)   |             (None, 64)                114752 |   
 
-|dropout_2 (Dropout)  |        (None, 64)                0 |        
+  |dropout_2 (Dropout)  |        (None, 64)                0 |        
 
-|dense_1 (Dense)  |            (None, 1) |                65 |       
+  |dense_1 (Dense)  |            (None, 1) |                65 |       
 
 Total params: 119,457
 Trainable params: 119,265
