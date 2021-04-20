@@ -193,7 +193,7 @@ Non-trainable params: 192
 
 las métricas de evaluación:  
 0s 17ms/step - loss: 0.1821 - accuracy: 0.9365 - val_loss: 0.2059 - val_accuracy: 0.91
-
+![accsin] ![losssin]
 
 
 **Convd1 con Maxpol1d:**    
@@ -203,7 +203,11 @@ Non-trainable params: 192
 
 las métricas de evaluación:  
 0s 14ms/step - loss: 0.1953 - accuracy: 0.9292 - val_loss: 0.2456 - val_accuracy: 0.90
+![accmax] ![lossmax]
 
+
+
+ 
 
 
   
@@ -241,3 +245,12 @@ las métricas de evaluación:
 [weigth]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/class%20weigth.png  
 
 [stack]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/mtx_stack.png
+
+[lossmax]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/loss_maxpoling.png
+
+[losssin]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/loss_sin%20max.png 
+
+[accmax]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/acc_maxpoling.png  
+
+[accsin]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/acc_sinmax.png
+
