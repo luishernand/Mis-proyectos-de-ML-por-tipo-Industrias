@@ -65,7 +65,7 @@ El Performace fue:
     
   Podemos Observar que tiene una muy buena precision pero no posee buen recal de la clase de fraudes.  
   
- **Logistic Regression with balanced class weigths:** Entrenamos el modelo con el parametro siguiente: 
+ **Logistic Regression with balanced class weigths:** es una  estrategia de penalización para compensar los datos desbalanceados. Utilizaremos un parámetro adicional en el modelo de Regresión logística en donde indicamos weight = “balanced” y con esto el algoritmo se encargará de equilibrar a la clase minoritaria durante el entrenamiento. Veamos:  
  ``` python 
  LogisticRegression(C = 1e5, max_iter=500, class_weight='balanced')
  ```
@@ -80,7 +80,31 @@ el performce fue:
     macro avg      0.53      0.93      0.54     99683
     weighted avg   1.00      0.97      0.98     99683  
     
-  Su precicion para la clase de Fraudes fue muy malo pero su recall Aumento 
+  Su precicion para la clase de Fraudes fue muy malo pero su recall Aumento  
+  
+  **Logistic Regression with class weigths**:  utilizamos un peso para la compensar la clase desbalanceada. 
+  para esto dividimos la cantidad de la clase 0 enre la clase 1. ejemplo:
+  284315/492 = 57.55.
+  
+  ```python
+  class_weigth = {1:57.55}
+  LogisticRegression(C = 1e5, max_iter=500, class_weight=class_weigth)
+  ```  
+  
+  en cunato a score nos arrojo:  
+                  
+                precision    recall  f1-score   support
+
+      normal       1.00      0.99      1.00     99507
+     fraudes       0.17      0.83      0.28       176
+
+    accuracy                           0.99     99683
+    macro avg      0.58      0.91      0.64     99683
+    weighted avg   1.00      0.99      0.99     99683  
+    
+    Obtuvo comparado con el anterior obtuvo un ligero incremeto en la precision y el f1, pero sigue siendo muy bajos.    
+    
+  **Logistic regression SMOTE:**  se utiliza para genrear datos sintéticos, utiliza un vecino más cercano para generar datos nuevos
 
 
 
