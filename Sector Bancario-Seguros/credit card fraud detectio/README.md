@@ -158,6 +158,18 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
 - MLPClassifier 
 
 * Evaluación Stacking:  
+
+  |Modelos  |acc	| mcc	|f1|
+  |-----|-----|---------|---|
+|rf	|0.959391	|0.919522	|0.958333|
+|stack	|0.959391	|0.918961	|0.958763|
+|dt	|0.928934	|0.857864	|0.928571|
+|mlp	|0.908629	|0.828120	|0.900000|
+|knn	|0.680203	|0.360375	|0.676923|
+|svc	|0.517766	|0.124987	|0.059406|
+
+![stack]  
+
             
                   precision    recall  f1-score   support
 
@@ -168,7 +180,9 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
         macro avg    0.96      0.96      0.96       197
         eighted avg  0.96      0.96      0.96       197
         
-        
+   
+ 
+ 
   
 
 
@@ -199,4 +213,6 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
 
 [smote]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/lr_smote.png  
 
-[weigth]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/class%20weigth.png
+[weigth]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/class%20weigth.png  
+
+[stack]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/mtx_stack.png
