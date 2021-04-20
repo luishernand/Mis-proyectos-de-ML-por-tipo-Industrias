@@ -49,7 +49,11 @@ Como podemos observar en el Gráfico,  transaciones de fraude tienen la particul
    - Logistic Regression Udernsampling  
 
 
-   
+**Regression Logistica Normal**  
+Aplicamos el modelo de Ml normal sin aplicar ninguna técnica para los tipos de datos desbalanceados. 
+
+*score*
+
 
 
 [box plot]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/archivos_data_imagen/boxplot_amount.png
