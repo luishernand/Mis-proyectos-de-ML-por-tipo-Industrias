@@ -217,8 +217,15 @@ Para nosostros la mejor estrategia  para datos de desbalance para este tipo de d
 
 
 
+# Notebooks  
+
+1. [Análisis de Datos Exploratorio](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/Credit%20Fraud%20detection%20EDA.ipynb).
+2. [logistic Regression](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/modelos%20de%20machine%20learning/modelo%20logistic%20regression.ipynb)
+3. [Stacking Models](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/modelos%20de%20machine%20learning/Stack%20Models.ipynb).
+4. [Neaural NET ](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/modelos%20de%20machine%20learning/Neural%20Net.ipynb)  
 
 
+        Creado por:  Luis Hernández   email:   luishernand11@gmail.com
 
   
 
