@@ -67,7 +67,7 @@ estima la verdadera función de densidad acumulativa subyacente de los puntos en
 ![f2]  
 
 **3. Distribución de las Ventas**  
-![f4]  
+![f3]  
 - Hay 172,871 tiendas sin ventas
 - comprendido entre '2015-07-29' y '2015-07-31'
 - hay 54 tiendas que fueron abiertas sin ventas  
@@ -80,10 +80,26 @@ estima la verdadera función de densidad acumulativa subyacente de los puntos en
      a       6925.697986
      d       6822.300064
 
+                      count	       mean	             std	     min	    25%	     50%	        75%   	  max
+    StoreType								
+      a	             457042.0  	 6925.697986	  3277.351589	   46.0	  4695.25	  6285.0	   8406.00	   41551.0
+      b	              15560.0	  10233.380141	  5155.729868	 1252.0	  6345.75	  9130.0	  13184.25	   38722.0
+      c	             112968.0	   6933.126425	  2896.958579	  133.0	  4916.00	  6408.0	   8349.25	   31448.0
+      d	             258768.0	   6822.300064	  2556.401455	  538.0	  5050.00	  6395.0	   8123.25	   38037.0
 
+- el tipo de tienda B es la de mayor promedio de ventas
+- las ventas minimas de B son mayores que las demas
+- el tipo de tienda a optiene ventas maximas de 41,551  
 
+![f4]
+![f5]
+![f6]
+![f7]  
 
-
+- La tendencia de las ventas con promoción es ascendente
+- El mes con mayor tendencia ascendente es diciembre
+- Los dias que no participa de promoción de mayor venta son viernes y domingo
+- Los lunes cunado hay promoción  
 
 
 
