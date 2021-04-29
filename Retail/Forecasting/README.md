@@ -122,7 +122,7 @@ Podemos leer estos gráficos horizontalmente. Cada par horizontal es para un 'St
 
 - Tipo C y tipo D: las parcelas de estos dos tipos son más complejas. Parece que cada observación está correlacionada con sus observaciones adyacentes.  
 
-## ime Series Analysis and Forecasting with Prophet  
+## Time Series Analysis and Forecasting with Prophet  
 ![t1]  
 - Podemos Observar el que las ventas se incrementan en temporada navideña. 
 - Período de los datos 01-01-2013 hasta 31-7-2015.
@@ -140,14 +140,27 @@ Durante esta parte, discutimos el análisis de series de tiempo con gráficos .s
 Ahora podemos presentar las principales ventajas e inconvenientes de la predicción de series de tiempo:  
 
 **Ventajas**
-Potente herramienta para el pronóstico de series de tiempo, ya que tiene en cuenta las dependencias del tiempo, las estaciones y los días festivos (Prophet: manualy).
-Se implementa fácilmente con R auto.arima () del paquete de pronóstico, que ejecuta una búsqueda de cuadrícula compleja y un - algoritmo sofisticado detrás de escena.
+- Potente herramienta para el pronóstico de series de tiempo, ya que tiene en cuenta las dependencias del tiempo, las estaciones y los días festivos (Prophet: manualy).
+- Se implementa fácilmente con R auto.arima () del paquete de pronóstico, que ejecuta una búsqueda de cuadrícula compleja y un - algoritmo sofisticado detrás de escena.
 
 **Inconvenientes**  
-No detecta interacciones entre características externas, lo que podría mejorar el poder de pronóstico de un modelo. En nuestro caso, estas variables son Promo y CompetitionOpen.  
-Aunque Prophet ofrece una solución automatizada para ARIMA, esta metodología está en desarrollo y no es completamente estable.
-El ajuste del modelo ARIMA estacional necesita de 4 a 5 temporadas completas en el conjunto de datos, lo que puede ser el mayor inconveniente para las nuevas empresas.
-ARIMA estacional en Python tiene 7 hiperparámetros que solo se pueden ajustar manualmente, lo que afecta significativamente la velocidad del proceso de pronóstico.
+- No detecta interacciones entre características externas, lo que podría mejorar el poder de pronóstico de un modelo. En nuestro caso, estas variables son Promo y CompetitionOpen.  
+- Aunque Prophet ofrece una solución automatizada para ARIMA, esta metodología está en desarrollo y no es completamente estable.
+- El ajuste del modelo ARIMA estacional necesita de 4 a 5 temporadas completas en el conjunto de datos, lo que puede ser el mayor inconveniente para las nuevas empresas.
+- ARIMA estacional en Python tiene 7 hiperparámetros que solo se pueden ajustar manualmente, lo que afecta significativamente la velocidad del proceso de pronóstico.  
+
+## Pronóstico con XGBRegressor  
+
+```python
+XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.300000012, max_delta_step=0, max_depth=6,
+             min_child_weight=1, missing=nan, monotone_constraints='()',
+             n_estimators=100, n_jobs=4, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+             tree_method='exact', validate_parameters=1, verbosity=None)
+```  
 
 
 
