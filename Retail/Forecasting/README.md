@@ -192,6 +192,10 @@ Con respecto al modelo XGboost, se puede utilizar LightGBM, una biblioteca poten
 3. [Modelo XGboost](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/notebooks/model.ipynb) 
 
 
+puede visitar para fines de consulta mi repositorio [forecasting](https://github.com/luishernand/Forecasting) donde hay otros trabajos realizados con fbprophet
+
+
+        Creado por:  Luis Hernández   email:   luishernand11@gmail.com
 
 
 
