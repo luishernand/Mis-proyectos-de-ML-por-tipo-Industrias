@@ -14,8 +14,7 @@ Esto permitirá que detectemos los problemas con anterioridad por lo que podremo
 
  
 
-Funcionamiento
-
+**Funcionamiento**  
 Existen múltiples métodos para realizar un forecast dependiendo del tamaño y sector de la empresa. Lo importante es que sea lo más fiable posible ya que es la base sobre la que tomaremos decisiones que afectarán al porvenir de la empresa.
 
 
