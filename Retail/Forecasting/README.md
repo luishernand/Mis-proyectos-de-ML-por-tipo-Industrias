@@ -151,6 +151,7 @@ Ahora podemos presentar las principales ventajas e inconvenientes de la predicci
 
 ## Pronóstico con XGBRegressor  
 
+Parámetros: 
 ```python
 XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
              colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
@@ -162,6 +163,11 @@ XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
              tree_method='exact', validate_parameters=1, verbosity=None)
 ```  
 
+**Evaluación**  
+
+R2, el coeficiente de determinación, determina la capacidad de un modelo para predecir futuros resultados. El mejor resultado posible es 1.0, y ocurre cuando la predicción coincide con los valores de la variable objetivo. R2 puede tomar valores negativos pues la predicción puede ser arbitrariamente mala. Cuando la predicción coincide con la esperanza de los valores de la variable objetivo, el resultado de R2 es 0. Se define como 1 menos la suma de cuadrados totales dividido por la suma de cuadrados de los residuos.
+
+resultado: 0.9993151904235793
 
 
 
