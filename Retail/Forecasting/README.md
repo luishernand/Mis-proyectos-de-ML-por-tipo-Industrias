@@ -53,12 +53,13 @@ composión de los datos de store.csv: **1115** registros y **10** característic
 
 ## Análisis de datos Exploratorio(EDA)  
 
-** Distribución de las variables catégoricas**  
+**Distribución de las variables catégoricas**  
 ![f1]  
+- El tipo de tienda **(a)** posee la mayor cantidad de registros.
+- El  surtido(Assortment) de mayor predominio es el básico. 
+- La temporada de mayor promoción es jan, april, jul, oct. 
 
-- El tipo de tienda **a** posee la mayor cantidad de registros
-- El  surtido(Assortment) de mayor predominio es el básico 
-- La temporada de mayor promoción es jan, april, jul, oct  
+
 
 
 
