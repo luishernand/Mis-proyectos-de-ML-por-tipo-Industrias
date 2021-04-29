@@ -63,8 +63,23 @@ composión de los datos de store.csv: **1115** registros y **10** característic
 es de **9.49** dolares  
 
 **3. ECDF: función de distribución acumulativa empírica**  
-estima la verdadera función de densidad acumulativa subyacente de los puntos en la muestra; Se garantiza virtualmente que converge con la distribución verdadera a medida que el tamaño de la muestra se hace lo suficientemente grande  
+estima la verdadera función de densidad acumulativa subyacente de los puntos en la muestra; Se garantiza virtualmente que converge con la distribución verdadera a medida que el tamaño de la muestra se hace lo suficientemente grande. Análizamos las variables: Sales, Customers y salespercustomers respectivamente.  
 ![f2]  
+
+**3. Distribución de las Ventas**  
+![f4]  
+- Hay 172,871 tiendas sin ventas
+- comprendido entre '2015-07-29' y '2015-07-31'
+- hay 54 tiendas que fueron abiertas sin ventas  
+
+**4. StoreType**  
+    
+    Stores  Promedio de ventas
+     b       10233.380141
+     c       6933.126425
+     a       6925.697986
+     d       6822.300064
+
 
 
 
