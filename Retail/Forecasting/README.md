@@ -22,3 +22,16 @@ Existen múltiples métodos para realizar un forecast dependiendo del tamaño y 
 
 
 [logo]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/ab299b25ce9fe14e778f95b44f7ac322a2fc0e2f/Retail/Forecasting/files/imagenes/logo.jpg
+[f1]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f1.png
+[f2]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f2.png
+[f3]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f3.png
+[f4]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f4.png
+[f5]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f5.png
+[f6]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f6.png
+[f7]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f7.png
+[f8]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f8.png
+[f9]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/f9.png
+[t1]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/t1.png
+[t2]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/t2.png
+[t3]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/t3.png
+[m1]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/imagenes/m1.png
