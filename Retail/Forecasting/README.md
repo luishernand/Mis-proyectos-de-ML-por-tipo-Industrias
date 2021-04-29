@@ -122,6 +122,21 @@ Podemos leer estos gráficos horizontalmente. Cada par horizontal es para un 'St
 
 - Tipo C y tipo D: las parcelas de estos dos tipos son más complejas. Parece que cada observación está correlacionada con sus observaciones adyacentes.  
 
+## ime Series Analysis and Forecasting with Prophet  
+![t1]  
+- Podemos Observar el que las ventas se incrementan en temporada navideña. 
+- Período de los datos 01-01-2013 hasta 31-7-2015.
+- Realizaremos un pronóstico de 42 días (11-9-2015). 
+
+
+![t2]  
+Prophet traza los valores observados de nuestra serie de tiempo (los puntos negros), los valores pronosticados (línea azul) y los intervalos de incertidumbre de nuestros pronósticos (las regiones sombreadas en azul).  
+![t3]  
+La primera gráfica muestra que las ventas mensuales de la tienda número 1 han ido disminuyendo linealmente con el tiempo y la segunda muestra las brechas de vacaciones incluidas en el modelo. El tercer gráfico destaca el hecho de que el volumen semanal de ventas de la semana pasada alcanza su punto máximo hacia el lunes de la semana siguiente, mientras que el cuarto gráfico muestra que la temporada de mayor actividad se produce durante las vacaciones de Navidad.  
+
+
+
+
 
 
 [logo]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/ab299b25ce9fe14e778f95b44f7ac322a2fc0e2f/Retail/Forecasting/files/imagenes/logo.jpg
