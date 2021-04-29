@@ -101,6 +101,26 @@ estima la verdadera función de densidad acumulativa subyacente de los puntos en
 - Los dias que no participa de promoción de mayor venta son viernes y domingo
 - Los lunes cunado hay promoción  
 
+**5. Times Series**  
+![8]  
+- Las ventas por tipo de tienda a y c alcanzan su punto maximo en temporada navideña.
+- En las tiendas de tipo D fuera posible su tope máximo en temporada navideña pero no tenemos datos emtre jul 2014 y enero 2015.  
+
+**6. Autocorrelation**  
+El siguiente paso en el análisis de nuestra serie temporal es revisar los gráficos de la función de autocorrelación (ACF) y la función de autocorrelación parcial (PACF).  
+
+ACF es una medida de la correlación entre la serie temporal con una versión retrasada de sí misma. Por ejemplo, en el retraso 5, ACF compararía series en el instante de tiempo "t1" ... "tn" con series en el instante "t1-5" ... "tn-5" (t1-5 y tn son puntos finales).   
+
+PACF, por otro lado, mide la correlación entre las series temporales con una versión rezagada de sí misma, pero después de eliminar las variaciones explicadas por las comparaciones intermedias. P.ej. en el rezago 5, comprobará la correlación pero eliminará los efectos ya explicados por los rezagos 1 a 4  
+![9] 
+
+Podemos leer estos gráficos horizontalmente. Cada par horizontal es para un 'StoreType', de A a D. En general, esos gráficos muestran la correlación de la serie consigo misma, rezagada por x unidades de tiempo correlación de la serie consigo misma, rezagada por x unidades de tiempo.  
+
+- Hay dos cosas en común para cada par de gráficos: no aleatorias de la serie de tiempo y alto retardo-1 (que probablemente necesitará un orden superior de diferenciación d / D).  
+- Tipo A y tipo B: ambos tipos muestran estacionalidades en ciertos rezagos. Para el tipo A, es cada duodécima observación con picos positivos en los retrasos 12 (s) y 24 (2s) y así sucesivamente. Para el tipo B, es una tendencia semanal con picos positivos en los retrasos 7 (s), 14 (2 s), 21 (3 s) y 28 (4 s).  
+
+- Tipo C y tipo D: las parcelas de estos dos tipos son más complejas. Parece que cada observación está correlacionada con sus observaciones adyacentes.  
+
 
 
 [logo]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/ab299b25ce9fe14e778f95b44f7ac322a2fc0e2f/Retail/Forecasting/files/imagenes/logo.jpg
