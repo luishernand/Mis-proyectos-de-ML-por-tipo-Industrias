@@ -134,20 +134,7 @@ Prophet traza los valores observados de nuestra serie de tiempo (los puntos negr
 ![t3]  
 La primera gráfica muestra que las ventas mensuales de la tienda número 1 han ido disminuyendo linealmente con el tiempo y la segunda muestra las brechas de vacaciones incluidas en el modelo. El tercer gráfico destaca el hecho de que el volumen semanal de ventas de la semana pasada alcanza su punto máximo hacia el lunes de la semana siguiente, mientras que el cuarto gráfico muestra que la temporada de mayor actividad se produce durante las vacaciones de Navidad.  
 
-**Conclusión del pronóstico de series de tiempo**  
-Durante esta parte, discutimos el análisis de series de tiempo con gráficos .seasonal_decompose (), ACF y PCF y ajustamos el modelo de pronóstico utilizando un nuevo procedimiento de Facebook Prophet.  
-
-Ahora podemos presentar las principales ventajas e inconvenientes de la predicción de series de tiempo:  
-
-**Ventajas**
-- Potente herramienta para el pronóstico de series de tiempo, ya que tiene en cuenta las dependencias del tiempo, las estaciones y los días festivos (Prophet: manualy).
-- Se implementa fácilmente con R auto.arima () del paquete de pronóstico, que ejecuta una búsqueda de cuadrícula compleja y un - algoritmo sofisticado detrás de escena.
-
-**Inconvenientes**  
-- No detecta interacciones entre características externas, lo que podría mejorar el poder de pronóstico de un modelo. En nuestro caso, estas variables son Promo y CompetitionOpen.  
-- Aunque Prophet ofrece una solución automatizada para ARIMA, esta metodología está en desarrollo y no es completamente estable.
-- El ajuste del modelo ARIMA estacional necesita de 4 a 5 temporadas completas en el conjunto de datos, lo que puede ser el mayor inconveniente para las nuevas empresas.
-- ARIMA estacional en Python tiene 7 hiperparámetros que solo se pueden ajustar manualmente, lo que afecta significativamente la velocidad del proceso de pronóstico.  
+  
 
 ## Pronóstico con XGBRegressor  
 
@@ -165,13 +152,44 @@ XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
 
 ### Evaluación  
 
-R$2$, el coeficiente de determinación, determina la capacidad de un modelo para predecir futuros resultados. El mejor resultado posible es 1.0, y ocurre cuando la predicción coincide con los valores de la variable objetivo. R2 puede tomar valores negativos pues la predicción puede ser arbitrariamente mala. Cuando la predicción coincide con la esperanza de los valores de la variable objetivo, el resultado de R$2$ es 0. Se define como 1 menos la suma de cuadrados totales dividido por la suma de cuadrados de los residuos.
+R2, el coeficiente de determinación, determina la capacidad de un modelo para predecir futuros resultados. El mejor resultado posible es 1.0, y ocurre cuando la predicción coincide con los valores de la variable objetivo. R2 puede tomar valores negativos pues la predicción puede ser arbitrariamente mala. Cuando la predicción coincide con la esperanza de los valores de la variable objetivo, el resultado de R2 es 0. Se define como 1 menos la suma de cuadrados totales dividido por la suma de cuadrados de los residuos.
 
-**resultado:** 0.9993151904235793 
+**resultado:** 0.9993151904235793
+
+![m1]  
 
 
+## Conclusión del pronóstico de series de tiempo  
+Durante esta parte, discutimos el análisis de series de tiempo con gráficos .seasonal_decompose (), ACF y PCF y ajustamos el modelo de pronóstico utilizando un nuevo procedimiento de Facebook Prophet.  
+
+Ahora podemos presentar las principales ventajas e inconvenientes de la predicción de series de tiempo:  
+
+**Ventajas**
+- Potente herramienta para el pronóstico de series de tiempo, ya que tiene en cuenta las dependencias del tiempo, las estaciones y los días festivos (Prophet: manualy).
+- Se implementa fácilmente con R auto.arima () del paquete de pronóstico, que ejecuta una búsqueda de cuadrícula compleja y un - algoritmo sofisticado detrás de escena.
+
+**Inconvenientes**  
+- No detecta interacciones entre características externas, lo que podría mejorar el poder de pronóstico de un modelo. En nuestro caso, estas variables son Promo y CompetitionOpen.  
+- Aunque Prophet ofrece una solución automatizada para ARIMA, esta metodología está en desarrollo y no es completamente estable.
+- El ajuste del modelo ARIMA estacional necesita de 4 a 5 temporadas completas en el conjunto de datos, lo que puede ser el mayor inconveniente para las nuevas empresas.
+- ARIMA estacional en Python tiene 7 hiperparámetros que solo se pueden ajustar manualmente, lo que afecta significativamente la velocidad del proceso de pronóstico. 
 
 
+El análisis de series de tiempo es imprescindible para los datos de series de tiempo. Va mucho más profundo que el análisis de datos exploratorios ad-hoc, revelando tendencias, no aleatoriedad de los datos y estacionalidades.
+
+Aunque Prophet esta herramienta aún está en desarrollo, tiene todo configurado para el modelado avanzado, ya que puede dar cuenta de los puntos de cambio en las tendencias y los días festivos en los datos. Mientras tanto, la herramienta más sofisticada para el análisis de series temporales sigue siendo auto.arima del paquete de pronóstico R.  
+
+Se puede lograr un salto significativo en el rendimiento de pronóstico del modelo instalado anteriormente, XGboost con la biblioteca xgboost, aumentando el número y el rango de hiperparámetros. 
+
+Otro método que no cubrí aquí es un modelo de regresión Stacking, que funciona muy bien para conjuntos de datos de tamaño pequeño o mediano. Básicamente, combinaríamos XGboost, RandomForest, NN y SVM para la regresión. Y luego apílelos juntos construyendo el modelo final.  
+
+Con respecto al modelo XGboost, se puede utilizar LightGBM, una biblioteca potencialmente mejor que XGboost.  
+
+## Notebook  
+
+1. [Análisis de datos exploratorio](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/notebooks/Forecasts.ipynb)
+2. [Modelo Prohet](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/notebooks/Times%20Series.ipynb)
+3. [Modelo XGboost](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/files/notebooks/model.ipynb) 
 
 
 
