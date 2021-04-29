@@ -111,8 +111,9 @@ El siguiente paso en el análisis de nuestra serie temporal es revisar los gráf
 
 ACF es una medida de la correlación entre la serie temporal con una versión retrasada de sí misma. Por ejemplo, en el retraso 5, ACF compararía series en el instante de tiempo "t1" ... "tn" con series en el instante "t1-5" ... "tn-5" (t1-5 y tn son puntos finales).   
 
-PACF, por otro lado, mide la correlación entre las series temporales con una versión rezagada de sí misma, pero después de eliminar las variaciones explicadas por las comparaciones intermedias. P.ej. en el rezago 5, comprobará la correlación pero eliminará los efectos ya explicados por los rezagos 1 a 4  
-![9] 
+PACF, por otro lado, mide la correlación entre las series temporales con una versión rezagada de sí misma, pero después de eliminar las variaciones explicadas por las comparaciones intermedias. P.ej. en el rezago 5, comprobará la correlación pero eliminará los efectos ya explicados por los rezagos 1 a 4.  
+
+![f9]  
 
 Podemos leer estos gráficos horizontalmente. Cada par horizontal es para un 'StoreType', de A a D. En general, esos gráficos muestran la correlación de la serie consigo misma, rezagada por x unidades de tiempo correlación de la serie consigo misma, rezagada por x unidades de tiempo.  
 
