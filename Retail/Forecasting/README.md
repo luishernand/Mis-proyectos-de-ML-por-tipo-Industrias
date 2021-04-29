@@ -134,6 +134,23 @@ Prophet traza los valores observados de nuestra serie de tiempo (los puntos negr
 ![t3]  
 La primera gráfica muestra que las ventas mensuales de la tienda número 1 han ido disminuyendo linealmente con el tiempo y la segunda muestra las brechas de vacaciones incluidas en el modelo. El tercer gráfico destaca el hecho de que el volumen semanal de ventas de la semana pasada alcanza su punto máximo hacia el lunes de la semana siguiente, mientras que el cuarto gráfico muestra que la temporada de mayor actividad se produce durante las vacaciones de Navidad.  
 
+**Conclusión del pronóstico de series de tiempo**  
+Durante esta parte, discutimos el análisis de series de tiempo con gráficos .seasonal_decompose (), ACF y PCF y ajustamos el modelo de pronóstico utilizando un nuevo procedimiento de Facebook Prophet.  
+
+Ahora podemos presentar las principales ventajas e inconvenientes de la predicción de series de tiempo:  
+
+**Ventajas**
+Potente herramienta para el pronóstico de series de tiempo, ya que tiene en cuenta las dependencias del tiempo, las estaciones y los días festivos (Prophet: manualy).
+Se implementa fácilmente con R auto.arima () del paquete de pronóstico, que ejecuta una búsqueda de cuadrícula compleja y un - algoritmo sofisticado detrás de escena.
+
+**Inconvenientes**  
+No detecta interacciones entre características externas, lo que podría mejorar el poder de pronóstico de un modelo. En nuestro caso, estas variables son Promo y CompetitionOpen.  
+Aunque Prophet ofrece una solución automatizada para ARIMA, esta metodología está en desarrollo y no es completamente estable.
+El ajuste del modelo ARIMA estacional necesita de 4 a 5 temporadas completas en el conjunto de datos, lo que puede ser el mayor inconveniente para las nuevas empresas.
+ARIMA estacional en Python tiene 7 hiperparámetros que solo se pueden ajustar manualmente, lo que afecta significativamente la velocidad del proceso de pronóstico.
+
+
+
 
 
 
