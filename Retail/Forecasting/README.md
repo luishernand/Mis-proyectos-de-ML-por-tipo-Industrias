@@ -163,11 +163,13 @@ XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
              tree_method='exact', validate_parameters=1, verbosity=None)
 ```  
 
-**Evaluación**  
+### Evaluación  
 
-R2, el coeficiente de determinación, determina la capacidad de un modelo para predecir futuros resultados. El mejor resultado posible es 1.0, y ocurre cuando la predicción coincide con los valores de la variable objetivo. R2 puede tomar valores negativos pues la predicción puede ser arbitrariamente mala. Cuando la predicción coincide con la esperanza de los valores de la variable objetivo, el resultado de R2 es 0. Se define como 1 menos la suma de cuadrados totales dividido por la suma de cuadrados de los residuos.
+R$2$, el coeficiente de determinación, determina la capacidad de un modelo para predecir futuros resultados. El mejor resultado posible es 1.0, y ocurre cuando la predicción coincide con los valores de la variable objetivo. R2 puede tomar valores negativos pues la predicción puede ser arbitrariamente mala. Cuando la predicción coincide con la esperanza de los valores de la variable objetivo, el resultado de R$2$ es 0. Se define como 1 menos la suma de cuadrados totales dividido por la suma de cuadrados de los residuos.
 
-resultado: 0.9993151904235793
+**resultado:** 0.9993151904235793 
+
+
 
 
 
