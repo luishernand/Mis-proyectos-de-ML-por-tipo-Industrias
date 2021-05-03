@@ -102,7 +102,7 @@ estima la verdadera función de densidad acumulativa subyacente de los puntos en
 - Los lunes cunado hay promoción  
 
 **5. Times Series**  
-![8]  
+![f8]  
 - Las ventas por tipo de tienda a y c alcanzan su punto maximo en temporada navideña.
 - En las tiendas de tipo D fuera posible su tope máximo en temporada navideña pero no tenemos datos emtre jul 2014 y enero 2015.  
 
