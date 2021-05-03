@@ -171,7 +171,7 @@ Para este tipo de porblema de clasificación Incumplumiento de Préstamo no util
 
 ---
 ## Note Book:
-+ Loan Deafault(https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/Load%20Prediction.ipynb)  
++ [Loan Deafault](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/Load%20Prediction.ipynb)  
 
 
 
