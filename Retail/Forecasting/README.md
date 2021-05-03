@@ -12,10 +12,19 @@ Si utilizamos esta arma correctamente podremos reducir inventarios, disminuir lo
 
 Esto permitirá que detectemos los problemas con anterioridad por lo que podremos buscar soluciones que atajen los obstáculos antes de que estos causen un impacto mayor.
 
- 
-
 **Funcionamiento**  
-Existen múltiples métodos para realizar un forecast dependiendo del tamaño y sector de la empresa. Lo importante es que sea lo más fiable posible ya que es la base sobre la que tomaremos decisiones que afectarán al porvenir de la empresa.
+Existen múltiples métodos para realizar un forecast dependiendo del tamaño y sector de la empresa. Lo importante es que sea lo más fiable posible ya que es la base sobre la que tomaremos decisiones que afectarán al porvenir de la empresa.  
+
+**Contenido:**  
+- [Plantamiento](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#plantamiento)
+- [Conjunto de datos](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#conjunto-de-datos)
+- [Análisis de datos Exploratorio(EDA)](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#an%C3%A1lisis-de-datos-exploratorioeda)
+- [Time Series Analysis and Forecasting with Prophet](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#time-series-analysis-and-forecasting-with-prophet)
+- [Pronóstico con XGBRegressor](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#pron%C3%B3stico-con-xgbregressor)
+- [Evaluación](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#evaluaci%C3%B3n)
+- [Conclusión del pronóstico de series de tiempo](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#conclusi%C3%B3n-del-pron%C3%B3stico-de-series-de-tiempo)
+- [Notebook](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/Forecasting/README.md#notebook)  
+
 
 ## Plantamiento 
 **Rossmann Store Sales**  
