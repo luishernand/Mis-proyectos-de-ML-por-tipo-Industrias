@@ -3,8 +3,8 @@
 ![logo] 
 
 **Contenido:**  
-- [Planteamiento] (Planteamiento)
-- [Conjunto de Datos] [Conjunto de Datos]
+- [Planteamiento](Planteamiento)
+- [Conjunto de Datos](Conjunto de Datos)
 -
 
 ## Planteamiento
