@@ -4,6 +4,19 @@
 **Que es El incumplimiento del préstamo:**  
 ocurre cuando un prestatario no paga una deuda de acuerdo con el acuerdo inicial. En el caso de la mayoría de los préstamos al consumo, esto significa que se han perdido pagos sucesivos en el transcurso de semanas o meses. Afortunadamente, los prestamistas y los administradores de préstamos por lo general permiten un período de gracia antes de penalizar al prestatario después de no realizar un pago. El período entre la falta de pago de un préstamo y el incumplimiento del préstamo se conoce como morosidad. El período de morosidad le da al deudor tiempo para evitar el incumplimiento contactando a la entidad administradora de sus préstamos o haciendo los pagos atrasados.   
 
+**Contenido:**
+- [Planteamiento](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#planteamiento-del-problema)
+- [Conjunto de Datos](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#conjunto-de-datos)
+- [Data Engineering-(Ingeniería de datos)](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#data-engineering-ingenier%C3%ADa-de-datos)
+- [Análisis de Datos (EDA)](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#analisis-de-datos-eda)
+- [Modelos Aplicados](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#modelos-aplicados)
+- [Evaluación de los modelos](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#evaluaci%C3%B3n-de-los-modelos)
+- [accuracy(La exactitud)](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#accuracyla-exactitud)
+- [Classification Report](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#classification-report)
+- [Matriz de Confusión](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#matriz-de-confusi%C3%B3n)
+- [Conclusión](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#conclusi%C3%B3n)
+- [Notebook](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos#note-book)
+
 ## Planteamiento del problema:
 
 Para clasificar si el prestatario incumplirá el préstamo utilizando  a partir de determinadas características del cliente. Eso significa, dado un conjunto de
@@ -158,7 +171,7 @@ Para este tipo de porblema de clasificación Incumplumiento de Préstamo no util
 
 ---
 ## Note Book:
-+ Loan Deafault [note book]  
++ Loan Deafault[notebook]  
 
 
 
@@ -170,4 +183,4 @@ Para este tipo de porblema de clasificación Incumplumiento de Préstamo no util
 [lr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/lr_mtx.png
 [svc]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/svc_mtx.png
 [corr]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/data/data_corr.png
-[note book]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/Load%20Prediction.ipynb
+[notebook]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/Incumplimiento_prestamos/Load%20Prediction.ipynb
