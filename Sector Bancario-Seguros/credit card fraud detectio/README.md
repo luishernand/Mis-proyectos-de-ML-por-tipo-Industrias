@@ -3,11 +3,11 @@
 ![logo] 
 
 **Contenido:**  
-- Plantamiento
-- Conjunto de Datos
+- Planteamiento [Planteamiento]
+- Conjunto de Datos [Conjunto de Datos]
 -
 
-## Plantamiento
+## Planteamiento
 Cada año, se pierden miles de millones de dinero debido al fraude con tarjetas de crédito, lo que causa grandes pérdidas para los usuarios y la industria financiera. Este tipo de actividad ilícita es quizás la más común y la que causa más preocupaciones en el mundo financiero. En los últimos años se ha prestado gran atención a la búsqueda de técnicas para evitar esta pérdida significativa de dinero. En este proyecto  abordamos el fraude con tarjetas de crédito mediante el uso de un conjunto de datos desbalanceado que contiene transacciones realizadas por usuarios de tarjetas de crédito. Clasifica las transacciones en dos clases: normal y fraudulentas, y está construido con técnicas de inteligencia artificial(Machine Learning y Deep Learning)  
 
 ## Conjunto de Datos   
