@@ -3,9 +3,13 @@
 ![logo] 
 
 **Contenido:**  
-- [Planteamiento](Planteamiento)
-- [Conjunto de Datos](Conjunto de Datos)
--
+- [Planteamiento](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/README.md#planteamiento)
+- [Conjunto de Datos](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/README.md#conjunto-de-datos)
+- [Análisis de datos Exploratorio](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/README.md#an%C3%A1lisis-de-datos-exploratorioeda)
+- [Modelos Aplicados](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/README.md#modelos-aplicados)
+- [Conclusión](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/README.md#conclusi%C3%B3n)
+- [Notebooks](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/credit%20card%20fraud%20detectio/README.md#notebooks)
+
 
 ## Planteamiento
 Cada año, se pierden miles de millones de dinero debido al fraude con tarjetas de crédito, lo que causa grandes pérdidas para los usuarios y la industria financiera. Este tipo de actividad ilícita es quizás la más común y la que causa más preocupaciones en el mundo financiero. En los últimos años se ha prestado gran atención a la búsqueda de técnicas para evitar esta pérdida significativa de dinero. En este proyecto  abordamos el fraude con tarjetas de crédito mediante el uso de un conjunto de datos desbalanceado que contiene transacciones realizadas por usuarios de tarjetas de crédito. Clasifica las transacciones en dos clases: normal y fraudulentas, y está construido con técnicas de inteligencia artificial(Machine Learning y Deep Learning)  
