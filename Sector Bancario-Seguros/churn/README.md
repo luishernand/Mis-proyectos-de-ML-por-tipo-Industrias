@@ -1,6 +1,10 @@
 # Churn for Bank Customers  
 <img src="https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/Churn-Rate-Equation.jpg" heiht= 600 width= 550 alt=" ">  
 
+**El Churn Rate** o **Tasa de Cancelación de clientes** es una métrica que mide el número de clientes y suscriptores que han dejado de seguir a una compañía (o han comenzado a seguirla) en un largo período de tiempo.  
+
+
+
 
 
 [c1]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c1.png
