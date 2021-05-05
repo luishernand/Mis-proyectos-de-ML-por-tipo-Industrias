@@ -3,6 +3,12 @@
 
 **El Churn Rate** o **Tasa de Cancelación de clientes** es una métrica que mide el número de clientes y suscriptores que han dejado de seguir a una compañía (o han comenzado a seguirla) en un largo período de tiempo.  
 
+## Planteamiento  
+La deserción de clientes (también conocida como pérdida de clientes) es uno de los mayores gastos de cualquier organización. Si pudiéramos averiguar por qué un cliente se va y cuándo se va con una precisión razonable, ayudaría enormemente a la organización a diseñar estrategias de múltiples iniciativas de retención. Utilicemos un conjunto de datos de transacciones de clientes de Kaggle para comprender los pasos clave involucrados en la predicción de la deserción de clientes en Python.  
+
+El aprendizaje automático supervisado no es más que aprender una función que asigna una entrada a una salida basándose en pares de entrada y salida de ejemplo. Un algoritmo de aprendizaje automático supervisado analiza los datos de entrenamiento y produce una función inferida, que puede usarse para mapear nuevos ejemplos. Dado que tenemos datos sobre transacciones de clientes actuales y anteriores en el conjunto de datos de una Institución Bancaria, este es un problema de clasificación supervisada estandarizada que intenta predecir un resultado binario (Y / N).  
+
+
 
 
 
