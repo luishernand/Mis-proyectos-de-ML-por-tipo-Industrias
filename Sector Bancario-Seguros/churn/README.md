@@ -6,7 +6,14 @@
 ## Planteamiento  
 La deserción de clientes (también conocida como pérdida de clientes) es uno de los mayores gastos de cualquier organización. Si pudiéramos averiguar por qué un cliente se va y cuándo se va con una precisión razonable, ayudaría enormemente a la organización a diseñar estrategias de múltiples iniciativas de retención. Utilicemos un conjunto de datos de transacciones de clientes de Kaggle para comprender los pasos clave involucrados en la predicción de la deserción de clientes en Python.  
 
-El aprendizaje automático supervisado no es más que aprender una función que asigna una entrada a una salida basándose en pares de entrada y salida de ejemplo. Un algoritmo de aprendizaje automático supervisado analiza los datos de entrenamiento y produce una función inferida, que puede usarse para mapear nuevos ejemplos. Dado que tenemos datos sobre transacciones de clientes actuales y anteriores en el conjunto de datos de una Institución Bancaria, este es un problema de clasificación supervisada estandarizada que intenta predecir un resultado binario (Y / N).  
+El aprendizaje automático supervisado no es más que aprender una función que asigna una entrada a una salida basándose en pares de entrada y salida de ejemplo. Un algoritmo de aprendizaje automático supervisado analiza los datos de entrenamiento y produce una función inferida, que puede usarse para mapear nuevos ejemplos. Dado que tenemos datos sobre transacciones de clientes actuales y anteriores en el conjunto de datos de una Institución Bancaria, este es un problema de clasificación supervisada estandarizada que intenta predecir un resultado binario (Y / N). 
+
+Como sabemos, es mucho más caro iniciar sesión en un nuevo cliente que mantener uno existente. Es ventajoso para los bancos saber qué lleva a un cliente a la decisión de dejar la empresa. La prevención de abandonos permite a las empresas desarrollar programas de fidelización y campañas de retención para mantener tantos clientes como sea posible.  
+
+## Conjunto de Datos 
+para este proyecto bajamos los datos de kaggle:(https://www.kaggle.com/mathchi/churn-for-bank-customers),. El conjunto de datos consta de 346 observaciones y 8 características
+
+
 
 
 
