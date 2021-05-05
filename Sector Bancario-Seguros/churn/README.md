@@ -11,7 +11,7 @@ El aprendizaje automático supervisado no es más que aprender una función que 
 Como sabemos, es mucho más caro iniciar sesión en un nuevo cliente que mantener uno existente. Es ventajoso para los bancos saber qué lleva a un cliente a la decisión de dejar la empresa. La prevención de abandonos permite a las empresas desarrollar programas de fidelización y campañas de retención para mantener tantos clientes como sea posible.  
 
 ## Conjunto de Datos 
-para este proyecto bajamos los datos de [kaggle]:(https://www.kaggle.com/mathchi/churn-for-bank-customers),. El conjunto de datos consta de 346 observaciones y 8 características
+para este proyecto bajamos los datos de [kaggle]:https://www.kaggle.com/mathchi/churn-for-bank-customers,. El conjunto de datos consta de 346 observaciones y 8 características
 
 
 
