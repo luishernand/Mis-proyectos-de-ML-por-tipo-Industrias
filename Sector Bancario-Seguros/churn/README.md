@@ -132,7 +132,7 @@ Clientes que Dejaron de ser nuestros por Cantidad de Productos:
 - Con 4 = 60  
 
 **Tenure:**  
-![18] ![c19]   
+![C18] ![c19]   
 ![c17]
 
 
@@ -143,13 +143,14 @@ Clientes que Dejaron de ser nuestros por Cantidad de Productos:
 
 
 
-### Distribución de los datos Numericos  
+**Distribución de los datos Numericos**    
 ![c9]  
 
-### Correlación  
+**Correlación**    
 ![c10]
-### Outliers  
+**Outliers**  
 ![c11]  ![c12]    
+
 **Comentario:**  
 - El dataset presenta outliers
 - tenemos dos clientes con 92 años poseen saldos
