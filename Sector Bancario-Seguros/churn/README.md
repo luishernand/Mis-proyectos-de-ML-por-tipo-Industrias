@@ -10,6 +10,15 @@ El aprendizaje automático supervisado no es más que aprender una función que 
 
 Como sabemos, es mucho más caro iniciar sesión en un nuevo cliente que mantener uno existente. Es ventajoso para los bancos saber qué lleva a un cliente a la decisión de dejar la empresa. La prevención de abandonos permite a las empresas desarrollar programas de fidelización y campañas de retención para mantener tantos clientes como sea posible.  
 
+**Contenido:**  
+- [Planteamiento](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/churn#planteamiento)
+- [Conjunto de Datos](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/churn#conjunto-de-datos)
+- [Exploratory Analysis-EDA](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/churn#exploratory-data-analysis--eda)
+- [modelo](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/README.md#modelo)  
+- [Conclusión](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/README.md#conclusi%C3%B3n)
+- [Notebook](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/README.md#notebook)  
+
+
 ## Conjunto de Datos 
 para este proyecto utilizamos  los datos de [kaggle](https://www.kaggle.com/mathchi/churn-for-bank-customers),
 
