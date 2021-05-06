@@ -14,12 +14,12 @@ Como sabemos, es mucho más caro iniciar sesión en un nuevo cliente que mantene
 para este proyecto utilizamos  los datos de [kaggle](https://www.kaggle.com/mathchi/churn-for-bank-customers),
 
    |CustomerId|	Surname | CreditScore|Geography|Gender	|Age	|Tenure  |Balance	|NumOfProducts|HasCrCard|IsActiveMember|EstimatedSalary|Exited|
-   |----------|----------|----------|----------|----------|----|--------|------- |-------------|---------|--------------|-----------------|--------|
- |15634602|	Hargrave|	 619|	           | France|	Female|	42|	2|	      | 0.00	    |  1	          |  1	   |   1	        |    101348.88	|   1|
- |15647311	|Hill	  |     608|	           | Spain	    |  Female|	41 |	1	   |83807.86	|      1	 |         |  0	|      1	 |           112542.58|	   0|
- |15619304	|Onio	 |      502|	          |  France	|Female|	42|	8	  |159660.80	   |   3	   |        | 1	    |  0	    |        113931.57	|   1|
-|15701354	|Boni	 |      699|	          |  France	|Female|	39|	1	      | 0.00	  |    2	   |         |0	    |  0	    |        93826.63	|   0|
- |15737888|	Mitchell	| 850|	           | Spain	    |  Female|	43|	2	 | 125510.82	 |     1	 |         |  1	  |    1	 |           79084.10	|   0|  
+   |----------|----------|-----------|----------|------- |----|---------|------- |-------------|---------|--------------|-----------------|--------|
+ |15634602  |Hargrave    |	 619      |	  France|	Female|	42|	2     |	  0.00|      1	      |     1	|   1	        |    101348.88	|   1|
+ |15647311	|Hill	      |     608    |	  Spain	|  Female|	41|	1     |83807.86|      1	      |     0	|      1	 |           112542.58|	   0|
+ |15619304	|Onio	      |      502   |	  France	|Female  |	42|	8     |159660.80|     3	      |     1	 |  0	    |        113931.57	|   1|
+|15701354	|Boni	      |      699   |	  France	|Female  |	39|	1     |	   0.00|      2	   |     0	 |  0	    |        93826.63	|   0|
+ |15737888|	Mitchell	   |     850    |	  Spain	|  Female|	43|	2     | 125510.82|   1	      |     1	 |    1	 |           79084.10	|   0|  
 
 
 Este dataset consta de **10,000** observaciones y **13** características.  
