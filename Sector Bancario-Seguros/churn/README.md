@@ -147,7 +147,8 @@ Clientes que Dejaron de ser nuestros por Cantidad de Productos:
 ![c9]  
 
 **Correlación**    
-![c10]
+![c10]  
+
 **Outliers**  
 ![c11]  ![c12]    
 
@@ -181,7 +182,7 @@ para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
 - RandomForestClassifier
 - MLPClassifier  
 
-### Evaluación  
+**Evaluación**    
 
 Classification Report:
 
@@ -205,6 +206,9 @@ Pudimos Observar que existen diversos factores que pueden afectar la perdida del
 Debemos de tener en cuenta la estrategía para tratar la problematica del desbalance de las clases ya que de no balancer los datos o utilizar una estrategía de clase de peso, podría afectar el performace del o los modelo aplicados.  
 
 ## Notebook  
+
+1. [EDA and data cleaning](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/churn.ipynb)
+2. [Modelo de Machine Learning](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/Model.ipynb)  
 
 
 
