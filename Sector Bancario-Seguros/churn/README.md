@@ -156,7 +156,8 @@ Clientes que Dejaron de ser nuestros por Cantidad de Productos:
 No vamos a eliminar los outliers ya que todavía son clientes nuestros y presentan Balance.  
 
 ## Modelo  
-Para este conjunto de datos utilizamos las técnica de OverSampling ya que nuestras varaible de salidad(target) presente desbalance en las clases. 
+
+Es muy frecuente encontrarnos con datasets con clases desbalanceadas, aplicamos la estrategía de SMOTE  para solucionar esta problemática ya que nuestro conjunto de datos cuenta con pocios registros.Para este conjunto de datos utilizamos las técnica de OverSampling ya que nuestras varaible de salidad(target) presente desbalance en las clases. 
 0= 79.63% 1= 20.73%
 
 **SMOTE(OverSampling):** se utiliza para genrear datos sintéticos, utiliza un vecino más cercano para generar datos nuevos. 
@@ -197,7 +198,20 @@ Confussion Matrix:
 
 ![m1]
 
+## Conclusión  
+Pudimos Observar que existen diversos factores que pueden afectar la perdida del cliente, entre estos hay factores que no estan estipulados en este conjunto de datos como son: Cantidad de reclamación del cliente, cantidad de veces que el cliente es conctactado por nuestro personal, Tipo de contacto o servicio generado, entre otros.  
+
+Debemos de tener en cuenta la estrategía para tratar la problematica del desbalance de las clases ya que de no balancer los datos o utilizar una estrategía de clase de peso, podría afectar el performace del o los modelo aplicados.  
+
+## Notebook  
+
+
+
+
+
+
  
+
 
 
 
