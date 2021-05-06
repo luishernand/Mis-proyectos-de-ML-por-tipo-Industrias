@@ -132,7 +132,8 @@ Clientes que Dejaron de ser nuestros por Cantidad de Productos:
 - Con 4 = 60  
 
 **Tenure:**  
-![c17] ![18] ![c19]  
+![18] ![c19]   
+![c17]
 
 
 
