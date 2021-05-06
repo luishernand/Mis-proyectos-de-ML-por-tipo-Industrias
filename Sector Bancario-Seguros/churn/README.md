@@ -165,9 +165,36 @@ Utilizamos la libreria
 ```python  
 from imblearn.over_sampling import SMOTE
 ```  
-Llevando a nuestra targe o class a: 0= 7963, 1 = 7963  
+Llevando a nuestra targe o class: 0= 7963, 1 = 7963  
 
+**Modelos Aplicados:**    
+- Stacking Model
 
+**Stacking Models:** Utiliza un algoritmo de meta aprendizaje para aprender cómo combinar mejor las predicciones de dos o más algoritmos básicos de Machine Learning. El beneficio del apilamiento es que puede aprovechar las capacidades de una variedad de modelos de buen desempeño en una tarea de clasificación o regresión y hacer predicciones que tienen un mejor desempeño que cualquier modelo individual en el conjunto.
+para realizar el stacking utilizamos los siguientes 5 modelos de clasificación:
+
+- KNeighborsClassifier.
+- SVC
+- DecisionTreeClassifier
+- RandomForestClassifier
+- MLPClassifier  
+
+### Evaluación  
+
+Classification Report:
+
+			precision    recall     f1-score   support
+
+     	Cliente       	0.87      	0.86      0.87      2426
+    	Abandono        0.86      	0.87      0.87      2352
+
+    	accuracy                        0.87                4778
+   	macro avg       0.87      	0.87      0.87      4778
+	weighted avg    0.87      	0.87      0.87      4778  
+
+Confussion Matrix:  
+
+![m1]
 
  
 
