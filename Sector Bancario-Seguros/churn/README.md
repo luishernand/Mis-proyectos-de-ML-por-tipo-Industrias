@@ -115,6 +115,15 @@ La cantidad de Nuestos clientes con balance 0 es de 3,117, 500 clientes abandona
 
 ![c16]  
 
+	NumOfProducts	Exited	size
+		1	  0	3675
+		1	  1	1409
+		2	  0	4242
+		2	  1	 348
+		3	  0	  46
+		3	  1	 220
+		4	  1	 60
+
 
 
 
