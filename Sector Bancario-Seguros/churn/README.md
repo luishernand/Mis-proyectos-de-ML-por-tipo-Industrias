@@ -185,12 +185,12 @@ Classification Report:
 
 			precision    recall     f1-score   support
 
-     	Cliente       	0.87      	0.86      0.87      2426
-    	Abandono        0.86      	0.87      0.87      2352
+     	Cliente       	0.87      	0.86      0.87        2426
+    	Abandono        0.86      	0.87      0.87        2352
 
-    	accuracy                        0.87                4778
-   	macro avg       0.87      	0.87      0.87      4778
-	weighted avg    0.87      	0.87      0.87      4778  
+    	accuracy                        	  0.          4778
+   	macro avg       0.87      	0.87      0.87        4778
+	weighted avg    0.87      	0.87      0.87        4778  
 
 Confussion Matrix:  
 
