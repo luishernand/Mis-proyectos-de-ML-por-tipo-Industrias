@@ -11,7 +11,7 @@ El aprendizaje automático supervisado no es más que aprender una función que 
 Como sabemos, es mucho más caro iniciar sesión en un nuevo cliente que mantener uno existente. Es ventajoso para los bancos saber qué lleva a un cliente a la decisión de dejar la empresa. La prevención de abandonos permite a las empresas desarrollar programas de fidelización y campañas de retención para mantener tantos clientes como sea posible.  
 
 ## Conjunto de Datos 
-para este proyecto utilizamos  los datos de [kaggle](https://www.kaggle.com/mathchi/churn-for-bank-customers),. El conjunto de datos consta de **10,000** observaciones y **13** características.  
+para este proyecto utilizamos  los datos de [kaggle](https://www.kaggle.com/mathchi/churn-for-bank-customers),
 
    |CustomerId|	Surname | CreditScore|Geography|Gender	|Age	|Tenure  |Balance	|NumOfProducts|HasCrCard|IsActiveMember|EstimatedSalary|Exited|
    |----------|----------|----------|----------|----------|----|--------|------- |-------------|---------|--------------|-----------------|--------|
@@ -19,7 +19,10 @@ para este proyecto utilizamos  los datos de [kaggle](https://www.kaggle.com/math
  |15647311	|Hill	  |     608|	           | Spain	    |  Female|	41	1	   |83807.86	|      1	 |         |  0	|      1	 |           112542.58|	   0|
  |15619304	|Onio	 |      502|	          |  France	|Female|	42|	8	  |159660.80	   |   3	   |        | 1	    |  0	    |        113931.57	|   1|
 |15701354	|Boni	 |      699|	          |  France	|Female|	39|	1	      | 0.00	  |    2	   |         |0	    |  0	    |        93826.63	|   0|
- |15737888|	Mitchell	| 850|	           | Spain	    |  Female|	43|	2	 | 125510.82	 |     1	 |         |  1	  |    1	 |           79084.10	|   0|
+ |15737888|	Mitchell	| 850|	           | Spain	    |  Female|	43|	2	 | 125510.82	 |     1	 |         |  1	  |    1	 |           79084.10	|   0|  
+
+
+Este datataset consta de **10,000** observaciones y **13** características.  
 
 
 
