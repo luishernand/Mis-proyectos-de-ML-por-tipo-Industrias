@@ -50,7 +50,7 @@ Descripción:
 
 ## Exploratory Data Analysis- EDA  
 
-**Excited Variable A predecir(Target):**
+**Excited(Target):**
 
 ![c4]  
 
