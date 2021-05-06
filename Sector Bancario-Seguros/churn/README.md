@@ -143,9 +143,18 @@ Clientes que Dejaron de ser nuestros por Cantidad de Productos:
 
 
 
+### Distribución de los datos Numericos  
+![c9]  
 
+### Correlación  
+![c10]
+### Outliers  
+![c11]  ![c12]    
+**Comentario:**  
+- El dataset presenta outliers
+- tenemos dos clientes con 92 años poseen saldos
+No vamos a eliminar los outliers ya que todavía son clientes nuestros y presentan Balance.  
 
-         
 
 
  
