@@ -84,7 +84,43 @@ La cantidad de Nuestos clientes con balance 0 es de 3,117, 500 clientes abandona
       	0	           0	          87
       	0	           1	         233
       	1	           0	          65
-      	1	           1	         115
+      	1	           1	         115   
+         
+  
+**Comentario:**  
+
+- Hay 500 personas que abandonaron con creditos por encima de la media.
+- 137 Abandono de clientes y Tienen Balance en sus cuentas con el estatus de IsActiveMember.
+- 257 Abandono de clientes con Balance y tienen Tarjeta.
+- De 115 clientes con estatus activo y con tarjeta, tenemos:
+  + 82 Clientes que Abandonaron con Balance por encima de 0.  
+  
+
+**HasCrCard:**  
+![c15]  
+
+      HasCrCard	Exited	size
+	      0	         0	   2332
+	      0	         1	    613
+	      1	         0	   5631
+	      1	         1	   1424  
+         
+**Comentario:**
+
+- 613 Clientes que han Abandonado que no tenían tarjetas.
+- 1,424 clientes que presentaron abandono que tenían tarjetas.  
+
+
+**NumOfProducts:**  
+
+![c16]  
+
+
+
+
+
+
+         
 
 
  
@@ -113,6 +149,7 @@ La cantidad de Nuestos clientes con balance 0 es de 3,117, 500 clientes abandona
 [c11]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c11.png
 [c12]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c12.png
 [c13]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c13.png
+[c14]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c14.png
 [c16]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c16.png
 [c17]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c17.png
 [c18]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c18.png
