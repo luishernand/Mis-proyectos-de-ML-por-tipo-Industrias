@@ -219,6 +219,10 @@ Debemos de tener en cuenta la estrategía para tratar la problematica del desbal
 1. [EDA and data cleaning](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/churn.ipynb)
 2. [Modelo de Machine Learning](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/Model.ipynb)  
 
+También puede visitar la carpeta [Analisis-EDA-predicciones](https://github.com/luishernand/Analisis-EDA-predicciones) y ver otros notebooks [churn_rate](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Churn_rate.ipynb)
+
+	
+	Creado por:  Luis Hernández   email:   luishernand11@gmail.com
 
 
 
