@@ -124,6 +124,21 @@ La cantidad de Nuestos clientes con balance 0 es de 3,117, 500 clientes abandona
 		3	  1	 220
 		4	  1	 60
 
+**Comentario:**    
+Clientes que Dejaron de ser nuestros por Cantidad de Productos:  
+- Con 1 = 1,409
+- Con 2 = 348
+- Con 3 = 220
+- Con 4 = 60  
+
+**Tenure:**  
+![c17] ![18] ![c19]  
+
+
+
+**Comentario:**  
+- Clientes con 10 años en el banco representa el 5%
+- El mayor abandono se presenta a 1, 3, 5 y 9 años.  
 
 
 
@@ -159,6 +174,7 @@ La cantidad de Nuestos clientes con balance 0 es de 3,117, 500 clientes abandona
 [c12]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c12.png
 [c13]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c13.png
 [c14]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c14.png
+[c15]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c15.png
 [c16]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c16.png
 [c17]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c17.png
 [c18]:https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/imagen/c18.png
