@@ -48,11 +48,10 @@ Descripción:
 **Comentario:**  
 - 0= 79.63% 1= 20.73%
 - Los datos de salidas están desbalanceados por lo que se debe de aplicar métodos para el balanceo de las clases  
-- 
+
+### Features Analytics  
 
 **Gender:**  
-
-![c1] ![c2] ![c3]  
 
   |Geography	| Gender	| count|
   |------------|--------|------|
@@ -62,17 +61,31 @@ Descripción:
  |   Germany|	 Male	 |   1316|
  |   Germany|	 Female	| 1193|
  |   Spain	|    Female	| 1089 | 
+ 
+ ![c1] ![c2] ![c3] ![c5] ![c6] ![c7] ![c8]   
+ 
       
 **Comentario:  
 
-- el 54.57% de los registros presentados en la variable Gender está compuestos por Hombres(Male)
+- El 54.57% de los registros presentados en la variable Gender está compuestos por Hombres(Male)
 - Francia tiene mayor porcentaje con el 50.14%.  
+- El 25% de nuestros clientes salientes son mujeres
+- El páis con mayor salida de los clientes es Germany  
 
 
 
+**Balance:**  
+La cantidad de Nuestos clientes con balance 0 es de 3,117, 500 clientes abandonaron con balance en 0 y 592 que dejaron de ser nuestros clientes que tenían balance Altos. 
+
+**CreditScore:**  
+![c9] ![10]  
+
+      IsActiveMember	HasCrCard	Balance	
+      0	0	87	0	1	233	1	0	65	1	1	115  
+      
 
 
-![c5] ![c6] ![c7] ![c8]  
+ 
 
 
 
