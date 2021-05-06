@@ -78,11 +78,13 @@ Descripción:
 La cantidad de Nuestos clientes con balance 0 es de 3,117, 500 clientes abandonaron con balance en 0 y 592 que dejaron de ser nuestros clientes que tenían balance Altos. 
 
 **CreditScore:**  
-![c9] ![10]  
+![c13] ![14]  
 
-      IsActiveMember	HasCrCard	Balance	
-      0	0	87	0	1	233	1	0	65	1	1	115  
-      
+      IsActiveMember	HasCrCard	Balance
+      0	0	0	87
+      1	0	1	233
+      2	1	0	65
+      3	1	1	115
 
 
  
