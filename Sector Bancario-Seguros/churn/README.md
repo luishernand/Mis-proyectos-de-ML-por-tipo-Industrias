@@ -65,7 +65,7 @@ Descripción:
  ![c1] ![c2] ![c3] ![c5] ![c6] ![c7] ![c8]   
  
       
-**Comentario:  
+**Comentario:**    
 
 - El 54.57% de los registros presentados en la variable Gender está compuestos por Hombres(Male)
 - Francia tiene mayor porcentaje con el 50.14%.  
@@ -154,6 +154,18 @@ Clientes que Dejaron de ser nuestros por Cantidad de Productos:
 - El dataset presenta outliers
 - tenemos dos clientes con 92 años poseen saldos
 No vamos a eliminar los outliers ya que todavía son clientes nuestros y presentan Balance.  
+
+## Modelo  
+Para este conjunto de datos utilizamos las técnica de OverSampling ya que nuestras varaible de salidad(target) presente desbalance en las clases. 
+0= 79.63% 1= 20.73%
+
+**SMOTE(OverSampling):** se utiliza para genrear datos sintéticos, utiliza un vecino más cercano para generar datos nuevos. 
+
+Utilizamos la libreria  
+```python  
+from imblearn.over_sampling import SMOTE
+```  
+Llevando a nuestra targe o class a: 0= 7963, 1 = 7963  
 
 
 
