@@ -25,7 +25,7 @@ para este proyecto utilizamos  los datos de [kaggle](https://www.kaggle.com/math
 Este dataset consta de **10,000** observaciones y **13** características.  
 
 ## Exploratory Data Analysis- EDA  
-![c1] ![2] ![c3]  
+![c1] ![c2] ![c3]  
 
          Geography	Gender	count
       1	   France	Male	   2753
@@ -36,7 +36,7 @@ Este dataset consta de **10,000** observaciones y **13** características.
       4	   Spain	   Female	1089  
       
 - el 54.57% de los registros presentados en la variable Gender está compuestos por Hombres(Male)
-- Francia compone el mayor porcentaje de nuestros data con el 50.14%.  
+- Francia tiene mayor porcentaje con el 50.14%.  
 
 
 
