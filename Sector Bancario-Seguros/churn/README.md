@@ -189,8 +189,8 @@ Classification Report:
     	Abandono        0.86      	0.87      0.87        2352
 
     	  accuracy                        	  0.87        4778
-   	  macro avg       0.87      	0.87      0.87        4778
-	  weighted avg    0.87      	0.87      0.87        4778  
+   	macro avg       0.87      	0.87      0.87        4778
+  	weighted avg    0.87      	0.87      0.87        4778  
 
 Confussion Matrix:  
 
