@@ -29,12 +29,12 @@ Este dataset consta de **10,000** observaciones y **13** características.
 
   |Geography	| Gender	| count|
   |------------|--------|------|
- 1	|   France	| Male	 |   2753|
- 0	|   France	| Female	 |2261|
- 5	|   Spain	|    Male|	    1388|
- 3	|   Germany|	 Male	 |   1316|
- 2	|   Germany|	 Female	| 1193|
- 4	|   Spain	|    Female	| 1089 | 
+ 	|   France	| Male	 |   2753|
+ 	|   France	| Female	 |2261|
+ 	|   Spain	|    Male|	    1388|
+ 	|   Germany|	 Male	 |   1316|
+ 	|   Germany|	 Female	| 1193|
+ 	|   Spain	|    Female	| 1089 | 
       
 - el 54.57% de los registros presentados en la variable Gender está compuestos por Hombres(Male)
 - Francia tiene mayor porcentaje con el 50.14%.  
