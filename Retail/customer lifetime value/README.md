@@ -8,7 +8,8 @@ El CLV es interesante para todas aquellas empresas que quieren invertir en marke
 
 Los cálculos que se suelen hacer para calcular el coste máximo de una campaña de captación de clientes se basa en una venta única típicamente. Si hago publicidad para vender viajes que me aporta un margen de 200 pesos intento no gastarme más de 100 pesos en publicidad para tener un beneficio atractivo. Lo que no se tiene en cuenta es que ese mismo cliente podría repetir su compra. Si de repente nos damos cuenta que ese cliente de media va a comprar durante 3 años ese mismo viaje en vez de gastarnos 100 pesos podríamos llegar a gastarnos hasta 300. Para ello la empresa tiene que disponer de un colchón financiero lo suficientemente grande para financiar el primer año en el que la relación todavía no genera un flujo de caja positivo.
 
-
+##Notebook
+1. [lifetime value](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/customer%20lifetime%20value/lifetime%20values.ipynb)
 
 
 
