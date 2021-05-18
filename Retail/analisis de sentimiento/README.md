@@ -42,5 +42,5 @@ Entre las principales ventajas de hacer un análisis de sentimiento se encuentra
 
 ## Usos de la herramienta de análisis de sentimiento  
 La herramienta de **análisis de sentimiento** tiene una gran variedad de usos. Aquí te mencionamos los más importantes:  
-<img src="https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/info-analisis-de-sentimientos1.jpg" heiht= 489 width= 900 alt=" "> 
+<img src="https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/info-analisis-de-sentimientos1.jpg" heiht= 489 width= 800 alt=" "> 
 
