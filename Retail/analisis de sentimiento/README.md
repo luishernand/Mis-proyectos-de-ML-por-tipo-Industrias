@@ -65,6 +65,10 @@ Las organizaciones podrían obtener información muy necesaria sobre las emocion
 
 Esto les permite crear mejores estrategias de mercado, centrarse en la toma de decisiones y medir el ROI de sus campañas de marketing.  
 
-## Cómo hacer un análisis de sentimiento usando  
+## Cómo hacer un análisis de sentimiento usando: Spacy, TextBlob y neattext  
+
+[Analisis de sentimiento](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/sentiment.ipynb)  
+
+    creado por: Luis Hernández email: luishernand11@gmail.com
 
 
