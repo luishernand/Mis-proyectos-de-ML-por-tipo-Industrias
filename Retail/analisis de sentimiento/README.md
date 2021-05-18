@@ -43,5 +43,28 @@ Entre las principales ventajas de hacer un análisis de sentimiento se encuentra
 ## Usos de la herramienta de análisis de sentimiento  
 La herramienta de **análisis de sentimiento** tiene una gran variedad de usos. Aquí te mencionamos los más importantes:  
 
-<img src="https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/info-analisis-de-sentimientos1.jpg" heiht= 489 width= 700 alt=" "> 
+<img src="https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/info-analisis-de-sentimientos1.jpg" heiht= 489 width= 700 alt=" ">   
+
+- Encuestas: Ayuda a analizar la opinión de los clientes para comprender su retroalimentación, sugerencias, inquietudes y quejas. La herramienta de análisis de sentimiento clasifica las respuestas del cliente como sentimientos positivos, neutrales o negativos.
+- Análisis de datos en redes sociales: A menudo, las personas reaccionan ante cualquier evento o noticia en  redes sociales. Tus publicaciones se pueden utilizar para comprender sus reacciones a los eventos o el impacto que han generado algunas campañas de marketing específicas. Con base en el análisis de datos, crea una estrategia para llegar mejor a las personas y mejorar su experiencia.
+- Posicionamiento de marca: Las agencias de relaciones públicas realizan un análisis de sentimiento del cliente con el propósito de gestionar su reputación en plataformas públicas. Una vez que identificas los comentarios negativos, puedes responder rápidamente a los seguidores y mantener la situación bajo control. La ausencia de identificación rápida y direccionamiento puede afectar negativamente la reputación.
+- Marketing personalizado: El marketing basado en el análisis de sentimiento se puede utilizar para ofrecer productos, servicios y descuentos personalizados para audiencias específicas y mejorar las posibilidades de conversión.
+- Previsión de ventas: El análisis del sentimiento de los datos de preguntas abiertas puede ayudar a pronosticar las ventas y crear una estrategia futura. En función de los comentarios.  
+
+Al hacer uso de una herramienta de análisis de sentimiento podrás  utilizar las respuestas de una pregunta de texto abierto de tu encuesta para predecir el nivel de satisfacción del cliente.   
+
+También puedes realizar un análisis de sentimiento para lograr objetivos específicos que incluyen:  
+
+- Dirigirse a comunidades o grupos demográficos específicos para mejorar sus productos o servicios.
+- Darle seguimiento a los sentimientos y las emociones de los clientes a lo largo del tiempo. 
+- Determinar la característica de un producto o servicio que atrae fuertemente a su público objetivo.
+- Darle seguimiento a los cambios en el comportamiento del cliente, a partir de las modificaciones en productos o servicios.
+- Encontrar a los promotores y detractores clave para enfocar los esfuerzos en ellos.   
+
+Las organizaciones podrían obtener información muy necesaria sobre las emociones y sentimientos de los clientes relacionados con un producto o servicio. 
+
+Esto les permite crear mejores estrategias de mercado, centrarse en la toma de decisiones y medir el ROI de sus campañas de marketing.  
+
+## Cómo hacer un análisis de sentimiento usando  
+
 
