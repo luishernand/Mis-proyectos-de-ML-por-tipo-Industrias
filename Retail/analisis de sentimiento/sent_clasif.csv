@@ -1,0 +1,1001 @@
+ItemID,Sentiment,SentimentText,text_clean,polarity,subjectivity,sentiment_label,compound,negative,positive,neutral
+1,0,                     is so sad for my APL friend.............,friend,0.0,0.0,Neutral,0.4939,0.0,1.0,0.0
+2,0,                   I missed the New Moon trailer...,missed Moon trailer,0.0,0.0,Neutral,-0.296,0.524,0.0,0.476
+3,1,              omg its already 7:30 :O,already,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+4,0,          .. Omgaga. Im sooo  im gunna CRy. I've been at this dentist since 11.. I was suposed 2 just get a crown put on (30mins)...,Omgaga sooo gunna been this dentist since suposed just crown 30mins,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+5,0,         i think mi bf is cheating on me!!!       T_T,think cheating,0.0,0.0,Neutral,-0.5574,0.783,0.0,0.217
+6,0,         or i just worry too much?        ,just worry much,0.2,0.2,Positive,-0.4404,0.592,0.0,0.408
+7,1,       Juuuuuuuuuuuuuuuuussssst Chillin!!,Juuuuuuuuuuuuuuuuussssst Chillin,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+8,0,       Sunny Again        Work Tomorrow  :-|       TV Tonight,Sunny Again Work Tomorrow Tonight,0.0,0.0,Neutral,0.4215,0.0,0.412,0.588
+9,1,      handed in my uniform today . i miss you already,handed uniform today miss already,0.0,0.0,Neutral,-0.1531,0.286,0.0,0.714
+10,1,      hmmmm.... i wonder how she my number @-),hmmmm wonder number,0.0,0.0,Neutral,0.0772,0.0,0.394,0.606
+11,0,      I must think about positive..,must think about positive,0.22727272727272727,0.5454545454545454,Positive,0.5574,0.0,0.545,0.455
+12,1,      thanks to all the haters up in my face all day! 112-102,thanks haters face 112102,0.2,0.2,Positive,-0.0772,0.395,0.358,0.247
+13,0,      this weekend has sucked so far,this weekend sucked,0.0,0.0,Neutral,-0.4588,0.6,0.0,0.4
+14,0,     jb isnt showing in australia any more!,isnt showing australia more,0.5,0.5,Positive,0.0,0.0,0.0,1.0
+15,0,     ok thats it you win.,thats,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+16,0,    &lt;-------- This is the way i feel right now...,This feel right,0.2857142857142857,0.5357142857142857,Positive,0.0,0.0,0.0,1.0
+17,0,"    awhhe man.... I'm completely useless rt now. Funny, all I can do is twitter. http://myloc.me/27HX",awhhe completely useless Funny twitter http mylocme 27HX,-0.125,0.6,Negative,0.022,0.252,0.259,0.489
+18,1,    Feeling strangely fine. Now I'm gonna go listen to some Semisonic to celebrate,Feeling strangely fine gonna listen some Semisonic celebrate,0.4166666666666667,0.5,Positive,0.5859,0.167,0.53,0.303
+19,0,    HUGE roll of thunder just now...SO scary!!!!,HUGE roll thunder just nowSO scary,-0.04999999999999996,0.95,Negative,-0.0431,0.313,0.296,0.391
+20,0,    I just cut my beard off. It's only been growing for well over a year. I'm gonna start it over. @shaunamanu is happy in the meantime.,just beard only been growing well over year gonna start over shaunamanu happy meantime,0.4,1.0,Positive,0.7579,0.0,0.405,0.595
+21,0,    Very sad about Iran.,Very about Iran,0.2,0.3,Positive,0.0,0.0,0.0,1.0
+22,0,    wompppp wompp,wompppp wompp,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+23,1,    You're the only one who can see this cause no one else is following me this is for you because you're pretty awesome,Youre only this cause else following this because youre pretty awesome,0.3125,0.775,Positive,0.8074,0.0,0.448,0.552
+24,0,   &lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*,ltSad level writing massive blog tweet Myspace comp shut down lost lays fetal position,-0.07777777777777779,0.6444444444444445,Negative,-0.3182,0.15,0.0,0.85
+25,0,   ...  Headed to Hospitol : Had to pull out of the Golf Tourny in 3rd place!!!!!!!!!!! I Think I Re-Ripped something !!! Yeah THAT !!,Headed Hospitol pull Golf Tourny place Think ReRipped something Yeah THAT,0.0,0.0,Neutral,0.296,0.0,0.18,0.82
+26,0,   BoRinG   ): whats wrong with him??     Please tell me........   :-/,BoRinG whats wrong with Please tell,-0.75,0.95,Negative,-0.4767,0.505,0.215,0.28
+27,0,   can't be bothered. i wish i could spend the rest of my life just sat here and going to gigs. seriously.,cant bothered wish could spend rest life just here going gigs seriously,-0.3333333333333333,0.6666666666666666,Negative,-0.2491,0.265,0.132,0.603
+28,0,"   Feeeling like shit right now. I really want to sleep, but nooo I have 3 hours of dancing and an art assignment to finish. ",Feeeling like shit right really want sleep nooo have hours dancing assignment finish,0.09523809523809523,0.511904761904762,Positive,-0.1298,0.203,0.231,0.565
+29,1,"   goodbye exams, HELLO ALCOHOL TONIGHT ",goodbye exams HELLO ALCOHOL TONIGHT,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+30,0,   I didn't realize it was THAT deep. Geez give a girl a warning atleast!,didnt realize THAT deep Geez give girl warning atleast,0.0,0.4,Neutral,-0.34,0.231,0.0,0.769
+31,0,   I hate it when any athlete appears to tear an ACL on live television.,hate when athlete appears tear live television,-0.33181818181818185,0.7,Negative,-0.5719,0.381,0.0,0.619
+32,0,   i miss you guys too     i think i'm wearing skinny jeans a cute sweater and heels   not really sure   what are you doing today,miss guys think wearing skinny jeans cute sweater heels really sure what doing today,0.5,0.9444444444444444,Positive,0.6115,0.088,0.307,0.605
+33,0,  -- Meet your Meat http://bit.ly/15SSCI,Meet your Meat http bitly 15SSCI,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+34,0,   My horsie is moving on Saturday morning.,horsie moving Saturday morning,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+35,0,   No Sat off...Need to work 6 days a week ,offNeed work days week,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+36,0,   Really Dont Like Doing my Room Its So Boring  Sick Of Doing My Wardrobe Out Cant Waiit Till I Have My Walk In One  Yay,Really Dont Like Doing Room Boring Sick Doing Wardrobe Cant Waiit Till Have Walk,-0.5047619047619047,0.6857142857142856,Negative,-0.7899,0.421,0.0,0.579
+37,0,"   SOX!     Floyd was great, but relievers need a scolding!",Floyd great relievers need scolding,0.8,0.75,Positive,0.7269,0.0,0.67,0.33
+38,0,   times by like a million,times like million,0.0,0.0,Neutral,0.3612,0.0,0.556,0.444
+39,1,   uploading pictures on friendster ,uploading pictures friendster,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+40,0,   what type of a spaz downloads a virus? my brother that's who :\ MSN is now fucked forever    :'(,what type spaz downloads virus brother thats fucked forever,-0.6,0.7,Negative,-0.6597,0.355,0.0,0.645
+41,0,  &amp;&amp;Fightiin Wiit The Babes...,ampampFightiin Wiit Babes,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+42,1,  (: !!!!!! - so i wrote something last week. and i got a call from someone in the new york office... http://tumblr.com/xcn21w6o7,wrote something last week call from someone york office http tumblrcom xcn21w6o7,0.0,0.06666666666666667,Neutral,0.0,0.0,0.0,1.0
+43,0,  *enough said*,enough said,0.0,0.5,Neutral,0.0,0.0,0.0,1.0
+44,1,"  ... Do I need to even say it?  Do I?  Well, here I go anyways:  CHRIS CORNELL IN CHICAGO!  ... TONIGHT!    ",need even Well here anyways CHRIS CORNELL CHICAGO TONIGHT,0.0,0.0,Neutral,0.2732,0.0,0.208,0.792
+45,1,  ... health class (what a joke!),health class what joke,0.0,0.0,Neutral,0.296,0.0,0.423,0.577
+46,1,  @ginaaa &lt;3 GO TO THE SHOW TONIGHT,ginaaa SHOW TONIGHT,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+47,0,  @Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now,Spiralgalaxy YMPtweet really makes when look Muslims reality,0.2,0.2,Positive,0.0,0.0,0.0,1.0
+48,0, - All Time Low shall be my motivation for the rest of the week.,Time shall motivation rest week,0.0,0.0,Neutral,0.34,0.0,0.375,0.625
+49,0,"  and the entertainment is over, someone complained properly..   @rupturerapture experimental you say? he should experiment with a melody",entertainment over someone complained properly rupturerapture experimental should experiment with melody,-0.06666666666666667,0.23333333333333336,Negative,0.0258,0.186,0.193,0.621
+50,0,  another year of Lakers .. That's neither magic nor fun ...,another year Lakers Thats neither magic,0.5,1.0,Positive,0.0,0.0,0.0,1.0
+51,0,  baddest day eveer. ,baddest eveer,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+52,1,  bathroom is clean..... now on to more enjoyable tasks......,bathroom clean more enjoyable tasks,0.45555555555555555,0.6000000000000001,Positive,0.7089,0.0,0.663,0.337
+53,1,  boom boom pow,boom boom,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+54,0,  but i'm proud.,proud,0.8,1.0,Positive,0.4767,0.0,1.0,0.0
+55,0,  congrats to helio though,congrats helio though,0.0,0.0,Neutral,0.5267,0.0,0.63,0.37
+56,0,  David must be hospitalized for five days end of July (palatine tonsils). I will probably never see Katie in concert. ,David must hospitalized five days July palatine tonsils will probably never Katie concert,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+57,0,  friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC,friends leaving cause this stupid love http bitly ZoxZC,-0.14999999999999997,0.8,Negative,0.5106,0.231,0.422,0.347
+58,1,  go give ur mom a hug right now. http://bit.ly/azFwv,give right http bitly azFwv,0.2857142857142857,0.5357142857142857,Positive,0.0,0.0,0.0,1.0
+59,1,  Going To See Harry Sunday Happiness ,Going Harry Sunday Happiness,0.7,0.2,Positive,0.5574,0.0,0.545,0.455
+60,0,  Hand quilting it is then...,Hand quilting then,0.0,0.0,Neutral,0.4939,0.0,0.615,0.385
+61,0,  hate u ...  leysh t9ar5 ... =((((((( ..,hate leysh t9ar5,-0.8,0.9,Negative,-0.5719,0.649,0.0,0.351
+62,1,=-  I always get what I want,always what want,0.0,0.0,Neutral,0.0772,0.0,0.394,0.606
+63,1,  I bend backwards  ,bend backwards,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+64,1,  i get off work sooooon! i miss cody booo. haven't seen him in foreverr!,work sooooon miss cody booo havent seen foreverr,0.0,0.0,Neutral,-0.1531,0.186,0.0,0.814
+65,1,  I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...,hate allergies Should hair tomorrow taking public poll,-0.4,0.48333333333333334,Negative,-0.5719,0.346,0.0,0.654
+66,0, - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us,love guys much that hurts http tumblrcom xkh1z19us,0.35,0.4,Positive,0.2732,0.233,0.316,0.451
+67,0,  I miss Earl,miss Earl,0.0,0.0,Neutral,-0.1531,0.615,0.0,0.385
+68,0,  I miss New Jersey,miss Jersey,0.0,0.0,Neutral,-0.1531,0.615,0.0,0.385
+69,0,"  I missed the first hour of SYTYCD last night, and I can't find it online!",missed first hour SYTYCD last night cant find online,0.125,0.19999999999999998,Positive,-0.296,0.216,0.0,0.784
+70,0,  I need a U2 fix NOW!,need,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+71,0,  I never thought I'd become second choice...,never thought become second choice,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+72,0,  I think I may be too friendly...lol... o well...,think friendlylol well,0.0,0.0,Neutral,0.2732,0.0,0.512,0.488
+73,0,  I think Manuel (my Basil plant) only has days to live   ,think Manuel Basil plant only days live,0.06818181818181818,0.75,Positive,0.0,0.0,0.0,1.0
+74,0,  I wanna be at home @ church...I wonder wht they are doing?,wanna home churchI wonder they doing,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+75,0,  i wanna make my own pizza,wanna make pizza,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+76,0,"  i want a 120gb harddrive, or a 37 inch tv, or a new guitar.  anyonefeeling generous?  =p   x",want 120gb harddrive inch guitar anyonefeeling generous,0.0,0.0,Neutral,0.5574,0.0,0.479,0.521
+77,0,  i want a hug,want,0.0,0.0,Neutral,0.0772,0.0,1.0,0.0
+78,0,  I want Miley to tour Australia,want Miley tour Australia,0.0,0.0,Neutral,0.0772,0.0,0.302,0.698
+79,0,  I wanted to sleep in this morning but a mean kid through a popsicle stick at me head. I wish I could fly away like those squirrels,wanted sleep this morning mean through popsicle stick head wish could away like those squirrels,-0.3125,0.6875,Negative,0.6369,0.0,0.286,0.714
+80,0,  i was too slow to get $1 Up tix,slow,-0.30000000000000004,0.39999999999999997,Negative,0.0,0.0,0.0,1.0
+81,0,"  I will send sunshine to Northern Ireland, are you going swimming today @kezbat",will send sunshine Northern Ireland going swimming today kezbat,0.0,0.0,Neutral,0.4939,0.0,0.286,0.714
+82,0,  I wish I could go to T4 On The Beach :'(    Would be great to see @Shontelle_Layne &amp; @DanMerriweather   ,wish could Beach Would great ShontelleLayne DanMerriweather,0.8,0.75,Positive,0.7783,0.0,0.576,0.424
+83,0,"  i would be so much happier if the walls of my bedroom were painted white,",would much happier walls bedroom were painted white,0.1,0.1,Positive,0.5267,0.0,0.327,0.673
+84,0,  idk wat 2 do who can i trust me im sorry 4 all da pain i have caused nebody ima take dis time out 2 straighten myself out i luv yall,trust sorry pain have caused nebody take time straighten myself yall,-0.5,1.0,Negative,-0.0772,0.289,0.208,0.503
+85,0,  I'm finding the intercept slope..and banging my head against the wall..Math brain heads come save me,finding intercept slopeand banging head against wallMath brain heads come save,0.0,0.0,Neutral,0.4939,0.0,0.242,0.758
+86,1,  I'm really going to bed now...,really going,0.2,0.2,Positive,0.0,0.0,0.0,1.0
+87,0,  im sick  'cough cough',sick cough cough,-0.7142857142857143,0.8571428571428571,Negative,-0.5106,0.623,0.0,0.377
+88,0,  in cab headed to the airport!  going home.... &lt;christy&gt;,headed airport going home ltchristygt,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+89,0,  In case I feel emo in camp (feeling a wee bit of it alr)...am bringing in the Human Rights Watch World Report 2009..hope it'll work,case feel camp feeling bringing Human Rights Watch World Report 2009hope itll work,0.0,0.1,Neutral,0.128,0.0,0.111,0.889
+90,1,  Jin has a twitter.,twitter,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+91,0,  jonas day is almost over... ,jonas almost over,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+92,0,  Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.,Funeral Cried Much Times Much Love Grandpalt3 Never Last quotGoodbyequot,0.2333333333333333,0.2888888888888889,Positive,0.0258,0.313,0.258,0.429
+93,1,  just gonna smile...cuz it is what it is..and im not sure what more they could want..,just gonna smilecuz what isand sure what more they could want,0.5,0.6944444444444444,Positive,0.4336,0.0,0.3,0.7
+94,1,"  Just got home, and I got to see my friend Zahra whom I haven't seen since We graduated!!!  That makes me so happy.",Just home friend Zahra whom havent seen since graduated That makes happy,0.8,1.0,Positive,0.7845,0.0,0.408,0.592
+95,0, - Longest night ever.. ugh! http://tumblr.com/xwp1yxhi6,Longest night ever http tumblrcom xwp1yxhi6,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+96,0,  mi momacita won't let me go to my bf's bball game!!! grrr!!!,momacita wont bball game grrr,-0.55,0.6000000000000001,Negative,0.0762,0.0,0.245,0.755
+97,0,  Mom says I have to get a new phone IMMEDIATELY....off to T-Mobile.  she paying....,says have phone IMMEDIATELYoff TMobile paying,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+98,0,  My new car was stolen....by my mother who wanted to go pose at church.,stolenby mother wanted pose church,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+99,0,"  no hang out with the girls 2day. 2moro, hope so......",hang with girls 2day 2moro hope,0.0,0.0,Neutral,0.4404,0.0,0.367,0.633
+100,0,  no movie times for sunday!  Rats will have to plan tomorrow. I guess this means I have to work on those two  presentations I am doing!,movie times sunday Rats will have plan tomorrow guess this means have work those presentations doing,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+101,0,  no pavel tonight &lt;Tigersfan &gt;,pavel tonight ltTigersfan,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+102,0,  not a cool night.,cool night,0.35,0.65,Positive,0.3182,0.0,0.697,0.303
+103,1,  oh thank you!,thank,0.0,0.0,Neutral,0.3612,0.0,1.0,0.0
+104,1,  pleased,pleased,0.5,1.0,Positive,0.4404,0.0,1.0,0.0
+105,0,  probably guna get off soon since no one is talkin no more,probably guna soon since talkin more,0.5,0.5,Positive,0.0,0.0,0.0,1.0
+106,0,  really wanted Safina to pull out a win &amp; to lose like that...,really wanted Safina pull lose like that,0.2,0.2,Positive,-0.0516,0.265,0.245,0.49
+107,0,"  RIP, David Eddings.",David Eddings,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+108,1,  Rose and ood will be back in the Xmas Who special!  YAY!  Damn that's half a year away.,Rose will back Xmas special Damn thats half year away,0.1976190476190476,0.4220238095238095,Positive,0.0,0.201,0.201,0.597
+109,0, - sannesias: Aww no neighbor! We need to watch Mean Girls :] http://tumblr.com/xv31s2pi8,sannesias neighbor need watch Mean Girls http tumblrcom xv31s2pi8,-0.3125,0.6875,Negative,0.0,0.0,0.0,1.0
+110,0,  so whats the status on next weekend,whats status next weekend,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+111,0,  sorry @gigi4462 The Ex Husband has overdosed on his daily dose of haterade,sorry gigi4462 Husband overdosed daily dose haterade,-0.25,0.5,Negative,-0.0772,0.178,0.0,0.822
+112,0,  Thanks for your definition of throwbie!  Editors reviewed your entry and have decided to not publish it.,Thanks your definition throwbie Editors reviewed your entry have decided publish,0.2,0.2,Positive,0.4404,0.0,0.225,0.775
+113,1,"  Thanks, I need all the help i can get.",Thanks need help,0.2,0.2,Positive,0.6808,0.0,0.848,0.152
+114,1, - that explains alot.,that explains alot,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+115,1,  There's going to be a Heathers sequel.  Winona4ever!  They better not fuck it up.,Theres going Heathers sequel Winona4ever They better fuck,0.04999999999999999,0.55,Positive,-0.1531,0.282,0.234,0.484
+116,0,"  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v, v, sad.",told drink just gave porter stout that brought home from neighbors,0.0,0.0,Neutral,0.1779,0.0,0.145,0.855
+117,1,  trae is so sweet! He just bought me a new baithing suit!! Wove him ,trae sweet just bought baithing suit Wove,0.35,0.65,Positive,0.4588,0.0,0.333,0.667
+118,1,"  True, highly subjective of me there. Tombre was actually my favorite character in the book. You got me  - http://is.gd/13be0 - Rishabh",True highly subjective there Tombre actually favorite character book http isgd 13be0 Rishabh,0.33666666666666667,0.73,Positive,0.7003,0.0,0.345,0.655
+119,0,  u guys knw whyy,guys whyy,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+120,0,  very much so ,very much,0.26,0.26,Positive,0.0,0.0,0.0,1.0
+121,0,  waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;,waahhh getting sadmiss quotquotquotquotquotquotquotquot,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+122,0,--  we were standing out in the pouring rain.. We were sitting on top of the world..  --   summer sucks      --,were standing pouring rain were sitting world summer sucks,-0.3,0.3,Negative,-0.3612,0.238,0.0,0.762
+123,0,"  Went to get dog from vets, theyve stitched her ear, charged us for it but she still bleeds like a waterfall everytime she moves. D: WHY!",Went from vets theyve stitched charged still bleeds like waterfall everytime moves,0.0,0.0,Neutral,0.1779,0.126,0.175,0.699
+124,0,  where is my picture i feel naked ,where picture feel naked,0.0,0.4,Neutral,0.0,0.0,0.0,1.0
+125,0,  Why aren't there any trains going to manchester on a sunday?!!  Now I can't go to the @jonasbrothers concert.,arent there trains going manchester sunday cant jonasbrothers concert,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+126,0, - Why must people be so picky. I mean 6 hours work and no dice!? whatï¿½s up with that! http://tumblr.com/xsg1m3ufn,must people picky mean hours work dice what with that http tumblrcom xsg1m3ufn,-0.3125,0.6875,Negative,0.0,0.0,0.0,1.0
+127,0,  Why Twitter will soon become obsolete? http://www.imediaconnection.com/content/23465.asp,Twitter will soon become obsolete http wwwimediaconnectioncom content 23465asp,0.0,0.0,Neutral,-0.296,0.216,0.0,0.784
+128,1,  wide awake   NOT!!!,wide awake,-0.1,0.4,Negative,0.0,0.0,0.0,1.0
+129,1,  yeah me too. Its been awful weather here for the last week so that stinks. Kristis comin down and moe said mmmaybe he take us for  ...,yeah been awful weather here last week that stinks Kristis comin down said mmmaybe take,-0.43888888888888894,0.4638888888888889,Negative,-0.4215,0.26,0.115,0.625
+130,0, - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly,Stranger HELLO FRANK LAMPARD fine urself Stranger Your http tumblrcom xaj24dkly,0.4166666666666667,0.5,Positive,0.2023,0.0,0.153,0.847
+131,0,  you'll always be my one and only...  [12*23*2007],youll always only 2007,0.0,1.0,Neutral,0.0,0.0,0.0,1.0
+132,0, #3turnoffwords this shit sucks,3turnoffwords this shit sucks,-0.25,0.55,Negative,-0.7269,0.753,0.0,0.247
+133,0, #asylm J2 panel is over. Guess it's back to normal life.,asylm panel over Guess back normal life,0.075,0.32499999999999996,Positive,0.0,0.0,0.0,1.0
+134,1, #poemsunder140 ....started by @shannonelyse1,poemsunder140 started shannonelyse1,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+135,0, #squarespace brighten my bad day! i never win anything...,squarespace brighten never anything,0.0,0.0,Neutral,0.4404,0.0,0.492,0.508
+136,0," #Susan Boyle didnt win! mh well, diversity was very good though! CONGRATZ!!",Susan Boyle didnt well diversity very good though CONGRATZ,0.9099999999999999,0.7800000000000001,Positive,0.3354,0.151,0.266,0.583
+137,0, #twenty20,twenty20,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+138,1," &lt;--- That is all, and believe me.. it's enough!",That believe enough,0.0,0.5,Neutral,0.0,0.0,0.0,1.0
+139,1, &lt;3 goooood timessss,goooood timessss,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+140,0, &lt;3 GrAdUaTE 09&lt;3,GrAdUaTE 09lt3,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+141,0," &quot; Vandals paint swastikas on home of author of gay, lesbian church story : Naples Daily News&quot; ( http://bit.ly/11zyzl )",quot Vandals paint swastikas home author lesbian church story Naples Daily Newsquot http bitly 11zyzl,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+142,0, &quot;An unknown error occured (-4)&quot;. uh oh. iPhone OS 3 fail so far ,quotAn unknown error occured quot iPhone fail,-0.3,0.44999999999999996,Negative,-0.7351,0.554,0.0,0.446
+143,0, &quot;experts (homers) predict Eagles to go 12-4 and Giants to go 9-7/ BS! http://www.dailysportspages.com/forums/showthread.php?t=49343,quotexperts homers predict Eagles Giants http wwwdailysportspagescom forums showthreadphpt 49343,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+144,1, &quot;I know you hungry so lets go outside on the balcony so you can eat&quot;....,quotI know hungry lets outside balcony eatquot,0.0,0.05,Neutral,0.0,0.0,0.0,1.0
+145,0, &quot;I want you so bad it's driving me  mad&quot;,quotI want driving madquot,0.0,0.0,Neutral,0.0772,0.0,0.302,0.698
+146,1, &quot;The 10 Men a UK Female Internet Entrepreneur Should Know when Starting and Growing a Business : The Next Women&quot; ( http://tinyurl.com ...,quotThe Female Internet Entrepreneur Should Know when Starting Growing Business Next Womenquot http tinyurlcom,0.0,0.08888888888888889,Neutral,0.1779,0.0,0.116,0.884
+147,1, &quot;The truth is hiding in your eyes&quot; @patita @MissMarian  Paramore ï¿½ Decode @Daninho502  ? http://blip.fm/~5ytke,quotThe truth hiding your eyesquot patita MissMarian Paramore Decode Daninho502 http blipfm 5ytke,0.0,0.0,Neutral,0.0258,0.142,0.148,0.71
+148,0, &quot;Try to turn on my tv to get you out of my head. I've got this feeling inside that I just won't admit...&quot; (that is literally how I feel),quotTry turn head this feeling inside that just wont admitquot that literally feel,0.0,0.0,Neutral,0.1593,0.0,0.119,0.881
+149,0," &quot;well, the truth is I miss you so&quot;- Coldplay",quotwell truth miss soquot Coldplay,0.0,0.0,Neutral,0.1779,0.232,0.333,0.435
+150,0, (tears) :'-( Today is the last day with my kids...They go on summer break at their Dads tomorrow. *sighs* http://plurk.com/p/x8j86,tears Today last with kidsThey summer break their Dads tomorrow sighs http plurkcom x8j86,0.0,0.06666666666666667,Neutral,-0.2263,0.128,0.0,0.872
+151,0, (unsure) (annoyed) http://plurk.com/p/1230lz,unsure annoyed http plurkcom 1230lz,-0.4,0.8,Negative,-0.5574,0.605,0.0,0.395
+152,0, (via @designrelated) are designed gallery exhibition postcards/mailers going extinct? via NYT http://ow.ly/fHJc,designrelated designed gallery exhibition postcards mailers going extinct http owly fHJc,-0.4,0.6,Negative,0.0,0.0,0.0,1.0
+153,0, *BeautifulyLost,BeautifulyLost,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+154,0,- *cries* I'm going to miss Harry Potter when it comes out.  I'm leaving to Vietnam on July 11th.  I'm going to cry!!,cries going miss Harry Potter when comes leaving Vietnam July 11th going,0.0,0.0,Neutral,-0.5106,0.301,0.0,0.699
+155,1,-- *hummin* I SAY &quot;shut up &amp; put your money where your mouth is&quot; ...headin' out to reality. Cheers Twitter world! ,hummin quotshut your money where your mouth isquot headin reality Cheers Twitter world,0.0,0.0,Neutral,0.4767,0.0,0.205,0.795
+156,1,-- . *sigh* You cant love someone that doesn't love you back that's like stalker status . GET a divorce &amp;&amp; move on . Trinity. ,sigh cant love someone that doesnt love back thats like stalker status divorce ampamp move Trinity,0.3333333333333333,0.39999999999999997,Positive,-0.6293,0.302,0.161,0.537
+157,0," . . . . going back to bed, because I'm lookin' around and don't see a reason to be awake atm. Be up in a little.",going back because lookin around dont reason awake little,-0.09375,0.25,Negative,0.0,0.0,0.0,1.0
+158,1,"-- . Aiqht Goodniqht . Tri, Neena, Malcolm, Chaise , JLew, ATL &lt;333 Love Much . ",Aiqht Goodniqht Neena Malcolm Chaise JLew lt333 Love Much,0.35,0.4,Positive,0.6369,0.0,0.344,0.656
+159,1,-- . Triiiiiii .  ily . even if Chaise doesn't . =D *dies of laughter*,Triiiiiii even Chaise doesnt dies laughter,0.0,0.0,Neutral,-0.3875,0.345,0.0,0.655
+160,0, .. i wantt hiim soo badd !!,wantt hiim badd,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+161,0," .. watching tv , bed, shopping w. mom, out w. trent hopefully, i need my best friend",watching shopping trent hopefully need best friend,1.0,0.3,Positive,0.8779,0.0,0.716,0.284
+162,0, ... had weird encounters with so many homeless/creeps on the walk home tonight all by myself   awesome... really...,weird encounters with many homeless creeps walk home tonight myself awesome really,0.3,0.675,Positive,0.5267,0.108,0.259,0.633
+163,0, ... Rained out truck race,Rained truck race,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+164,0, ... Why am I feeling worse??? F!!!,feeling worse,-0.4,0.6,Negative,-0.3818,0.674,0.326,0.0
+165,0, .... Feeling pain and happiness at the same time. How confusing!,Feeling pain happiness same time confusing,0.13333333333333333,0.2416666666666667,Positive,-0.0258,0.423,0.415,0.163
+166,1, ..... hot choco is the best!,choco best,1.0,0.3,Positive,0.6369,0.0,0.808,0.192
+167,0, ....in a shirt and panties. celulite,shirt panties celulite,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+168,0, ..had to turn back to North due to body on line. So missing Design Council Design 4 Tech Transfer event   http://bit.ly/pXrzV...,turn back North body line missing Design Council Design Tech Transfer event http bitly pXrzV,-0.1,0.025,Negative,-0.296,0.136,0.0,0.864
+169,0, ..y everything is so hard? :/,everything hard,-0.2916666666666667,0.5416666666666666,Negative,-0.1027,0.583,0.0,0.417
+170,0, .bueno good bye. good night,bueno good good night,0.7,0.6000000000000001,Positive,0.7003,0.0,0.744,0.256
+171,1, : Beach day with Scoobs. =( : Still no phone.,Beach with Scoobs Still phone,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+172,0," : Let's have fun,. When I give ya what I give ya.",Lets have When give what give,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+173,0, :[ I don't want to move!!!,dont want move,0.0,0.0,Neutral,-0.0572,0.379,0.0,0.621
+174,1," :-D ))))))))...WHAT AN AMAZING NIGHT,DAY &amp; NIGHT AGAIN!! HI TWITS! I MiSS U GUYS",WHAT AMAZING NIGHTDAY NIGHT AGAIN TWITS MiSS GUYS,0.6000000000000001,0.9,Positive,0.6037,0.132,0.374,0.495
+175,1, @ canaveral national  seashore,canaveral national seashore,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+176,1, @ progressing in the production department with &quot;The Uprizing&quot; thats the priority getting the head nodding beats and then we reach out,progressing production department with quotThe Uprizingquot thats priority getting head nodding beats then reach,0.0,0.0,Neutral,0.0258,0.0,0.078,0.922
+177,1, @ taylorrhicks enjoy chicago..b new venue is always cool. You shine everywhere you go. I know who you are. In time so will everyone. ,taylorrhicks enjoy chicagob venue always cool shine everywhere know time will everyone,0.375,0.575,Positive,0.6705,0.0,0.355,0.645
+178,0, @ the train crash in DC .....,train crash,0.0,0.0,Neutral,-0.4019,0.73,0.0,0.27
+179,1,' @ Thestreetforce  ',Thestreetforce,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+180,1, @3sixty5days makes me smile.,3sixty5days makes smile,0.3,0.1,Positive,0.3612,0.0,0.556,0.444
+181,1," @adamisacson My first day off in 3 weeks, and my child got up before 7:00. So watch for me on &quot;Nancy Grac.. http://tr.im/khKW",adamisacson first weeks child before watch quotNancy Grac http trim khKW,0.25,0.3333333333333333,Positive,0.0,0.0,0.0,1.0
+182,1," @adbert: &quot;#Video [Woody Woodpecker â The Barber of Seville] I am great, @klitoria, just wishing to be a ch... â« http://blip.fm/~7g6r0",adbert quot Video Woody Woodpecker Barber Seville great klitoria just wishing http blipfm 7g6r0,0.8,0.75,Positive,0.7184,0.0,0.333,0.667
+183,1, @alexrauchman I am happy you are staying around here. Drexel is a fabulous university. You should be proud. yeah.,alexrauchman happy staying around here Drexel fabulous university should proud yeah,0.6666666666666666,1.0,Positive,0.9081,0.0,0.639,0.361
+184,0, @alvinkschneider what happened to angels and demons and lions and tigers and bears!?,alvinkschneider what happened angels demons lions tigers bears,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+185,0, @AmericanWomannn Well that sure minimizes the impact...LOL,AmericanWomannn Well that sure minimizes impactLOL,0.5,0.8888888888888888,Positive,0.5267,0.0,0.524,0.476
+186,1," @ange_black @sween I call dibs on the Voltron arm. No the leg. Wait. Where are my manners? @baileygenine,.. http://tr.im/oERy",angeblack sween call dibs Voltron Wait Where manners baileygenine http trim oERy,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+187,1, @CharlottegC I just saw ur mum,CharlottegC just,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+188,1, @chloelunn and @meganmcdowell GET YOUR FAT ASSES ON HERE. NAI.,chloelunn meganmcdowell YOUR ASSES HERE,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+189,1,"- @codinghorror See, three external monitors on one laptop, http://www.twitpic.com/6e3zp Win7RC  1 x 1920x1080, 2 x 1280x1024",codinghorror three external monitors laptop http wwwtwitpiccom 6e3zp Win7RC 1920x1080 1280x1024,0.0,0.1,Neutral,0.0,0.0,0.0,1.0
+190,1, @copicmarker&quot; facebook.com/copic.marker if you're cool. Or if you're not cool. Maybe I'll send some cool .. http://tr.im/oyT7,copicmarkerquot facebookcom copicmarker youre cool youre cool Maybe send some cool http trim oyT7,0.3499999999999999,0.65,Positive,0.7096,0.0,0.385,0.615
+191,1,' @crewislife  you want to start the morning later; in New York we can do that  (Californians have it even better),crewislife want start morning later York that Californians have even better,0.25,0.25,Positive,0.4939,0.0,0.318,0.682
+192,1, @cybervenus http://twitpic.com/75kwb ~ LOL LuV IT! &gt;&gt; http://twitpic.com/75hsg Did any1 find or c 1? #a.. http://bit.ly/mUMFh,cybervenus http twitpiccom 75kwb gtgt http twitpiccom 75hsg any1 find http bitly mUMFh,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+193,1, @dandelionas is making fettucini and garlic bread!,dandelionas making fettucini garlic bread,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+194,1, @danregal  tell @pfont i said Happy BDay!! ,danregal tell pfont said Happy BDay,0.8,1.0,Positive,0.5719,0.0,0.425,0.575
+195,0,"- @Darcy_Lussier @lkrammes I went to work once last year with no pants. Ironically, that was my last day of work at that job. FML ",DarcyLussier lkrammes went work once last year with pants Ironically that last work that,0.0,0.06666666666666667,Neutral,0.0,0.0,0.0,1.0
+196,1," @DirtyRose17  told you, you would sweep haha :-p",DirtyRose17 told would sweep haha,0.2,0.3,Positive,0.4588,0.0,0.429,0.571
+197,0, @dreamingspires. there r many gr8 science cartoons http://bit.ly/6EW4Q http://bit.ly/gXH3q http://bit.ly/18sjXI http://bit.ly/KEAy2,dreamingspires there many science cartoons http bitly 6EW4Q http bitly gXH3q http bitly 18sjXI http bitly KEAy2,0.5,0.5,Positive,0.0,0.0,0.0,1.0
+198,0,- @Em91 Edinburgh fringe is only 10 weeks away?! I need monies  Btw I'm Elliott from @angryfeet - blame @howlieT for the Twitter intrusion,Em91 Edinburgh fringe only weeks away need monies Elliott from angryfeet blame howlieT Twitter intrusion,0.0,1.0,Neutral,-0.34,0.146,0.0,0.854
+199,0," @emilymariie why didnt you come to school?? have you done the short stack thing by yourself, or do you still need me?",emilymariie didnt come school have done short stack thing yourself still need,0.0,0.3,Neutral,0.0,0.0,0.0,1.0
+200,0,"- @EvertB which one? http://bit.ly/10o8LW, http://bit.ly/Nh82S or http://bit.ly/wr8Vz - latter for the US Store only  #iphone #comics",EvertB which http bitly 10o8LW http bitly Nh82S http bitly wr8Vz latter Store only iphone comics,0.0,0.5,Neutral,0.0,0.0,0.0,1.0
+201,0, @georgediaz #Magic ..thinking less than 50 % chance Hedo stays in Orlando. He's gonna go for the $$. They all do. Can't blame him though.,georgediaz Magic thinking less than chance Hedo stays Orlando gonna They Cant blame though,0.16666666666666669,0.5333333333333333,Positive,0.4133,0.0,0.238,0.762
+202,0, @Glamicole ..now who wud make this beautiful plc cry?,Glamicole make this beautiful,0.85,1.0,Positive,0.6833,0.0,0.607,0.393
+203,0, @HaterMagazine: @damienrandle it is now the outer fat kid.,HaterMagazine damienrandle outer,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+204,1,"- @haugern The servers are now backup, if you experience any more problems then please let me know  Sorry about the delay...",haugern servers backup experience more problems then please know Sorry about delay,0.0,0.75,Neutral,-0.4641,0.384,0.149,0.466
+205,1," @hawaiibuzz: &quot;yes, i am lol j/k luv this! @DJDolceVita: &quot;you are like a gentle breeze that has blown throug... â« http://blip.fm/~7s7mn",hawaiibuzz quotyes this DJDolceVita quotyou like gentle breeze that blown throug http blipfm 7s7mn,0.2,0.8,Positive,0.6597,0.0,0.31,0.69
+206,0," @hellopnsdear se MORREA a mi Joseph, no no se vale.",hellopnsdear MORREA Joseph vale,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+207,1, @hidingesther @linininiooh are my future rooooooooomies! NYC holleR,hidingesther linininiooh future rooooooooomies holleR,0.0,0.125,Neutral,0.0,0.0,0.0,1.0
+208,1, @Hijack_King7 I hope u have cheeSe burgerS 4 @Snubbmatic LMBO,HijackKing7 hope have cheeSe burgerS Snubbmatic LMBO,0.0,0.0,Neutral,0.4404,0.0,0.326,0.674
+209,1, @iamyas awesome,iamyas awesome,1.0,1.0,Positive,0.6249,0.0,0.804,0.196
+210,1, @ivegotzooms I am nothing of the kind and everything of the sort http://tr.im/mLsn,ivegotzooms nothing kind everything sort http trim mLsn,0.6,0.9,Positive,-0.4168,0.284,0.0,0.716
+211,1,- @jerrybattiste &quot;..pick up some flowers for the teacher..&quot; I'm jealous! I want flowers without having to be in the hospital to get them! ,jerrybattiste quotpick some flowers teacherquot jealous want flowers without having hospital them,0.0,0.0,Neutral,-0.4019,0.21,0.091,0.699
+212,1,- @joaoqalves Think again   Talvez seja do Ãªnfase na cifra. Mas atenÃ§Ã£o: &quot;Security is a chain; it's as strong as the weakest link â¦,joaoqalves Think again Talvez seja nfase cifra aten quotSecurity chain strong weakest link,0.4333333333333333,0.7333333333333333,Positive,0.0,0.187,0.187,0.625
+213,0, @jonasbrothers Why is your YouTube account suspended? lol Single Ladies dance? I NEED TO WATCH IT AGAIN!,jonasbrothers your YouTube account suspended Single Ladies dance NEED WATCH AGAIN,-0.07142857142857142,0.21428571428571427,Negative,-0.4767,0.237,0.0,0.763
+214,0,- @JuicyJones I know.. SOLD OUT though. ,JuicyJones know SOLD though,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+215,1,- @kaitymarine - watch E3 @MCMudkips - Will do ,kaitymarine watch MCMudkips Will,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+216,1,- @katherineholden Thanks K! Here's hoping! Pretty nervous though... ,katherineholden Thanks Heres hoping Pretty nervous though,0.225,0.6,Positive,0.7783,0.15,0.636,0.214
+217,0, @katiedontcry should get on aim and talk to me. i miss her.,katiedontcry should talk miss,0.0,0.0,Neutral,-0.1531,0.348,0.0,0.652
+218,1, @kcome ?????????????????????????????????? ????????????1000 Followers???????????? http://tr.im/mWKn,kcome 1000 Followers http trim mWKn,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+219,1," @khead I'll tell ya, grocery store. It was better when you blasted the oldies. Sugar Ray does not make me.. http://tr.im/jd0y",khead tell grocery store better when blasted oldies Sugar does make http trim jd0y,-0.04999999999999999,0.7,Negative,0.4404,0.0,0.182,0.818
+220,0, @kvetchingeditor's kashrut convo makes me want to keep more kosher but my roomies catholic &amp; he has a pork loin in the fridge #kosherFAIL,kvetchingeditors kashrut convo makes want keep more kosher roomies catholic pork loin fridge kosherFAIL,0.25,0.3,Positive,0.0772,0.0,0.091,0.909
+221,0, @Leloz isn't home neither is @sozi1 ... @althani96 U BETTER HAVE IT!!!,Leloz isnt home neither sozi1 althani96 BETTER HAVE,0.5,0.5,Positive,-0.4494,0.296,0.0,0.704
+222,1," @LHSOPERAFIENDS yall bitches better wake up early to go to the LA Opera, kay!?",LHSOPERAFIENDS yall bitches better wake early Opera,0.3,0.4,Positive,-0.25,0.331,0.246,0.424
+223,0,"- @littlecharva - I'm immune to dentists' drills etc now, it just doesn't bother me at all. Having gum lift surgery next week tho *eek* ",littlecharva immune dentists drills just doesnt bother Having lift surgery next week,0.0,0.0,Neutral,0.5,0.0,0.298,0.702
+224,0, @lolife4life where r u tonite im still awake!,lolife4life where tonite still awake,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+225,0, @lorinimus hates Bebot App,lorinimus hates Bebot,0.0,0.0,Neutral,-0.4404,0.592,0.0,0.408
+226,1," @masareus&quot; @dhempe congrats bhai, but like the oldies in &gt; used to say - arre bhai kuch kam ka http://tr.im/ox5G",masareusquot dhempe congrats bhai like oldies used arre bhai kuch http trim ox5G,0.0,0.0,Neutral,0.7096,0.0,0.349,0.651
+227,1, @MelodyChase,MelodyChase,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+228,1, @mgph3nom chilling on twitter via my spanking new blackberry w/ unlimited internet : http://tr.im/mZVC,mgph3nom chilling twitter spanking blackberry unlimited internet http trim mZVC,-0.5,0.9,Negative,-0.0258,0.109,0.0,0.891
+229,1, @michaelsarver so do you give him every inch of your love every night?,michaelsarver give every inch your love every night,0.5,0.6,Positive,0.6369,0.0,0.375,0.625
+230,1, @mimbles @WParenthetical,mimbles WParenthetical,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+231,1,' @minghao Maybe you can pop @StarHubCares a tweet. They are quite active on twitter. ,minghao Maybe StarHubCares tweet They quite active twitter,-0.13333333333333333,0.6,Negative,0.4576,0.0,0.3,0.7
+232,1," @MsNovember It's a shame all the women in Mamma Mia are so horny, since all the men on this island are so.. http://tr.im/kmET",MsNovember shame women Mamma horny since this island http trim kmET,0.0,0.0,Neutral,-0.4767,0.237,0.0,0.763
+233,1,- @nibaq Thanks for letting me know. I'm going to check out Eureka later with this knowledge ,nibaq Thanks letting know going check Eureka later with this knowledge,0.1,0.1,Positive,0.4404,0.0,0.225,0.775
+234,0, @Oneshine What are u referring to?,Oneshine What referring,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+235,0, @plmusic22,plmusic22,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+236,1,"- @PoisonGirl10 What's up? @sevgli Hey you!  @lowridergrl I'm doing ok, thx. You? @cristinerafae You, too! TTYL! @Nic0pic0 Oh, sowwy! lol",PoisonGirl10 Whats sevgli lowridergrl doing cristinerafae TTYL Nic0pic0 sowwy,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+237,1, @RAPPUBLICIST HAPPY MOTHERS DAY!,RAPPUBLICIST HAPPY MOTHERS,0.8,1.0,Positive,0.5719,0.0,0.649,0.351
+238,1,"- @raybooysen I knew Sharepoint was written by interns, I just knew it !! ",raybooysen knew Sharepoint written interns just knew,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+239,0,                                     I miss her so much already...,miss much already,0.2,0.2,Positive,-0.1531,0.444,0.0,0.556
+240,0,               just practising.....how I feel       ,just practisinghow feel,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+241,0,            Miss my love Jamie,Miss love Jamie,0.5,0.6,Positive,0.5574,0.235,0.618,0.147
+242,0,          FUCK YOU!,FUCK,-0.4,0.6,Negative,-0.5423,1.0,0.0,0.0
+243,0,        my head feels like a bowling ball,head feels like bowling ball,0.0,0.0,Neutral,0.3612,0.0,0.385,0.615
+244,0,        my heart hurts badly...,heart hurts badly,-0.6999999999999998,0.6666666666666666,Negative,-0.25,0.596,0.404,0.0
+245,0,       FS keeps crashing when I try to load Bungie plane.,keeps crashing when load Bungie plane,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+246,0,      My current headset is on its deathbed now!  My dad gave it to me just 3 weeks back!    ,current headset deathbed gave just weeks back,0.0,0.2,Neutral,0.0,0.0,0.0,1.0
+247,0,     ....    My mood is currently BLAH . Sitting in a parking lot,mood currently BLAH Sitting parking,0.0,0.4,Neutral,-0.2808,0.348,0.0,0.652
+248,1,     I am happy     ,happy,0.8,1.0,Positive,0.5719,0.0,1.0,0.0
+249,0,    ...that is all.,that,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+250,0,    everyone went home. and not everyone was even here! ~CMF &lt;3,everyone went home everyone even here,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+251,0,    fed up....,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+252,0,"    fuck, fuck, fuuuuck!",fuck fuck fuuuuck,-0.4,0.6,Negative,-0.7906,0.875,0.0,0.125
+253,0,"    Not feeling it today     And to make matters worst its super nasty and rainy outside, YUCK!",feeling today make matters worst super nasty rainy outside YUCK,-0.4166666666666667,0.6791666666666666,Negative,-0.5423,0.462,0.333,0.205
+254,0,   @Beansummer,Beansummer,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+255,0,"   Awwwwwh  i wanted Aiden Davis 2 WIN, i &lt;3 him so bummed he didnt ",Awwwwwh wanted Aiden Davis bummed didnt,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+256,0,   bed time now....,time,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+257,1,   Faltam 4 dias para o World Drawing day,Faltam dias para World Drawing,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+258,0,"   Friends like these ... no thanks, I'm not fake! ^ ^",Friends like these thanks fake,-0.15,0.6,Negative,0.6597,0.246,0.675,0.079
+259,1,   haha omg. stayin steezy &amp; mowin the lawn... loviie still here &amp;&amp; goiing tanning soon.,haha stayin steezy mowin lawn loviie still here ampamp goiing tanning soon,0.2,0.3,Positive,0.4588,0.0,0.214,0.786
+260,0,   i think my bf is cheating on me!!!!     ,think cheating,0.0,0.0,Neutral,-0.5574,0.783,0.0,0.217
+261,1,   i wanna play with my camera but i will settle for playing with iv's and heart monitors,wanna play with camera will settle playing with heart monitors,0.0,0.0,Neutral,0.8126,0.0,0.545,0.455
+262,0,   i want an octo drive,want octo drive,0.0,0.0,Neutral,0.0772,0.0,0.394,0.606
+263,0,"   I want to display my pretty voltron!  Upside, I get two pretty voltrons!",want display pretty voltron Upside pretty voltrons,0.25,1.0,Positive,0.7717,0.0,0.658,0.342
+264,0,   i want to find a way to put my photos on phone here i have Bluetooth in both phone and computer but it doesn't work,want find photos phone here have Bluetooth both phone computer doesnt work,0.0,0.0,Neutral,0.0772,0.0,0.106,0.894
+265,0,   IN an effort to bring you the best content we just added at lease 30 hours to the release of The digital Rapture.  soon... hang tight,effort bring best content just added lease hours release digital Rapture soon hang tight,0.2738095238095238,0.1952380952380952,Positive,0.7003,0.0,0.326,0.674
+266,0,  --- is our response to what happened today. and that is all.,response what happened today that,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+267,0,"   J, you are right... it hurts.",right hurts,0.2857142857142857,0.5357142857142857,Positive,-0.4767,0.756,0.0,0.244
+268,0,"   kinda but not really, but kinda ",kinda really kinda,0.2,0.2,Positive,0.0,0.0,0.0,1.0
+269,0,"   let's have a moment of silence for our childhood homes... sadly, it can't be replaced and we can never go back",lets have moment silence childhood homes sadly cant replaced never back,-0.25,0.5,Negative,-0.4215,0.219,0.0,0.781
+270,1,   lol all these #robotpickuplines are hilarious ,these robotpickuplines hilarious,0.5,1.0,Positive,0.4019,0.0,0.574,0.426
+271,1,"   man, oh man     (i should punch myself in the head, but im ok with that)",should punch myself head with that,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+272,1,"   my friends can get with ur friends and we can all b friends, shit, we could do this every weeknd.. Aiigght?  with coop n the crew",friends with friends friends shit could this every weeknd Aiigght with coop crew,-0.2,0.8,Negative,0.6908,0.164,0.425,0.411
+273,0,"   No man is worth your tears, and the one that is won't make you cry!",worth your tears that wont make,0.3,0.1,Positive,0.0,0.244,0.244,0.513
+274,0,   rain rain go away!,rain rain away,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+275,0,   storms are scary!,storms scary,-0.5,1.0,Negative,-0.4939,0.762,0.0,0.238
+276,1,   such a beautiful satisfying day of bargain shopping. loves it.,such beautiful satisfying bargain shopping loves,0.45,0.8333333333333334,Positive,0.9081,0.0,0.861,0.139
+277,0,   Tell those girls your clocking out lol,Tell those girls your clocking,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+278,1,   thank god today is friday !!! I love Ti Ti! &lt;3,thank today friday love,0.5,0.6,Positive,0.7717,0.0,0.77,0.23
+279,0,   the batt to my internet connection died.  Guess its back to the mobile!,batt internet connection died Guess back mobile,0.0,0.0,Neutral,-0.5574,0.375,0.0,0.625
+280,1,   thrilled about being at work this morning   ,thrilled about being work this morning,0.6,0.7,Positive,0.4404,0.0,0.367,0.633
+281,1,   we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....,break dance hearts Short Stack ringtone LOVE that song,0.25,0.44999999999999996,Positive,0.8816,0.0,0.569,0.431
+282,0,   www.apple.com/iphone now has it for the 18th   ,wwwapplecom iphone 18th,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+283,0,  #squarespace #trackle  no apple iphone card for us  maybe tomorrow! I guess it helps if you tweet it huh?  We forgot ,squarespace trackle apple iphone card maybe tomorrow guess helps tweet forgot,0.0,0.0,Neutral,0.3818,0.0,0.206,0.794
+284,0,  (unsure)  (hassle)  (:  (music) http://plurk.com/p/yq08l,unsure hassle music http plurkcom yq08l,0.0,0.0,Neutral,-0.25,0.286,0.0,0.714
+285,0,                                           exhausted,exhausted,-0.4,0.7,Negative,-0.3612,1.0,0.0,0.0
+286,0,          i want some ben&amp;jerrys cake batter please ugh,want some benampjerrys cake batter please,0.0,0.0,Neutral,0.3818,0.0,0.474,0.526
+287,1,          my life is very lazzzzyyyy!!!!!!!            ***********,life very lazzzzyyyy,0.2,0.3,Positive,0.0,0.0,0.0,1.0
+288,0,"        wish ella was on or somebody,,,,",wish ella somebody,0.0,0.0,Neutral,0.4019,0.0,0.574,0.426
+289,1,       ish in a good mood .....tlk to me,good mood,0.7,0.6000000000000001,Positive,0.4404,0.0,0.744,0.256
+290,0,      i think i'm going to go 3 a long drive then when i get to the pacific ocean open my car door and throw my pc in the ocean,think going long drive then when pacific ocean open door throw ocean,-0.025,0.45,Negative,0.0,0.0,0.0,1.0
+291,0,      what the hell BBC?,what hell,0.0,0.0,Neutral,-0.6808,0.821,0.0,0.179
+292,0,     #canucks,canucks,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+293,0,     I dont like this weekend.. Huhuhu ( (,dont like this weekend Huhuhu,0.0,0.0,Neutral,-0.2755,0.345,0.0,0.655
+294,0,     I'll get on it right away!,right away,0.2857142857142857,0.5357142857142857,Positive,0.0,0.0,0.0,1.0
+295,1,-     J + A MADE NiCE..... TWiCE!                     for now ;],MADE NiCE TWiCE,0.6,1.0,Positive,0.4215,0.0,0.583,0.417
+296,1,     loves life atm!   its brilliant XD,loves life brilliant,0.9,1.0,Positive,0.8176,0.0,0.882,0.118
+297,1,     who else is in a happy mood?? =D,else happy mood,0.8,1.0,Positive,0.5719,0.0,0.649,0.351
+298,1,    !BYE EVERYONE!   ,EVERYONE,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+299,0,    ...lonely night,lonely night,-0.09999999999999998,0.7,Negative,-0.3612,0.714,0.0,0.286
+300,0,    blue does not work      ,blue does work,0.0,0.1,Neutral,0.0,0.0,0.0,1.0
+301,0,    geez I'm feeling their pain,geez feeling their pain,0.0,0.0,Neutral,-0.4215,0.485,0.221,0.294
+302,0,    i miss my summertime daley.,miss summertime daley,0.0,0.0,Neutral,-0.1531,0.444,0.0,0.556
+303,0,"    on the computer ... . . . . . . *ill*    lol,       no fuckin goin to portugal        ",computer fuckin goin portugal,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+304,1,    SO FAR SO GOOD!,GOOD,0.7,0.6000000000000001,Positive,0.4404,0.0,1.0,0.0
+305,1,    TODAY WAS A GREAT DAY!!!,TODAY GREAT,0.8,0.75,Positive,0.6249,0.0,0.804,0.196
+306,0,    UGHHHHHHHHHHHHHHHHHHHHHHHHHHHHH,UGHHHHHHHHHHHHHHHHHHHHHHHHHHHHH,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+307,0,   #Battleground,Battleground,0.0,0.0,Neutral,-0.4019,1.0,0.0,0.0
+308,1,"   a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot, a lot.",,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+309,0,   Awwwwwh  i wanted Aiden Davis 2 WIN  i &lt;3 him so bummed he didnt ,Awwwwwh wanted Aiden Davis bummed didnt,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+310,0,   Curtain drops at the Crown Uptown after 32 ye http://www.kansas.com/news/featured/story/860875.html,Curtain drops Crown Uptown after http wwwkansascom news featured story 860875html,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+311,0,   eh  must leave New Mexico and soon!,must leave Mexico soon,0.0,0.0,Neutral,-0.0516,0.286,0.0,0.714
+312,0,   fail maths  i knew it i was just too slow ,fail maths knew just slow,-0.4,0.35,Negative,-0.5423,0.467,0.0,0.533
+313,0,"   From Gongwer OH Report, sounds like leadership still considering library cuts, not considering tax increases. #saveohiolibraries",From Gongwer Report sounds like leadership still considering library cuts considering increases saveohiolibraries,0.0,0.0,Neutral,0.0772,0.14,0.159,0.701
+314,0,   fuck sake. Why can things never work out for me?,fuck sake things never work,-0.4,0.6,Negative,-0.5423,0.467,0.0,0.533
+315,0,"-   going in town todaÑ with mÑ cousinnn, [Ñ]     netball match was cancelledd ",going town toda with cousinnn netball match cancelledd,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+316,0,   hoping to see my baby girl,hoping baby girl,0.0,0.0,Neutral,0.4215,0.0,0.583,0.417
+317,0,   i don't even know.,dont even know,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+318,0,   I just lost a member of my family ,just lost member family,0.0,0.0,Neutral,-0.3182,0.434,0.0,0.566
+319,0,   I'm SICK of bedtime battles   ,SICK bedtime battles,-0.7142857142857143,0.8571428571428571,Negative,-0.7672,0.869,0.0,0.131
+320,0,   i'm so cold this morning......       i have chills all over.....   ,cold this morning have chills over,-0.6,1.0,Negative,0.0,0.0,0.0,1.0
+321,0,   Just... ,Just,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+322,0,   No no no. Tonight goes on the books as the worst SYTYCD results show.,Tonight goes books worst SYTYCD results show,-1.0,1.0,Negative,-0.6249,0.406,0.0,0.594
+323,0,   no shopping   ,shopping,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+324,0,"  - Poor lil mousey, just out enjoying the sunny day. I don't think I'd feel so bad if it was a big gnarly rat though. Dbl standard? Yep.",Poor mousey just enjoying sunny dont think feel gnarly though standard,0.033333333333333326,0.39999999999999997,Positive,0.4767,0.179,0.358,0.462
+325,0,  -- that's an EPIC sad face.,thats EPIC face,0.1,0.4,Positive,0.0,0.0,0.0,1.0
+326,0,   This magazine story just broke my heart at the dentist's office today:  http://tinyurl.com/ngbq2c,This magazine story just broke heart dentists office today http tinyurlcom ngbq2c,0.0,0.0,Neutral,0.34,0.165,0.247,0.588
+327,1,   Tiger Woods is up by 2at 18 via http://nascar.com/racebuddy,Tiger Woods http nascarcom racebuddy,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+328,0,   wanna go meet wifey but can't....  this sux   :'(,wanna meet wifey cant this,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+329,0,   Wondering why I feel like I do...I'll feel better though...Its all good! I'll be happy inspite of...Tweet ya lata ,Wondering feel like doIll feel better thoughIts good happy inspite ofTweet lata,0.6666666666666666,0.7000000000000001,Positive,0.9001,0.0,0.6,0.4
+330,1,"   yippeeeee yay lets gather in the hay...HIS LOVE FOUND IT'S WAY+ boy,it's Gonna STAY added 2 the Master's HOLY WAY: ALL HIS WILL+WAY",yippeeeee lets gather hayHIS LOVE FOUND boyits Gonna STAY added Masters HOLY WILL,0.5,0.6,Positive,0.7125,0.0,0.291,0.709
+331,0,  #IranElection - no one realizes how deep this goes.,IranElection realizes deep this goes,0.0,0.4,Neutral,0.0,0.0,0.0,1.0
+332,0,  &gt;. Bodies from Air France crash have been found  http://twurl.nl/dvu8be (via @Paisano ),Bodies from France crash have been found http twurlnl dvu8be Paisano,0.0,0.0,Neutral,-0.4019,0.213,0.0,0.787
+333,0,"  &lt; that is the story of my life, a whole bunch of frownies!",that story life whole bunch frownies,0.2,0.4,Positive,0.0,0.0,0.0,1.0
+334,0,               I HAVE NOOOOOOOOOO FRIENDS ON TWITTER IT MAKES ME SAD WILL SOMEONE FOLLOW ME      ,HAVE NOOOOOOOOOO FRIENDS TWITTER MAKES WILL SOMEONE FOLLOW,0.0,0.0,Neutral,0.4767,0.0,0.307,0.693
+335,0,             i just want to hear from you. i guess that's asking too much..,just want hear from guess thats asking much,0.2,0.2,Positive,0.0772,0.0,0.157,0.843
+336,1,       Hardest working chica i know( mii boss lady) @MoneyAceweather (look up to her seriously) lOl,Hardest working chica know boss lady MoneyAceweather look seriously,-0.3333333333333333,0.6666666666666666,Negative,-0.1779,0.175,0.0,0.825
+337,0,       i really2 don't like this condition. sucksssssss,really2 dont like this condition sucksssssss,0.0,0.0,Neutral,-0.2755,0.297,0.0,0.703
+338,0,"       Orlando Lost  The Series. Oh Well, Maybe Phoenix, Or Boston, Or Cleveland (The Teams I Like) Will Make It Next Year!",Orlando Lost Series Well Maybe Phoenix Boston Cleveland Teams Like Will Make Next Year,0.0,0.0,Neutral,0.3182,0.128,0.257,0.615
+339,0,      rinitis sucks!!!!!,rinitis sucks,-0.3,0.3,Negative,-0.3612,0.714,0.0,0.286
+340,1,      thanks for being the bestttttttttttttttttttt J-dawg,thanks being bestttttttttttttttttttt Jdawg,0.2,0.2,Positive,0.4404,0.0,0.492,0.508
+341,0,     &gt;( &gt;(  i'm mad and sad right now. Played so terrible today in both soccer and basketball.,right Played terrible today both soccer basketball,-0.35714285714285715,0.7678571428571428,Negative,-0.1779,0.295,0.229,0.476
+342,0,     &lt;- but mustache man is not that desperate,mustache that desperate,-0.6,1.0,Negative,-0.3182,0.535,0.0,0.465
+343,0,     &lt;--------- my face because i'm missing zoro tonight.,face because missing zoro tonight,-0.2,0.05,Negative,-0.296,0.355,0.0,0.645
+344,0,     @riceuniversiity I know huh @Kouture85 Im bout to cry@Ahmier thanks Marco! *muah*,riceuniversiity know Kouture85 bout Ahmier thanks Marco muah,0.2,0.2,Positive,0.7351,0.0,0.508,0.492
+345,0,     angry,angry,-0.5,1.0,Negative,-0.5106,1.0,0.0,0.0
+346,1,     praise God for this beautiful day!!!     ,praise this beautiful,0.85,1.0,Positive,0.8176,0.0,0.882,0.118
+347,0,     sry matt 2 hear that (,matt hear that,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+348,0,     what the fucccckkkkkkkkkk,what fucccckkkkkkkkkk,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+349,0,    Bye World!!!!!!,World,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+350,0,    i couldnt even have one fairytale night,couldnt even have fairytale night,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+351,0,    I'll be working when Pottercast/Lupins/Willows come near me.  FAIL.,working when Pottercast Lupins Willows come near FAIL,-0.2,0.35,Negative,-0.6408,0.377,0.0,0.623
+352,0,"    My cell phone screen is dead.  Sooooooooooo, no texts and I don't know who's calling.  Fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuck",cell phone screen dead Sooooooooooo texts dont know whos calling Fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuck,-0.2,0.4,Negative,-0.6486,0.301,0.0,0.699
+353,0,"    NO MORE SICKNESS. strike i say STRIKE! ohhhh well, 'nother day off school i guess",MORE SICKNESS strike STRIKE ohhhh well nother school guess,0.5,0.5,Positive,-0.5471,0.41,0.153,0.437
+354,0,    Nobody likes Year One in the reviews I've read. I'm disappointed. But maybe now I'll like it more since I'm not expecting much..,Nobody likes Year reviews read disappointed maybe like more since expecting much,-0.016666666666666663,0.48333333333333334,Negative,0.296,0.178,0.305,0.517
+355,0,   (must i say more?),must more,0.5,0.5,Positive,0.0,0.0,0.0,1.0
+356,0,   *old me's dead and gone*,dead gone,-0.2,0.4,Negative,-0.6486,0.811,0.0,0.189
+357,0,   ... have to go now ??? 13 more minutes   ... please please please,have more minutes please please please,0.5,0.5,Positive,0.7537,0.0,0.713,0.287
+358,1,   @Lakers!! I love you guyssss! Those rings.. Mmmyeahh! Bling blingg,Lakers love guyssss Those rings Mmmyeahh Bling blingg,0.5,0.6,Positive,0.6369,0.0,0.375,0.625
+359,1,   @PERFEKTnCHANCE (Chance) is Boo #29,PERFEKTnCHANCE Chance,0.0,0.0,Neutral,0.25,0.0,0.667,0.333
+360,1,   @Standing_Stones  Thank you very much for the DVD suggestion!  Very nice of you!  Looks good.,StandingStones Thank very much suggestion Very nice Looks good,0.58,0.62,Positive,0.8297,0.0,0.593,0.407
+361,0,   awwwww i really hate this.,awwwww really hate this,-0.8,0.9,Negative,-0.6115,0.571,0.0,0.429
+362,0,   bad day.,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+363,0,   bad day.....damn you @311. What kind of ticket sale was that.....,daydamn What kind ticket sale that,0.6,0.9,Positive,0.5267,0.0,0.405,0.595
+364,0,   Boston Globe could be shut down in 60 days http://sbne.ws/r/vWc,Boston Globe could shut down days http sbnews,-0.15555555555555559,0.2888888888888889,Negative,0.0,0.0,0.0,1.0
+365,0,   bye guys!!!! i'ma miss ya'll sooo sooo much! but don't worry i'll be back on monday!!! have an awesome weekend!!! peace!!!!,guys miss yall sooo sooo much dont worry back monday have awesome weekend peace,0.39999999999999997,0.39999999999999997,Positive,0.8558,0.074,0.463,0.463
+366,0,   can i have some followers :' ( ... i'm so sad...    NOW THAT I'M LOSING HOPE -pressure,have some followers THAT LOSING HOPE pressure,0.0,0.0,Neutral,-0.2263,0.42,0.276,0.304
+367,0,   Couldn't bless'd da mic w/ my bra's in music 2day @ERiceOnTheBeat @moneybagzfam1st @circustk,Couldnt blessd bras music 2day ERiceOnTheBeat moneybagzfam1st circustk,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+368,0,   CRY CRY CRY   ,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+369,0,   F**kn day...,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+370,0,   Goodnight   ,Goodnight,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+371,0,   grandma is very sick. not doing well. going to the emergency room.,grandma very sick doing well going emergency room,-0.9285714285714286,1.0,Negative,-0.5899,0.457,0.174,0.369
+372,1,   had a WONDERFUL day  G_D is GRRRRRRRRREAT!!!!!     ,WONDERFUL GRRRRRRRRREAT,1.0,1.0,Positive,0.5719,0.0,0.787,0.213
+373,0,   I am going to shed tears if the Cavs have to go home tonight. Like seriously,going shed tears Cavs have home tonight Like seriously,-0.3333333333333333,0.6666666666666666,Negative,-0.0258,0.298,0.207,0.496
+374,0,   i am soooo sad...at this point of night i'd be cuddling with jonathan like i did for 4 years,soooo sadat this point night cuddling with jonathan like years,0.0,0.0,Neutral,0.3612,0.0,0.217,0.783
+375,0,   I hate you forever.,hate forever,-0.8,0.9,Negative,-0.5719,0.787,0.0,0.213
+376,1,   I have passed 70-542 exam today   ,have passed 70542 exam today,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+377,0,   i missed it,missed,0.0,0.0,Neutral,-0.296,1.0,0.0,0.0
+378,0,   i still Feel like a Douchebag,still Feel like Douchebag,0.0,0.0,Neutral,-0.3612,0.471,0.294,0.235
+379,1,   I want to write a song. I think I will.,want write song think will,0.0,0.0,Neutral,0.0772,0.0,0.245,0.755
+380,1,- @serialseb Always thought time estimates should use 'value of Pi rule' (x 3.14). Only exception being 'Pi squared rule'. ,serialseb Always thought time estimates should value rule Only exception being squared rule,0.0,1.0,Neutral,0.34,0.0,0.167,0.833
+381,1, @SirKenRobinson Creativity via Twitter http://bit.ly/HVTHS,SirKenRobinson Creativity Twitter http bitly HVTHS,0.0,0.0,Neutral,0.3818,0.0,0.342,0.658
+382,1,"- @SlashHudson you tease, i wanna hear the tracks!! ",SlashHudson tease wanna hear tracks,0.0,0.0,Neutral,-0.3182,0.365,0.0,0.635
+383,0, @sommacolada never answering my im's,sommacolada never answering,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+384,1, @soultravelers3 http://bit.ly/H9Nqe  15 TravelTips 4 student safety in roughplaces,soultravelers3 http bitly H9Nqe TravelTips student safety roughplaces,0.0,0.0,Neutral,0.4215,0.0,0.286,0.714
+385,0, @squarespace it's now fathers day and you haven't picked me...yet. I kind of want to incessantly bother you...#squarespace,squarespace fathers havent picked meyet kind want incessantly bother squarespace,0.6,0.9,Positive,-0.5962,0.384,0.096,0.519
+386,1, @SRenaeNae... What is 'FML',SRenaeNae What,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+387,1, @sweetlilmzmia: &quot;Gotta LOVE Blip.fm - John Mayer Trio - CALIFORNIA DREAMIN' as heard on Conan 06/04/2009 ---... â« http://blip.fm/~7qdf0,sweetlilmzmia quotGotta LOVE Blipfm John Mayer Trio CALIFORNIA DREAMIN heard Conan 2009 http blipfm 7qdf0,0.5,0.6,Positive,0.7125,0.0,0.261,0.739
+388,1, @Thatsrightnate ~ Just in case you need some help w that:  http://bit.ly/12nP1H,Thatsrightnate Just case need some help that http bitly 12nP1H,0.0,0.0,Neutral,0.4019,0.0,0.231,0.769
+389,1, @THEDIAMONDCOACH  Im sure he'd love that LOL,THEDIAMONDCOACH sure love that,0.5,0.7444444444444445,Positive,0.7579,0.0,0.765,0.235
+390,1, @theenglishmuse on &quot;Karl Lagerfeld&quot; 's Twitter profile(s) lol!  Heart the first pic http://tinyurl.com/cbl6tm,theenglishmuse quotKarl Lagerfeldquot Twitter profile Heart first http tinyurlcom cbl6tm,0.25,0.3333333333333333,Positive,0.6369,0.0,0.318,0.682
+391,0, @TheIanCrawford is no longer in the Cab. To say I'm heartbroken is an understatement... good luck with everything! you're amazing ian.,TheIanCrawford longer heartbroken understatement good luck with everything youre amazing,0.65,0.75,Positive,0.6597,0.215,0.485,0.3
+392,0, @va_songstress broke my twitter..,vasongstress broke twitter,0.0,0.0,Neutral,-0.4215,0.583,0.0,0.417
+393,0, @warbo is off clubbing... must come over to sheffield sometime &amp; party but really probably shouldn't atm. a tech conference is a conf etc,warbo clubbing must come over sheffield sometime party really probably shouldnt tech conference conf,0.2,0.2,Positive,0.4019,0.0,0.172,0.828
+394,1," @weselec My avatar can't figure out what you people are, either. http://tr.im/jj70",weselec avatar cant figure what people either http trim jj70,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+395,0, @xxkirahxx is fulfilling my life's ambition 2 go 2 a Jonas Brothers concert + I went 2 HMV and the new album is already sold out! Why me?,xxkirahxx fulfilling lifes ambition Jonas Brothers concert went album already sold,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+396,1," @yhf What happened to movies, anyway? It's like Hollywood forgot: in rough times, the public wants to see.. http://tr.im/mZ8l",What happened movies anyway like Hollywood forgot rough times public wants http trim mZ8l,0.03333333333333333,0.18888888888888888,Positive,0.3612,0.0,0.161,0.839
+397,0, @zochula just yelled at me for picking apple store over food.,zochula just yelled picking apple store over food,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+398,1, @ZOEBOE: &quot;whoops credit is due to   &gt;&gt;&gt;rb@MusicIsMySunshine:  &quot; ? http://blip.fm/~7d4pk,ZOEBOE quotwhoops credit gtgtgtrb MusicIsMySunshine quot http blipfm 7d4pk,0.0,0.0,Neutral,0.3818,0.0,0.245,0.755
+399,1, =&gt; How not to exit a Cessna 206 #skydiving http://bit.ly/16ZZJ7,exit Cessna skydiving http bitly 16ZZJ7,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+400,0, 1 of me cats kittens died only 3 days old too..RIP ming.,cats kittens died only days tooRIP ming,0.0,1.0,Neutral,-0.5574,0.375,0.0,0.625
+401,0, 1 week before the palm pre comes out and my centro dies. I have a temp phone but my contacts aren't transfered yet. #sadpanda #fb,week before palm comes centro dies have temp phone contacts arent transfered sadpanda,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+402,1,"- 20 chicken mcnuggets, 2 double cheeseburgers, large fries, and a lemonade for dinner. Why you may ask? Because I hate my body. ",chicken mcnuggets double cheeseburgers large fries lemonade dinner Because hate body,-0.29642857142857143,0.5696428571428571,Negative,-0.5719,0.27,0.0,0.73
+403,0, 3 hrs on da phone...lol dude is hilarious,phonelol dude hilarious,0.5,1.0,Positive,0.4019,0.0,0.574,0.426
+404,1,- 400th tweet (!) breakfast: everything bagel toasted w/cream cheese with an iced cap... delish ,400th tweet breakfast everything bagel toasted cream cheese with iced delish,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+405,0, 5 gb of video to upload to utube :O dam sony vegas making it so big ,video upload utube sony vegas making,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+406,0, 50% of the new footwear labeling norm is definitions that are never referred to in the document. Who wrote this up?,footwear labeling norm definitions that never referred document wrote this,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+407,0, a big angry spider was crawling in my blankeys  i flicked it to the floor and cant sleep now,angry spider crawling blankeys flicked floor cant sleep,-0.5,1.0,Negative,-0.5106,0.32,0.0,0.68
+408,1, A blessed sunday everyone!,blessed sunday everyone,0.0,0.0,Neutral,0.5994,0.0,0.661,0.339
+409,0,=- A couple years of sickness all piled up to this one day,couple years sickness piled this,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+410,1, A dog riding the bicycle http://bit.ly/gvMzD,riding bicycle http bitly gvMzD,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+411,0," a fly just landed in my green chile stew. i've never been big on killing bugs, but this asshole asked for it. There goes my appetite",just landed green chile stew never been killing bugs this asshole asked There goes appetite,-0.2,0.3,Negative,0.5448,0.0,0.201,0.799
+412,1, A problem shared is a buck passed,problem shared buck passed,0.0,0.0,Neutral,-0.0772,0.38,0.338,0.282
+413,0, A_ just got the same handshake in her meeting. Vibe here sucks,just same handshake meeting Vibe here sucks,-0.15,0.2125,Negative,-0.3612,0.294,0.0,0.706
+414,1, à¸à¸¹à¹?à¸à¹à¸à¹ hitech, hitech,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+415,0,  (Jonah:whats a tweet!?) SHARON!!!!!!!!!!!!,Jonah whats tweet SHARON,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+416,0,  alice is beating be at my scooby doo board game!,alice beating scooby board game,-0.4,0.4,Negative,-0.4588,0.429,0.0,0.571
+417,1,  am quite tired can't wait till wwe at burswood &lt;3,quite tired cant wait till burswood,-0.4,0.7,Negative,-0.4927,0.39,0.0,0.61
+418,0,  anyone have any advice on how to cope with a break up?,anyone have advice cope with break,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+419,0,"  arrrrrrrgggggggghhhhhhhh!!!!!!!!!!  that's it, all lines of communications are temporarily suspended! ",arrrrrrrgggggggghhhhhhhh thats lines communications temporarily suspended,0.0,0.0,Neutral,-0.4767,0.383,0.0,0.617
+420,1,"=-  awake, and ready for the day",awake ready,0.2,0.5,Positive,0.3612,0.0,0.714,0.286
+421,1,  Being NASTY in the studio with my woman!!!  Go SLEEPIES!!!,Being NASTY studio with woman SLEEPIES,-1.0,1.0,Negative,-0.6523,0.464,0.0,0.536
+422,0,  but i understand.,understand,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+423,0,  cars being inspected today gonna cost me over 600 dollars ,cars being inspected today gonna cost over dollars,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+424,0,  e is OUT!,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+425,0,  everythings wrong.,everythings wrong,-0.5,0.9,Negative,-0.4767,0.756,0.0,0.244
+426,0,  Exercise 2 build muscle mass is only thing that speeds metabolism: http://tinyurl.com/bvagbj,Exercise build muscle mass only thing that speeds metabolism http tinyurlcom bvagbj,0.0,1.0,Neutral,0.0,0.0,0.0,1.0
+427,1,  feeling ok for the first time in a few days. thank you!,feeling first time days thank,0.25,0.3333333333333333,Positive,0.4588,0.0,0.571,0.429
+428,1,"  found a new way to text him, yey!",found text,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+429,0,  friends dying is just horrible.,friends dying just horrible,-1.0,1.0,Negative,-0.1027,0.407,0.36,0.233
+430,1,  going for a paddle 2moz ,going paddle 2moz,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+431,1,  Good Nite.  I hope Grandma visits my dreams again tonight.  Last Night was uplifting...  I miss her.,Good Nite hope Grandma visits dreams again tonight Last Night uplifting miss,0.35,0.33333333333333337,Positive,0.7845,0.088,0.47,0.442
+432,1,  Goodbassplayer... that is funny.... ;)  OilIPO.... I hope the people that will bring us good things are started early this week... ,Goodbassplayer that funny OilIPO hope people that will bring good things started early this week,0.35000000000000003,0.6333333333333334,Positive,0.8271,0.0,0.42,0.58
+433,0,  He was the best there.,best there,1.0,0.3,Positive,0.6369,0.0,0.808,0.192
+434,0,  Hungover........ and craving chocolate! OMG how funny was the pub last night!! LOL,Hungover craving chocolate funny last night,0.125,0.5333333333333333,Positive,0.4404,0.0,0.367,0.633
+435,0,  I dont want my sister to leave me for the whole summer!,dont want sister leave whole summer,0.2,0.4,Positive,-0.0191,0.192,0.18,0.628
+436,0,  i hope everyone is at church so i can just go to my concert in peace on wed.  dont have to worry about rushing back to church to visit,hope everyone church just concert peace dont have worry about rushing back church visit,0.0,0.0,Neutral,0.8319,0.0,0.445,0.555
+437,0, - i just spilt the last of my jordans cereal on the floor iâm distraught http://tumblr.com/xxw2329lh,just spilt last jordans cereal floor distraught http tumblrcom xxw2329lh,-0.3,0.5333333333333333,Negative,-0.5574,0.286,0.0,0.714
+438,0,  I miss my family and friends.,miss family friends,0.0,0.0,Neutral,0.3612,0.281,0.544,0.175
+439,0,  I see I missed the nectar sucking dirty talk ;),missed nectar sucking dirty talk,-0.6,0.8,Negative,-0.6249,0.63,0.0,0.37
+440,0,  I want a freaking puppy now! A cute little black yorkshire terrier.,want freaking puppy cute little black yorkshire terrier,0.04861111111111111,0.6444444444444445,Positive,0.128,0.231,0.355,0.413
+441,0, - I want irissa back http://tumblr.com/xpn1wrj48,want irissa back http tumblrcom xpn1wrj48,0.0,0.0,Neutral,0.0772,0.0,0.206,0.794
+442,0,  I'm glad diversity got through...but what about stavros!  ,glad diversity throughbut what about stavros,0.5,1.0,Positive,0.4588,0.0,0.375,0.625
+443,1,  I'm here to tell ya ... very yummy.  Decided to go on a hunt for blender drinks ... know any good ones?,here tell very yummy Decided hunt blender drinks know good ones,0.44999999999999996,0.45000000000000007,Positive,0.7645,0.0,0.423,0.577
+444,0,  I'm out of Nutella  ,Nutella,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+445,0,  is it rlly tht serious? I'm abt to go thru my fonebook...,rlly serious thru fonebook,-0.3333333333333333,0.6666666666666666,Negative,-0.0772,0.302,0.0,0.698
+446,1,  is listenin to my new fav band more amor,listenin band more amor,0.5,0.5,Positive,0.6478,0.0,0.589,0.411
+447,0,  it is on environmental studies and driving me mental,environmental studies driving mental,-0.1,0.2,Negative,0.0,0.0,0.0,1.0
+448,0,  I've always seen bits &amp; pieces of Shottas. now I've seen the whole movie...it ends sooooo sad   I'm gonna cry.  ,always seen bits pieces Shottas seen whole movieit ends sooooo gonna,0.2,0.4,Positive,0.0,0.0,0.0,1.0
+449,1,  Just another day in paradise. ;),Just another paradise,0.0,0.0,Neutral,0.6369,0.0,0.677,0.323
+450,0,  Just found a bone in my chicken nugget    Not cool,Just found bone chicken nugget cool,-0.125,0.8,Negative,0.3182,0.0,0.315,0.685
+451,0," - Like I said, my back still fucking hurts and Iâm going to complain about it like no oneâs business.... http://tumblr.com/x6n25amd5",Like said back still fucking hurts going complain about like one business http tumblrcom x6n25amd5,-0.3,0.4,Negative,-0.2862,0.278,0.226,0.496
+452,1,  love you! &lt;333,love lt333,0.5,0.6,Positive,0.6369,0.0,0.808,0.192
+453,0,  my aunties dog is getting put down  hes my dogs brother aswell ,aunties getting down dogs brother aswell,-0.15555555555555559,0.2888888888888889,Negative,0.0,0.0,0.0,1.0
+454,0," - my head feels like its going to explode - mmm, what a horrendous image... the mess!",head feels like going explode what horrendous image mess,-0.175,0.175,Negative,-0.5859,0.426,0.169,0.405
+455,0,  my head is killing meee,head killing meee,0.0,0.0,Neutral,-0.6597,0.688,0.0,0.312
+456,0," - My name is Amy. Iï¿½m only three My eyes are swollen I cannot see, I must be stupid, I must be bad What... http://tumblr.com/xfj1uain0",name only three eyes swollen cannot must stupid must What http tumblrcom xfj1uain0,-0.39999999999999997,1.0,Negative,0.4168,0.0,0.188,0.812
+457,0," - my picture with Kris Karmada is gone forever, its not in my comments, on my mysapce or on my... http://tumblr.com/xzg1wy4jj",picture with Kris Karmada gone forever comments mysapce http tumblrcom xzg1wy4jj,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+458,0, Â«Confirmed: Missing Air France Flight 447 has Crashed in the AtlanticÂ»: http://bit.ly/BxdVL,Confirmed Missing France Flight Crashed Atlantic http bitly BxdVL,0.1,0.525,Positive,-0.296,0.216,0.0,0.784
+459,0, about 1/4 of my myspace comments are gone. cause someone hacked onto wills account. and kept abusing others so he had to delete it.,about myspace comments gone cause someone hacked onto wills account kept abusing others delete,0.0,0.0,Neutral,-0.6908,0.322,0.0,0.678
+460,0, about school....... it will all be over soon can't wait to celebrate            STRES till then,about school will over soon cant wait celebrate STRES till then,0.0,0.0,Neutral,-0.4585,0.231,0.0,0.769
+461,1,- about to pop in a movie &amp; chill a bit... get it innnnn.! call n text ,about movie chill innnnn call text,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+462,1,=- about to swim,about swim,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+463,0, abt missing Air France plane. Follow here for best air news source:  http://tinyurl.com/m2p6yk,missing France plane Follow here best news source http tinyurlcom m2p6yk,0.4,0.175,Positive,0.4588,0.143,0.273,0.584
+464,0, AFI are not at reading til sunday this sucks !!!!!!!!!,reading sunday this sucks,-0.3,0.3,Negative,-0.4357,0.489,0.0,0.511
+465,0," after a crap night was looking forward to being cheered up, but no. Never mind.",after crap night looking forward being cheered Never mind,-0.8,0.8,Negative,0.1779,0.202,0.256,0.543
+466,0, ah the postman didn't have my package. What am I goon to do for the rest of the day.....,postman didnt have package What goon rest,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+467,1, ahh school on monday!!!! not ready,school monday ready,0.2,0.5,Positive,0.3612,0.0,0.556,0.444
+468,1," ahhh. Drizzy. Mr. Rogers, you are indeed the best.",ahhh Drizzy Rogers indeed best,1.0,0.3,Positive,0.6369,0.0,0.512,0.488
+469,0," Airport Express doesn't rock enough to allow wireless scanning with the Canon pixma MX310, but otherwise it's wireless goodness.",Airport Express doesnt rock enough allow wireless scanning with Canon pixma MX310 otherwise wireless goodness,0.0,0.5,Neutral,0.3257,0.094,0.17,0.736
+470,0," Alistair's friends are all in the kitchen and I'm in my pjs...I JUST WANT A CUP OF TEA, DAMMIT!",Alistairs friends kitchen pjsI JUST WANT DAMMIT,0.0,0.0,Neutral,0.6289,0.0,0.507,0.493
+471,0, all day.. no play.,play,0.0,0.0,Neutral,0.34,0.0,1.0,0.0
+472,0, all dressed up and no bicyclist for Monday nite ride n Henderson KY http://bit.ly/10H4ne,dressed bicyclist Monday nite ride Henderson http bitly 10H4ne,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+473,0, all I want is my ma in my arms  that's all I want is you in my arms,want arms thats want arms,0.0,0.0,Neutral,0.1531,0.0,0.464,0.536
+474,0, all my friends are gone haley n katie @ camp Paris @ moms Landin n Ayonna @ aunts n moms im so bored,friends gone haley katie camp Paris moms Landin Ayonna aunts moms bored,-0.5,1.0,Negative,0.25,0.138,0.204,0.658
+475,0, all nighter. yeeeeeeeeeeeessshhhh what a nightmare up coming 2 weeks. cannot wait to graduate!,nighter yeeeeeeeeeeeessshhhh what nightmare coming weeks cannot wait graduate,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+476,1, All the small things...,small things,-0.25,0.4,Negative,0.0,0.0,0.0,1.0
+477,0," All those Non-Robsten posts are making me sad. I mean, I knew that, but to see it from others in words. So sad.",those NonRobsten posts making mean knew that from others words,-0.3125,0.6875,Negative,0.0,0.0,0.0,1.0
+478,0, allison didnt win. She should have.,allison didnt should have,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+479,0, almost time to leave.,almost time leave,0.0,0.0,Neutral,0.0202,0.0,0.35,0.65
+480,0, already getting sleepy...I really want to get my psych quizzes done tonight...,already getting sleepyI really want psych quizzes done tonight,0.2,0.2,Positive,0.1513,0.0,0.166,0.834
+481,1,- always a nice thing to wake up to. yay. :p (gosh I'm such a typical lame overanalyzing teenager) lmao  / had a nice nap.,always nice thing wake gosh such typical lame overanalyzing teenager lmao nice,0.18888888888888888,0.7916666666666666,Positive,0.7717,0.138,0.468,0.394
+482,1, am excited,excited,0.375,0.75,Positive,0.34,0.0,1.0,0.0
+483,1, Am feelin very happy!? ,feelin very happy,1.0,1.0,Positive,0.6115,0.0,0.666,0.334
+484,1, Am I feeding the Pig'?,feeding,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+485,0," am i losing my mind cause i wanna see my.TC on TV right now, this min? FU2 i want 2see CandyGirls!! not Daisy -dammit!! @iluvTerricka",losing mind cause wanna myTC right this want 2see CandyGirls Daisy dammit iluvTerricka,0.2857142857142857,0.5357142857142857,Positive,-0.3016,0.174,0.092,0.735
+486,0, am sad to say i didn't get my results today somehow the school forgot to mail my results to me?? Typical. Ugh,didnt results today somehow school forgot mail results Typical,-0.16666666666666666,0.5,Negative,0.0,0.0,0.0,1.0
+487,1,-- An alarm clock is a device for waking up people who do not have small children. --- ,alarm clock device waking people have small children,-0.25,0.4,Negative,-0.34,0.255,0.0,0.745
+488,0, And how can you mend a broken heart?   â« http://blip.fm/~8k7kl,mend broken heart http blipfm 8k7kl,-0.4,0.4,Negative,0.2732,0.274,0.372,0.354
+489,0, and I think that's why I felt really sick and depressed in school today cuz of all the stress.. I'm glad I got that off my chest :/,think thats felt really sick depressed school today stress glad that chest,-0.10714285714285715,0.9285714285714286,Negative,-0.7889,0.475,0.143,0.381
+490,0, and i was just starting to get confident in myself! you have torn me down!,just starting confident myself have torn down,0.11481481481481481,0.40740740740740744,Positive,0.296,0.196,0.314,0.49
+491,1, anoron.reedcourty.operaunite.com/webserver/content/ home.sch alternatÃ­va ,anoronreedcourtyoperaunitecom webserver content homesch alternat,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+492,0, another 45 mins....,another mins,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+493,0, another early day,another early,0.1,0.3,Positive,0.0,0.0,0.0,1.0
+494,0, another father's day weekend I don't get to spend with my dad..,another fathers weekend dont spend with,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+495,1, Another Friday night of Rock Band,Another Friday night Rock Band,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+496,0, anticipating a tough day ahead,anticipating tough ahead,-0.3888888888888889,0.8333333333333334,Negative,-0.128,0.429,0.0,0.571
+497,0, anyone know if Ghostbusters is region free on 360?? and where to get a US copy in Britain if it is,anyone know Ghostbusters region free where copy Britain,0.4,0.8,Positive,0.5106,0.0,0.32,0.68
+498,1,  : D a million making a difference. I can't help but to believe. I came in believing &amp; I will leave believing GOD IS!,million making difference cant help believe came believing will leave believing,0.0,0.0,Neutral,-0.3523,0.278,0.0,0.722
+499,0, - ?oVe&lt;33,oVelt33,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+500,0,  6:30...what's wrong wit it?,30whats wrong,-0.5,0.9,Negative,-0.4767,0.756,0.0,0.244
+501,0, - alergic... nose itchy and eyes burning... Hope It's getting better soon....,alergic nose itchy eyes burning Hope getting better soon,0.5,0.5,Positive,0.5719,0.151,0.417,0.432
+502,0,  and they KEEP on coming!   xox,they KEEP coming,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+503,0,  Another expensive weekend trip to the vet.,Another expensive weekend trip,-0.5,0.7,Negative,0.0,0.0,0.0,1.0
+504,0,"  are there any parties tonight!? im hella bored at home, and its seems like everyone is busy!! LAMMMMEEE",there parties tonight hella bored home seems like everyone busy LAMMMMEEE,-0.2,0.65,Negative,0.4228,0.153,0.333,0.513
+505,0,  but chilli prawns will make the pain better...,chilli prawns will make pain better,0.5,0.5,Positive,-0.1027,0.324,0.284,0.392
+506,0,  daughter's beloved diabetic dwarf hamster died in her hands this morning...all creatures are worthy of love. â¥,daughters beloved diabetic dwarf hamster died hands this morningall creatures worthy love,0.5111111111111111,0.8666666666666667,Positive,0.7783,0.164,0.473,0.364
+507,0,  DD has pinkeye...not fun.,pinkeyenot,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+508,0, -- Farrah Fawcett Dies of Cancer at 62 - ABC News http://bit.ly/akQLD (via @Turner),Farrah Fawcett Dies Cancer News http bitly akQLD Turner,0.0,0.0,Neutral,-0.6597,0.355,0.0,0.645
+509,0,  feeling hopeless and useless.,feeling hopeless useless,-0.5,0.2,Negative,-0.6486,0.795,0.205,0.0
+510,0,  forgot my lunch at home,forgot lunch home,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+511,0,  General Motors sold hummer :S :S,General Motors sold hummer,0.05000000000000002,0.5,Positive,0.0,0.0,0.0,1.0
+512,1,  Good morning all! Have a great day!!!,Good morning Have great,0.75,0.675,Positive,0.7906,0.0,0.778,0.222
+513,0,  goodnight..,goodnight,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+514,0,  gooood night!!   must prepare for tomorrows meeting now,gooood night must prepare tomorrows meeting,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+515,0, - Great! Im bored at the moment and just have no idea on what to do!  Missing Boyfie too! Damn iâm... http://tumblr.com/xzp224xgj,Great bored moment just have idea what Missing Boyfie Damn http tumblrcom xzp224xgj,0.03333333333333335,0.6,Positive,-0.2263,0.348,0.204,0.448
+516,1,  having a luvly day http://tinyurl.com/ckbmkc,having luvly http tinyurlcom ckbmkc,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+517,1,  he is so hot !,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+518,1,  hmm what to do!,what,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+519,0,  http://bit.ly/18xobk Five Guys Locations Closed After Visit from &lt;em&gt;Inside Edition&lt;/em&gt;'s 'Rat Patrol' @dcist,http bitly 18xobk Five Guys Locations Closed After Visit from ltemgtInside Editionlt emgts Patrol dcist,-0.1,0.1,Negative,0.0,0.0,0.0,1.0
+520,0,  I am actually crying now because of sore throat.,actually crying because sore throat,-0.2,0.6,Negative,-0.6808,0.651,0.0,0.349
+521,0," - I feel irresponsible and sort of horrible. Marshmallows, unless otherwise stated, have gelatin. fuck... http://tumblr.com/xl21pafgm",feel irresponsible sort horrible Marshmallows unless otherwise stated have gelatin fuck http tumblrcom xl21pafgm,-0.7,0.8,Negative,-0.872,0.474,0.0,0.526
+522,0,  i miss my brother.. i worry about him.,miss brother worry about,0.0,0.0,Neutral,-0.5423,0.692,0.0,0.308
+523,0,"  i need to think of something else, first. ",need think something else first,0.25,0.3333333333333333,Positive,0.0,0.0,0.0,1.0
+524,0,  i wanted julian to win!,wanted julian,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+525,1, - Iowa No. 2 in happy! Yea!,Iowa happy,0.8,1.0,Positive,0.5719,0.0,0.787,0.213
+526,0,  jus got some bad news,some news,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+527,1,  just got home,just home,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+528,0,  just mean,just mean,-0.3125,0.6875,Negative,0.0,0.0,0.0,1.0
+529,1,  just saw sink into me the whole video on kerrang! ive seen it before loads but its so much better on tv!,just sink into whole video kerrang seen before loads much better,0.35,0.45,Positive,0.4404,0.0,0.225,0.775
+530,0, - Limp Bizkit - Rollin' #SongStuckInMyHeadWhenIWokeUp,Limp Bizkit Rollin SongStuckInMyHeadWhenIWokeUp,-0.2,0.5,Negative,0.0,0.0,0.0,1.0
+531,0,"  ''Love, save the empty''",Love save empty,0.2,0.55,Positive,0.765,0.196,0.804,0.0
+532,0,  my camera broke !,camera broke,0.0,0.0,Neutral,-0.4215,0.737,0.0,0.263
+533,1,  My mom is the funniest person ever!  ,funniest person ever,0.0,0.0,Neutral,0.5574,0.0,0.643,0.357
+534,0,  my parents left,parents left,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+535,0,"  Nadal is out @ French Open ... now, to my back-up -- Go ANDY RODDICK!",Nadal French Open backup ANDY RODDICK,0.0,0.25,Neutral,0.0,0.0,0.0,1.0
+536,0,"  no ass beatings, checked out Playhouse in Baltimore this weekend as well.  Feeling quite rested and a bit out of sorts.",beatings checked Playhouse Baltimore this weekend well Feeling quite rested sorts,0.0,0.0,Neutral,0.3818,0.0,0.286,0.714
+537,0,  nothing....,nothing,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+538,0,  ok we'll talk about your boyfriends and stuff tomorrow ;) lmao and we'll talk for real soon too!! wooo hehe ilysfm doodle xxxx,well talk about your boyfriends stuff tomorrow lmao well talk real soon wooo hehe ilysfm doodle xxxx,0.4,0.65,Positive,0.7964,0.0,0.367,0.633
+539,1,  Pie seems to have quite a good appetite now.,seems have quite good appetite,0.7,0.6000000000000001,Positive,0.4927,0.0,0.444,0.556
+540,0, - server problems - motivating me to change hosting providers though... #fb,server problems motivating change hosting providers though,0.0,0.0,Neutral,0.128,0.248,0.294,0.459
+541,0,  shakes head,shakes head,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+542,0,"  Shock loss to Sparks...bummer, @tmmcwilliams had a great game but shock too many injuries to start the season...rematch Monday!",Shock loss Sparksbummer tmmcwilliams great game shock many injuries start seasonrematch Monday,0.3,0.5499999999999999,Positive,-0.34,0.383,0.209,0.408
+543,0,  some asshole got a hold of my email and signed me up for all this spam mail.  ughhhh...it's non stop.  anyone have a spam blocker?,some asshole hold email signed this spam mail ughhhhits stop anyone have spam blocker,0.0,0.0,Neutral,-0.7632,0.408,0.0,0.592
+544,0,  someone just said ast least your pretty  . thanks but but being pretty gets you nowhere you have to much integrity .,someone just said least your pretty thanks being pretty gets nowhere have much integrity,0.12000000000000002,0.5599999999999999,Positive,0.7973,0.102,0.433,0.465
+545,0,  myspace peOplE  can get really angry if I don't answer them right away... JA!,myspace peOplE really angry dont answer them right away,-0.10714285714285715,0.7678571428571428,Negative,-0.5563,0.31,0.0,0.69
+546,0,  never get any photo comments on m space and more,never photo comments space more,0.5,0.5,Positive,0.0,0.0,0.0,1.0
+547,1,"  NHL: Penguins 1, Red Wings 3 - FINAL - Red Wings lead series 1-0 - for stats, stars and more visit http://www.nhl.com",Penguins Wings FINAL Wings lead series stats stars more visit http wwwnhlcom,0.25,0.75,Positive,0.0,0.0,0.0,1.0
+548,0,  no tickets in germany for the miley cyrus tour.. ,tickets germany miley cyrus tour,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+549,0,"  photo shoot rained out...  oh well, back to post!",photo shoot rained well back post,0.0,0.0,Neutral,-0.0772,0.282,0.247,0.471
+550,1,  R.I.P young teke!!!  i miss you cuzin!! &lt;3     it has been 1 year sence you died. . .    [Dont be ashamed of your faith],young teke miss cuzin been year sence died Dont ashamed your faith,0.1,0.4,Positive,-0.6096,0.416,0.141,0.442
+551,0,  RIP Charles J ...the world is with one less fine fellow,Charles world with less fine fellow,0.125,0.2833333333333333,Positive,0.1298,0.0,0.232,0.768
+552,0,  RSL was at the Paley talk?! Now I'm even more depressed I couldn't get a ticket. Oh wells. ,Paley talk even more depressed couldnt ticket wells,0.5,0.5,Positive,-0.6523,0.471,0.0,0.529
+553,1, - she is amazing -- Bjork ï¿½ Bachelorette ? http://blip.fm/~4lfyi,amazing Bjork Bachelorette http blipfm 4lfyi,0.6000000000000001,0.9,Positive,0.5859,0.0,0.432,0.568
+554,0,  so bored,bored,-0.5,1.0,Negative,-0.2732,1.0,0.0,0.0
+555,0,  so much for a good weekend,much good weekend,0.7,0.6000000000000001,Positive,0.4404,0.0,0.592,0.408
+556,1,  Thank you.    @Kyauphie,Thank Kyauphie,0.0,0.0,Neutral,0.3612,0.0,0.714,0.286
+557,0,  The hotel doesn't know where it is either... that was my favorite! How poopie is that.,hotel doesnt know where either that favorite poopie that,0.5,1.0,Positive,0.4588,0.0,0.273,0.727
+558,0, - thelovelybones: I plan on owning this â¦donât judge me. http://tumblr.com/xr0238tmq,thelovelybones plan owning this don judge http tumblrcom xr0238tmq,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+559,0,"  This year, 5 million children from hunger-related causes.  http://is.gd/17Eo4",This year million children from hungerrelated causes http isgd 17Eo4,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+560,0, - ticketsandpassports: Â lmao your not a nerd. i think its cool when guys like anime. http://tumblr.com/xqn1x1tue,ticketsandpassports lmao your nerd think cool when guys like anime http tumblrcom xqn1x1tue,0.475,0.825,Positive,0.7579,0.111,0.437,0.452
+561,0,  To all the mothers whose day may not be so happy. God loves you. TLC - Waterfalls ? http://blip.fm/~5zi9g,mothers whose happy loves Waterfalls http blipfm 5zi9g,0.8,1.0,Positive,0.8126,0.0,0.552,0.448
+562,0,  Today is not a good day. But I guess laying around the house in your undies isn't so bad.,Today good guess laying around house your undies isnt,0.7,0.6000000000000001,Positive,0.4404,0.0,0.266,0.734
+563,0,"  went to maggie's bday party, came home without my phone... I feel lost, and reaallly confused (but thats just the booze talking)",went maggies bday party came home without phone feel lost reaallly confused thats just booze talking,-0.4,0.7,Negative,0.3318,0.115,0.234,0.651
+564,0,  when will RB2 get an australian release date???,when will australian release date,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+565,0," !my grandma just told me she thinks I'm stupid. Well, hey thanks, G.",grandma just told thinks stupid Well thanks,-0.29999999999999993,0.6,Negative,0.1531,0.274,0.403,0.323
+566,1, #andyhurleyday,andyhurleyday,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+567,1, #ASOT400,ASOT400,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+568,0, #betseyjohnson why are you doing this to me? This necklace is $150 rather than the usual $50-60 I want it  http://twitpic.com/6ioi8,betseyjohnson doing this This necklace rather than usual 5060 want http twitpiccom 6ioi8,-0.25,0.25,Negative,0.0772,0.0,0.098,0.902
+569,1, #followfriday @n3rin3 @jurgenphoto @shaneaddinall @robi27 @dannyvan @byronrode @tattood1,followfriday n3rin3 jurgenphoto shaneaddinall robi27 dannyvan byronrode tattood1,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+570,0, #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH #IMISSCATH,IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH IMISSCATH,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+571,1, #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany #mcflyforgermany,mcflyforgermany mcflyforgermany mcflyforgermany mcflyforgermany mcflyforgermany mcflyforgermany mcflyforgermany mcflyforgermany,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+572,0, #p1wimax no signal detected here at the gardens,p1wimax signal detected here gardens,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+573,0, #trackle,trackle,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+574,1, --&gt; that was then. ='( --&gt; this is NOW.,that then this,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+575,1, &lt;3 this pic If u want more tell me cause I got more   http://twitpic.com/6vsv8,this want more tell cause more http twitpiccom 6vsv8,0.5,0.5,Positive,0.0772,0.0,0.14,0.86
+576,1, &lt;---My expression watching this again: http://tinyurl.com/eqbwe,ltMy expression watching this again http tinyurlcom eqbwe,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+577,0, &quot;Beach Ball Fail&quot; - http://cheezburger.com/tw/?v7-20659 #lol #fail,quotBeach Ball Failquot http cheezburgercom v720659 fail,-0.5,0.29999999999999993,Negative,-0.5423,0.368,0.0,0.632
+578,1, &quot;I'm a freelance writer for Braille porn and a stunt double for a hand model for Palmolive dishwashing liquid.&quot; [from @ShinyHappyHead],quotIm freelance writer Braille porn stunt double hand model Palmolive dishwashing liquidquot from ShinyHappyHead,0.0,0.0,Neutral,0.6597,0.0,0.31,0.69
+579,1, &quot;Im in love and I don't care who knows it !&quot; -elf,quotIm love dont care knows quot,0.5,0.6,Positive,0.3761,0.243,0.388,0.369
+580,0, &quot;It's raining again&quot; (c) Supertramp,quotIts raining againquot Supertramp,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+581,1," &quot;Y must people insist on talking about stupid politics on the comments of a bubblegum pop song. Sorry, get out&quot; http://tinyurl.com/ljgec2",quotY must people insist talking about stupid politics comments bubblegum song Sorry outquot http tinyurlcom ljgec2,-0.6499999999999999,1.0,Negative,-0.5719,0.251,0.0,0.749
+582,0, &quot;you have to do it all alone&quot;,quotyou have alonequot,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+583,0," Apparently the 'new' 3.0 is the same build as the GM, meaning I'll likely have the same [minute] issues I was having with the GM. #mlia",Apparently same build meaning likely have same minute issues having with mlia,0.0,0.4166666666666667,Neutral,0.0,0.0,0.0,1.0
+584,0," Archie's annoying me this morning, says I hogged the bed all night and won't get up for his shower, him and his little black kettle self",Archies annoying this morning says hogged night wont shower little black kettle self,-0.38472222222222224,0.611111111111111,Negative,-0.4019,0.184,0.0,0.816
+585,0, are you ok @zheyamada ?,zheyamada,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+586,0," Argh, the speakers on my Macbook are screwing up, and slowly dying.",Argh speakers Macbook screwing slowly dying,-0.30000000000000004,0.39999999999999997,Negative,-0.2263,0.275,0.0,0.725
+587,1, -as simple as it gets.,simple gets,0.0,0.35714285714285715,Neutral,0.0,0.0,0.0,1.0
+588,0, at Chris Brown . . . I honestly dont feel bad for Rihanna ; anyways . . . Out nd such . . .,Chris Brown honestly dont feel Rihanna anyways such,0.3,0.7,Positive,0.4588,0.0,0.3,0.7
+589,0, at last night ,last night,0.0,0.06666666666666667,Neutral,0.0,0.0,0.0,1.0
+590,1," at my tweets: 1 lady saying goodnite, 2 tweets later 1 lady is saying good morning - that's crazy - i would never imagined this yrs ago",tweets lady saying goodnite tweets later lady saying good morning thats crazy would never imagined this,0.033333333333333326,0.5,Positive,0.128,0.124,0.15,0.725
+591,1, at the nursery. the wailing have just ended. all sleeping soundly. working morning shift tmrw. grr,nursery wailing have just ended sleeping soundly working morning shift tmrw,0.4,0.4,Positive,0.0,0.0,0.0,1.0
+592,1, AT THE RANDOM MENTION ABOUT CORE 2 &quot;DEALS&quot; THAT ARE ALMOST TWICE AS MUCH SENSE AS IT'S NOT TIED TO HIMSELF ABOUT TV EVERY NIGHT.,RANDOM MENTION ABOUT CORE quotDEALSquot THAT ALMOST TWICE MUCH SENSE TIED HIMSELF ABOUT EVERY NIGHT,-0.15,0.35,Negative,0.0,0.0,0.0,1.0
+593,0, at work ! Fuck !,work Fuck,-0.4,0.6,Negative,-0.5423,0.778,0.0,0.222
+594,0, at work and got loads to do b4 I leave today. Toodles lufflies xxx,work loads leave today Toodles lufflies,0.0,0.0,Neutral,-0.0516,0.194,0.0,0.806
+595,0, attempting to get other people on twitter(other than cate)  to talk to me but it is failing,attempting other people twitter other than cate talk failing,-0.125,0.375,Negative,-0.5106,0.292,0.0,0.708
+596,0, Aw. Toy Story 3 is coming out NEXT year.,Story coming NEXT year,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+597,1, awake...finally..random dream...i was a penguin but i lived in jersey and i oddly lived in a icecream store lolz ,awakefinallyrandom dreami penguin lived jersey oddly lived icecream store lolz,-0.16666666666666666,0.25,Negative,0.5719,0.0,0.291,0.709
+598,0, awesome  http://twitpic.com/6ikhd,awesome http twitpiccom 6ikhd,1.0,1.0,Positive,0.6249,0.0,0.577,0.423
+599,1, awesome black coffee... anyone?,awesome black coffee anyone,0.4166666666666667,0.7166666666666667,Positive,0.6249,0.0,0.577,0.423
+600,1, aww great song &quot;Picture to burn&quot;,great song quotPicture burnquot,0.8,0.75,Positive,0.6249,0.0,0.577,0.423
+601,0, AWW I GOTA DO HOMEWORK,GOTA HOMEWORK,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+602,0, aww someone borrowed it without telling me.,someone borrowed without telling,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+603,0, Awww derek is at work back to making kandie with the little ones  :o,Awww derek work back making kandie with little ones,0.07083333333333335,0.4666666666666666,Positive,0.0,0.0,0.0,1.0
+604,0, B- in genetics so that's a 2.75 towards my GPA. What really sucks is that I got a 79.75% in the class and an 80% is a B.,genetics thats towards What really sucks that 7975 class,-0.3,0.3,Negative,-0.4201,0.259,0.0,0.741
+605,0, baby died last night. @$%%$# day.,baby died last night,0.0,0.06666666666666667,Neutral,-0.5574,0.545,0.0,0.455
+606,0, baby girl's so upset.....i'm not where i need to be with my sewing... and it's almost 10pm and i'm finally eating a little dinner..sigh..,baby girls upsetim where need with sewing almost 10pm finally eating little dinnersigh,-0.09375,0.75,Negative,0.0,0.0,0.0,1.0
+607,1, baby sitting today.. shopping tomorrow.. Rue 21 Is the best Ever.. ,baby sitting today shopping tomorrow best Ever,1.0,0.3,Positive,0.6369,0.0,0.412,0.588
+608,1, baby you like my favorite dessert I just can not get enough of you love you I'm yours 4Eva,baby like favorite dessert just enough love yours 4Eva,0.3333333333333333,0.7000000000000001,Positive,0.8558,0.0,0.611,0.389
+609,0,"=- back from cali , missing itttttt",back from cali missing itttttt,-0.1,0.025,Negative,-0.296,0.355,0.0,0.645
+610,0,=- back pain,back pain,0.0,0.0,Neutral,-0.5106,0.767,0.0,0.233
+611,1, Back to basics ,Back basics,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+612,0, bad day 2day. Broken glasses  rainy weather  uof,2day Broken glasses rainy weather,-0.4,0.4,Negative,-0.5267,0.595,0.0,0.405
+613,0, bad night for the pens,night pens,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+614,0, bad timing- a new mommy just called for newborn pictures and I can't fit the baby into my schedule no matter how hard I try,timing mommy just called newborn pictures cant baby into schedule matter hard,-0.2916666666666667,0.5416666666666666,Negative,-0.0772,0.112,0.088,0.8
+615,1, BAHAHAHA  me and jodie burst out doing kevin's sos dance!  EPICCC XD,BAHAHAHA jodie burst doing kevins dance EPICCC,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+616,0,' bank account is negative $118... ,bank account negative,-0.3,0.4,Negative,-0.5719,0.649,0.0,0.351
+617,1, Bas one last time 2 update my status ,last time update status,0.0,0.06666666666666667,Neutral,0.0,0.0,0.0,1.0
+618,1, baseball.,baseball,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+619,0, bcd's closed! i guess nodaji it is.,bcds closed guess nodaji,-0.1,0.1,Negative,0.0,0.0,0.0,1.0
+620,0,"- bed ; I gotta get up early  , only 5 more days of this bullshit  . SUMMER!!! &lt;3",gotta early only more days this bullshit SUMMER,0.19999999999999998,0.6,Positive,-0.7031,0.408,0.0,0.592
+621,0, bed time......................................................,time,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+622,0, bedss gayyyy ... oh well Goodnight people  @technotetris and @ShaunAcland ;D,bedss gayyyy well Goodnight people technotetris ShaunAcland,0.0,0.0,Neutral,0.2732,0.0,0.259,0.741
+623,1,- been up for 2 days straight. LoL. i NEVER sleep. ,been days straight NEVER sleep,0.2,0.4,Positive,0.2263,0.0,0.322,0.678
+624,0, being afraid of food is an eating disorder right?,being afraid food eating disorder right,-0.15714285714285714,0.7178571428571429,Negative,-0.4019,0.351,0.0,0.649
+625,0, being told im beautiful doesnt make my tummy better,being told beautiful doesnt make tummy better,0.675,0.75,Positive,0.3599,0.213,0.345,0.442
+626,0, besides that great graduation day. I finaly made it I'm a highschool graduate ! Moms word .. Chapter close .. Keep pushing foward.,besides that great graduation finaly made highschool graduate Moms word Chapter close Keep pushing foward,0.8,0.75,Positive,0.6249,0.0,0.227,0.773
+627,0,"  still no phone. bukas pa raw in the afternoon...  oh well, i survived 7 days, what's one more... day...  another day, another destiny",still phone bukas afternoon well survived days whats more another another destiny,0.5,0.5,Positive,0.6597,0.0,0.351,0.649
+628,1,  such a nice day,such nice,0.3,0.75,Positive,0.4215,0.0,0.737,0.263
+629,1,  Summertime by DJ Jazzy Jeff and The Fresh Prince,Summertime Jazzy Jeff Fresh Prince,0.3,0.5,Positive,0.3182,0.0,0.365,0.635
+630,0,  The iPhone will be out of commission for a while.,iPhone will commission while,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+631,1,  the weather is lushhh!,weather lushhh,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+632,0,  Things are not good in my head. I may not be around a lot this weekend.,Things good head around this weekend,0.7,0.6000000000000001,Positive,0.4404,0.0,0.367,0.633
+633,1,  third date went well....moving on to fourth!!!!!!,third date went wellmoving fourth,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+634,1,  To The Death! An awesome random comic for the certifiably not sane. (  ),Death awesome random comic certifiably sane,0.25,0.6666666666666666,Positive,0.0516,0.325,0.342,0.333
+635,0,  try and enjoy ur family &amp; I am here if I need anything-anything!!!. Love you Sis-be brave &amp; I know u r strong ur in my prayers,enjoy family here need anythinganything Love Sisbe brave know strong prayers,0.5333333333333333,0.7083333333333334,Positive,0.9337,0.0,0.668,0.332
+636,1,  twilight !!!,twilight,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+637,0,  twitter wont let me send replies today - boo hoo,twitter wont send replies today,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+638,1,  two more days.,more days,0.5,0.5,Positive,0.0,0.0,0.0,1.0
+639,0,  ughhh..,ughhh,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+640,0,  UVA baseball...   Come on boys you can do it,baseball Come boys,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+641,0,  water works are gonna start,water works gonna start,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+642,0," - Well i wrote a missive post about last night and all the things that happened, it got deleted tho by... http://tumblr.com/x9c238auy",Well wrote missive post about last night things that happened deleted http tumblrcom x9c238auy,0.0,0.06666666666666667,Neutral,0.2732,0.0,0.139,0.861
+643,0,"  well, I guess I knew it was going to break sometime...",well guess knew going break sometime,0.0,0.0,Neutral,0.2732,0.0,0.296,0.704
+644,1, - 'What Canadians Have to be Proud of' http://bit.ly/NX4aQ,What Canadians Have Proud http bitly NX4aQ,0.8,1.0,Positive,0.4767,0.0,0.341,0.659
+645,0,  why is it raining?,raining,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+646,0,  why me?,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+647,1,  xD go day!!!,,0.0,0.0,Neutral,0.0,0.0,0.0,0.0
+648,1, - yay for STAR testing week! I start school at 11am this week and I have no school on thursday! maybe SF... http://tumblr.com/xvq1mln1l,STAR testing week start school 11am this week have school thursday maybe http tumblrcom xvq1mln1l,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+649,1,- #Hello #World! This is where i live: http://twitpic.com/6bo0t #beautiful #5am #woop - bed now ,Hello World This where live http twitpiccom 6bo0t beautiful woop,0.49318181818181817,0.75,Positive,0.5994,0.0,0.302,0.698
+650,1, #shortstack #tokiohotel #shortstack #tokiohotel #shortstack #tokiohotel #shortstack #tokiohotel #shortstack #tokiohotel #shortstack,shortstack tokiohotel shortstack tokiohotel shortstack tokiohotel shortstack tokiohotel shortstack tokiohotel shortstack,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+651,0, #squaresp #squarespac #squarespace #trackle giveaways giveway iphonegiveway squarespace squarespce trackle,squaresp squarespac squarespace trackle giveaways giveway iphonegiveway squarespace squarespce trackle,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+652,1, &lt;*~Free!~*&gt;,Free,0.4,0.8,Positive,0.5106,0.0,1.0,0.0
+653,1, &lt;----that's me smiling.,ltthats smiling,0.0,0.0,Neutral,0.4588,0.0,0.75,0.25
+654,0,- &quot;......you were asleep while i gathered my things in the dark. the burns on my fingers were all that was left of the spark...&quot; - ,quotyou were asleep while gathered things dark burns fingers were that left sparkquot,-0.075,0.2,Negative,0.0,0.0,0.0,1.0
+655,0, &quot;BBC NEWS | UK maps climate change forecasts&quot; - The picture it paints is an alarming one ( http://bit.ly/69AYs ),quotBBC NEWS maps climate change forecastsquot picture paints alarming http bitly 69AYs,-0.1,0.6,Negative,-0.128,0.12,0.0,0.88
+656,0, &quot;I'm giving up on you. I don't care how you mess up your life now.&quot;... :'(,quotIm giving dont care mess your life nowquot,-0.175,0.175,Negative,0.222,0.217,0.372,0.412
+657,0," &quot;Meteorologists Predict Chilly, Rainy Midsummer | News in Finland| yle.fi&quot; + thunder  ( http://bit.ly/15TpJC )",quotMeteorologists Predict Chilly Rainy Midsummer News Finland ylefiquot thunder http bitly 15TpJC,-0.6,0.9,Negative,-0.0772,0.106,0.0,0.894
+658,1, &quot;Nintendo DSi Portable Game System - What Will You and i Do?&quot; ( http://tinyurl.com/b3yobq ),quotNintendo Portable Game System What Will Doquot http tinyurlcom b3yobq,-0.4,0.4,Negative,0.0,0.0,0.0,1.0
+659,1, &quot;Promote My Site - Getting to the Front Page and Other Places in Social Media&quot; ( http://tinyurl.com/dflzg4 ),quotPromote Site Getting Front Page Other Places Social Mediaquot http tinyurlcom dflzg4,-0.04583333333333334,0.22083333333333333,Negative,0.0,0.0,0.0,1.0
+660,1," &quot;The universe is a living being, and it's conscious, and it's very old. And it cares about itself in lots of ways.&quot; Drunvalo Melchizedek.",quotThe universe living being conscious very cares about itself lots waysquot Drunvalo Melchizedek,0.15000000000000002,0.4,Positive,0.5095,0.0,0.215,0.785
+661,1,- &quot;the world makes music for people who listen &quot; ,quotthe world makes music people listen quot,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+662,1, &quot;Will Diggâs New Share Feature Pollute Twitter?&quot; ( http://tinyurl.com/ncqkm5 ),quotWill Digg Share Feature Pollute Twitterquot http tinyurlcom ncqkm5,0.0,0.0,Neutral,-0.2732,0.264,0.176,0.56
+663,0, (angry) mixed motions! but soo frustrated x( http://plurk.com/p/13s5mg,angry mixed motions frustrated http plurkcom 13s5mg,-0.39999999999999997,0.48333333333333334,Negative,-0.7717,0.573,0.0,0.427
+664,0, (mood i am in),mood,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+665,1, *exited* I just bought some oreos!! I hope everyone likes oreos..,exited just bought some oreos hope everyone likes oreos,0.0,0.0,Neutral,0.6908,0.0,0.449,0.551
+666,0, *hugs @ignorantsheep*,hugs ignorantsheep,0.0,0.0,Neutral,0.4939,0.0,0.762,0.238
+667,0, *sends you e-hugs*,sends ehugs,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+668,0, *tear*,tear,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+669,0," *cries* I'm so depressed, thanks to you my angel! &quot;I'm gonna find someone someday who might actually treat me well&quot;!!",cries depressed thanks angel quotIm gonna find someone someday might actually treat wellquot,0.1,0.15000000000000002,Positive,-0.1027,0.291,0.272,0.437
+670,0,"--- *On my way to the doctors with my Duo, my ass hasn't even had breakfast yet  lol",doctors with hasnt even breakfast,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+671,0, *sob* must be in bed!!,must,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+672,0, *wishes she was at summer jam*,wishes summer,0.0,0.0,Neutral,0.1531,0.0,0.615,0.385
+673,0," , school! GrRr im not in the mood to take my make up back off then put it on again when the teachers leave!",school GrRr mood take make back then again when teachers leave,-0.35,0.4,Negative,-0.1531,0.224,0.0,0.776
+674,1,-- . BABBBBBBBBYY .  I missed you MUCH!!,BABBBBBBBBYY missed MUCH,0.2,0.2,Positive,-0.296,0.524,0.0,0.476
+675,0, . Sunday is over.,Sunday over,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+676,1,-- . well then you gon have to stop w. that . &quot;IDC&quot; shit. JUST be faithful like *points to em* MOI! ,well then have stop that quotIDCquot shit JUST faithful like points,-0.2,0.8,Negative,0.1779,0.301,0.389,0.311
+677,0, .. why the jonas are bad with us !! come to paraguay,jonas with come paraguay,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+678,1, ... its JONAS DAY!!!!!!!!,JONAS,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+679,0, ... UghH... Anybody wanna come to my house and cook? My mom is leavin for work and aint cook me shit !... Can't trust dem hoes!!!,UghH Anybody wanna come house cook leavin work aint cook shit Cant trust hoes,-0.2,0.8,Negative,0.0572,0.153,0.166,0.681
+680,0, ....  i don't know what to do..,dont know what,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+681,0, .... i think i lost my spanish book!! :-X,think lost spanish book,0.0,0.0,Neutral,-0.3182,0.434,0.0,0.566
+682,0, .... Life can be so complicated. I know God has a plan .... I just have to trust in him.,Life complicated know plan just have trust,-0.5,1.0,Negative,0.5106,0.0,0.355,0.645
+683,0," ......... Oh well, at least Suzumiya Haruhi no Yuuutsu is on air.",well least Suzumiya Haruhi Yuuutsu,-0.3,0.4,Negative,0.2732,0.0,0.344,0.656
+684,0, .........not really a good night guys ! buu huu,really good night guys,0.7,0.6000000000000001,Positive,0.4927,0.0,0.516,0.484
+685,0, ...I did not get cast in but I will keep looking for some dance opportunities.  I need some exercise.,cast will keep looking some dance opportunities need some exercise,0.0,0.0,Neutral,0.3818,0.0,0.224,0.776
+686,0, ...the ground around me is wet... i looked up to see if any drops fall on my face...it was drizzle all around but I am missing my drops,ground around looked drops fall faceit drizzle around missing drops,-0.2,0.05,Negative,-0.296,0.196,0.0,0.804
+687,0, ..i forgot to bring my new sharpie pens to school today..booo!,forgot bring sharpie pens school todaybooo,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+688,0, ..omg...my celly is off...this hasn't happened to me in years...WTF!!! gota get my bill paid,omgmy celly offthis hasnt happened yearsWTF gota bill paid,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+689,1, : The Last Gadget http://tinyurl.com/pd4wyp #Geek_And_Poke,Last Gadget http tinyurlcom pd4wyp GeekAndPoke,0.0,0.06666666666666667,Neutral,0.0,0.0,0.0,1.0
+690,0, :'( this is so horrible,this horrible,-1.0,1.0,Negative,-0.5423,0.778,0.0,0.222
+691,0, :'( where ius that one person that can make me smile ,where that person that make smile,0.3,0.1,Positive,0.3612,0.0,0.333,0.667
+692,0, :S this tweetdeck is killing me hate it ,this tweetdeck killing hate,-0.8,0.9,Negative,-0.8442,0.802,0.0,0.198
+693,1, ;) July Flowers (July 2009) #Holiday,July Flowers July 2009 Holiday,0.0,0.0,Neutral,0.4019,0.0,0.403,0.597
+694,0, @ last.fm not working.,lastfm working,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+695,1, @aaronXnow finally got twitter haha,aaronXnow finally twitter haha,0.1,0.65,Positive,0.4588,0.0,0.5,0.5
+696,1, @aChAotIcBeaUtY,aChAotIcBeaUtY,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+697,1, @Aimee_B_Loved I think there may be a connection between Paul Reubens and the reason why movie theater fl.. http://tr.im/nfKO,AimeeBLoved think there connection between Paul Reubens reason movie theater http trim nfKO,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+698,0,"- @alexjreid - saw that earlier, can't even comprehend what that couple were feeling. Really tragic ",alexjreid that earlier cant even comprehend what that couple were feeling Really tragic,-0.375,0.625,Negative,-0.4201,0.209,0.095,0.697
+699,1,"- @alittlebit - temperature is down, but the pain is still bad. Hoping antibiotics kick in soon! Thanks for asking ",alittlebit temperature down pain still Hoping antibiotics kick soon Thanks asking,0.022222222222222213,0.24444444444444446,Positive,0.34,0.194,0.335,0.471
+700,1,"-- @anyamanda said I tweets less these days so, hi! ",anyamanda said tweets less these days,-0.16666666666666666,0.06666666666666667,Negative,0.0,0.0,0.0,1.0
+701,1," @AuroraLee Would love to see you guys sometime! *grin* - and aw rats, maybe it'll warm up real fast??? LOL",AuroraLee Would love guys sometime grin rats maybe itll warm real fast,0.46666666666666673,0.6999999999999998,Positive,0.8481,0.0,0.505,0.495
+702,0,- @benboychuk I hope it's not actually on here birthday that she's getting shots.  ,benboychuk hope actually here birthday that shes getting shots,0.0,0.1,Neutral,0.4404,0.0,0.266,0.734
+703,0," @billbeckett's signature has 100% rubbed off my mondayeyes bracelet. At least I have plenty of autographs from him, but still. Sad day.",billbecketts signature rubbed mondayeyes bracelet least have plenty autographs from still,-0.3,0.4,Negative,0.0,0.0,0.0,1.0
+704,1, @blackswan2 &quot;to all you&quot; ? http://blip.fm/~7d1qo,blackswan2 quotto youquot http blipfm 7d1qo,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+705,1, @blondediva11 What happened while I was gone? Anybody get arrested http://tr.im/koFz,blondediva11 What happened while gone Anybody arrested http trim koFz,0.0,0.0,Neutral,-0.4767,0.256,0.0,0.744
+706,1,- @breegeek I'll know if u can't find a replacement 4me. I'll still pay u if not.  I won't let u hang,breegeek know cant find replacement still wont hang,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+707,1, @canuckgrrrl Seeing a guy dressed up as a banana totally made my day. Phallic symbol FTW http://tr.im/mVTm,canuckgrrrl Seeing dressed banana totally made Phallic symbol http trim mVTm,0.0,0.75,Neutral,0.0,0.0,0.0,1.0
+708,1,- @carole29 yep  coz of the England game on Wednesday,carole29 England game Wednesday,-0.4,0.4,Negative,0.0,0.0,0.0,1.0
+709,0," , Alllllan ruins my lifeeee.",Alllllan ruins lifeeee,-0.15,0.2,Negative,-0.4404,0.592,0.0,0.408
+710,1,-- . =D There's my BOO.  *Blushes*,Theres Blushes,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+711,1,-- . BYYEEE . ILY2 Jamarcusssssss ,BYYEEE ILY2 Jamarcusssssss,0.0,0.0,Neutral,0.6523,0.0,0.684,0.316
+712,0, . I was want to buy the sims 3 . But it sold out . Wtf . Haha..,want sims sold Haha,0.2,0.3,Positive,0.5106,0.0,0.683,0.317
+713,1,-- . You aint gotta apologize. I know I'm not ugly. ,aint gotta apologize know ugly,-0.7,1.0,Negative,-0.5568,0.605,0.0,0.395
+714,0, .. just ,just,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+715,0," .. yep,i have things my way all the time. i am selfish. everything revolves around me. yep. im a bitch. great for me (Y) =|",yepi have things time selfish everything revolves around bitch great,0.15000000000000002,0.875,Positive,-0.4215,0.383,0.228,0.389
+716,0, ... ...I don't wanna get rid of twitter  You guys are too cool...,dont wanna twitter guys cool,0.35,0.65,Positive,0.3182,0.0,0.365,0.635
+717,0, ... i try... i try so hard... and i seem to get no credit for it.... wats the prob?,hard seem credit wats prob,-0.2916666666666667,0.5416666666666666,Negative,0.296,0.2,0.371,0.429
+718,0,"- ... wide awake, but dont actually wanna go to school :S  xxx",wide awake dont actually wanna school,-0.05,0.25,Negative,0.0,0.0,0.0,1.0
+719,0, .... Dream beautiful.,Dream beautiful,0.85,1.0,Positive,0.7096,0.0,1.0,0.0
+720,0, .... now only have one roommate....,only have roommate,0.0,1.0,Neutral,0.0,0.0,0.0,1.0
+721,0, ..... Im givin myself 5 minutes to turn that frown upside down,givin myself minutes turn that frown upside down,-0.15555555555555559,0.2888888888888889,Negative,0.0,0.0,0.0,1.0
+722,0, ......i cant even say a word right now,cant even word right,0.2857142857142857,0.5357142857142857,Positive,0.0,0.0,0.0,1.0
+723,0, .....why am i so sad??...becuz of u or becuz of the exam??.....i think..becuz of u... ,sadbecuz becuz exami thinkbecuz,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+724,0, ...?                   ..frustrated?,frustrated,-0.7,0.2,Negative,-0.5267,1.0,0.0,0.0
+725,0, ...and i feel a shallow breath that squeezes past the fifty pounds of stone laid in my chest.,feel shallow breath that squeezes past fifty pounds stone laid chest,-0.29166666666666663,0.375,Negative,0.0,0.0,0.0,1.0
+726,0, ...just found out that a friend from my childhood has passed away... May he Rest In Peace.,just found that friend from childhood passed away Rest Peace,0.0,0.0,Neutral,0.7717,0.0,0.456,0.544
+727,0, ...still in the office... ,still office,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+728,1, ...that is all,that,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+729,0, ..sniffles... since I dont get to leave this fucking house...AW GREAT the power's gone. and its getting dark.. Puurfect!,sniffles since dont leave this fucking houseAW GREAT powers gone getting dark Puurfect,0.01666666666666669,0.65,Positive,0.7399,0.0,0.363,0.637
+730,0, / I feel so ... ... Left out,feel Left,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+731,0, ::sigh:: we didnt win the contest . stupid popularity contest. i had so many votes for her also.  im realy sad. i had such a good feeling,sigh didnt contest stupid popularity contest many votes also realy such good feeling,0.1,0.65,Positive,0.575,0.136,0.44,0.425
+732,0, ;( noooo! why? things are so complicated if I spelt that wrong idc,noooo things complicated spelt that wrong,-0.5,0.95,Negative,-0.4767,0.383,0.0,0.617
+733,0, ;( noooo! why? things are so complicated if I spelt thy wrong idc,noooo things complicated spelt wrong,-0.5,0.95,Negative,-0.4767,0.437,0.0,0.563
+734,1," ;) Butterfly Day (Jun 19, 2009) #Holiday",Butterfly 2009 Holiday,0.0,0.0,Neutral,0.4019,0.0,0.574,0.426
+735,1, ??? what does it means ?,what does means,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+736,0, @ JFK International Airport http://loopt.us/PPYZTQ.t,International Airport http looptus PPYZTQt,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+737,0, @ jonas brothers youtube bein suspended,jonas brothers youtube bein suspended,0.0,0.0,Neutral,-0.4767,0.437,0.0,0.563
+738,0, @ moval court 4 a traffic ticket..I should b sleeping..aahh.,moval court traffic ticketI should sleepingaahh,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+739,1,- @ work.. || Only 5 hours of it today and then weeeekend!  Can't wait for the long weekend to begin! Gonna get some things done for sure!,work Only hours today then weeeekend Cant wait long weekend begin Gonna some things done sure,0.15,0.762962962962963,Positive,0.3182,0.0,0.133,0.867
+740,1, @ahugeproduction Praying for my cold to go to my head because a skunk just sprayed my yard. This is the w.. http://tr.im/n8AI,ahugeproduction Praying cold head because skunk just sprayed yard This http trim n8AI,-0.6,1.0,Negative,0.3612,0.0,0.172,0.828
+741,1," @AriaaJaeger Created from the realms of Light, pure love commands the fold When you think and speak with love, a new world you'll behold~",AriaaJaeger Created from realms Light pure love commands fold When think speak with love world youll behold,0.4035714285714286,0.6,Positive,0.886,0.0,0.426,0.574
+742,1, @arjunbasu The music was so quiet that he was sure there was a massive hoax being played. On him alone. I.. http://tr.im/mP2j,arjunbasu music quiet that sure there massive hoax being played alone http trim mP2j,0.16666666666666666,0.7407407407407408,Positive,0.1531,0.218,0.25,0.532
+743,0, @bananarchy_atx sold out of frozen bananas today!   http://mypict.me/2QIM,bananarchyatx sold frozen bananas today http mypictme 2QIM,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+744,0, @beckobviously i have no car to come to you either.,beckobviously have come either,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+745,0, @belllareow has disappeared again ,belllareow disappeared again,0.0,0.0,Neutral,-0.2263,0.487,0.0,0.513
+746,0,- @billyraycyrus oi tell your daughter to lower her ticket prices we cant afford it in london  my sister cried.,billyraycyrus tell your daughter lower ticket prices cant afford london sister cried,0.0,0.0,Neutral,-0.5859,0.324,0.0,0.676
+747,0,"- @brooklyn_belle LOL. &quot;cat.&quot; I'm a huge fan. Also, the more i think about it, the more I think you should hold off on Sims 3 ",brooklynbelle quotcatquot huge Also more think about more think should hold Sims,0.46666666666666673,0.6333333333333333,Positive,0.3182,0.0,0.173,0.827
+748,1," @Canuckflack Speaking as a historian, WTF do you incorporate twitter buzz by upper middle class North Ame.. http://tr.im/oFLS",Canuckflack Speaking historian incorporate twitter buzz upper middle class North http trim oFLS,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+749,0," @cnnbrk: Farrah Fawcett, star of &quot;Charlie's Angels,&quot; has died from cancer at 62.",cnnbrk Farrah Fawcett star quotCharlies Angelsquot died from cancer,0.0,0.0,Neutral,-0.8402,0.533,0.0,0.467
+750,1,"- @cmedders Yes, before the show, I suggested that we ought to do a celebrity deathmatch ",cmedders before show suggested that ought celebrity deathmatch,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+751,1," @CranberryPerson Dear hyper chihuahua, we only have 45 minutes left together on this drive, but I have a .. http://tr.im/lAj6",CranberryPerson Dear hyper chihuahua only have minutes left together this drive have http trim lAj6,0.0,0.5,Neutral,0.3818,0.0,0.157,0.843
+752,1, @danawalker Washington Capitals would be one of #myweakness as well.,danawalker Washington Capitals would myweakness well,0.0,0.0,Neutral,0.2732,0.0,0.296,0.704
+753,1," @daveena looking fwd to a twitpic of selma soon. Cool name, add a k to the end and it's tok'ra",daveena looking twitpic selma soon Cool name tokra,0.35,0.65,Positive,0.3182,0.0,0.247,0.753
+754,0, @desiredeffect,desiredeffect,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+755,1, @dustincary yea I really wanna see a win for him at daytona,dustincary really wanna daytona,0.2,0.2,Positive,0.0,0.0,0.0,1.0
+756,1, @DWO34 Great to follow @BUTTERFLYWHEEL @DebraWard @chastity_1111 @Cortnee4Christ @DWO34 @DarrenSproat @Sharboubou @mikehanes,DWO34 Great follow BUTTERFLYWHEEL DebraWard chastity1111 Cortnee4Christ DWO34 DarrenSproat Sharboubou mikehanes,0.8,0.75,Positive,0.6249,0.0,0.291,0.709
+757,1, @EightyThreeKid aww I'm sorry bae u kno I be grindin =D BUT I GOT U I SWEAR....I needa go buy an artbook that or construction paper,EightyThreeKid sorry grindin SWEARI needa artbook that construction paper,-0.5,1.0,Negative,-0.0772,0.14,0.0,0.86
+758,0,"- @fontenot619 Hey you! @PoisonGirl10 How long will you be on? @summerblonde83 Thx! @Nic0pic0 hehehe yw ;) @sevgli Yeah, they're not! ",fontenot619 PoisonGirl10 long will summerblonde83 Nic0pic0 hehehe sevgli Yeah theyre,-0.05,0.4,Negative,0.296,0.0,0.196,0.804
+759,1," @gigia: &quot;@Mama_K: &quot;Nobody told me Violent Femmes covered Gnarls Barkley! &quot; tks, dude!! &quot; ? http://blip.fm/~6svjq",gigia quot MamaK quotNobody told Violent Femmes covered Gnarls Barkley quot dude quot http blipfm 6svjq,-0.8,1.0,Negative,-0.5994,0.206,0.0,0.794
+760,0, @HitzProductions unfortunately I'm coming from NJ the boonies...I gotta drive to the path,HitzProductions unfortunately coming from booniesI gotta drive path,-0.5,1.0,Negative,-0.34,0.255,0.0,0.745
+761,0,"- @iamfauxpas All gigs this weekend have been cancelled, so it may be temporary or shut for good. Still trying to find out. BOO. ",iamfauxpas gigs this weekend have been cancelled temporary shut good Still trying find,0.7,0.6000000000000001,Positive,0.2263,0.126,0.182,0.692
+762,1," @idvssuperego Started working on a âwarm, fluffy fartâ? tweet before realizing I donât especially like far.. http://tr.im/n7J0",idvssuperego Started working warm fluffy fart tweet before realizing don especially like http trim n7J0,0.13333333333333333,0.6666666666666666,Positive,0.5709,0.0,0.265,0.735
+763,1, @infobotz News = Google Getting Twitterpated? - http://tinyurl.com/oropl7,infobotz News Google Getting Twitterpated http tinyurlcom oropl7,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+764,0, @isak is mad at me. #fail,isak fail,-0.5,0.29999999999999993,Negative,-0.5423,0.778,0.0,0.222
+765,1, @jazzgotsoul @liveguy lol nooooooooo!!!,jazzgotsoul liveguy nooooooooo,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+766,0, @jessdelight I just played ur joint two songs ago. Everyone in studio was feeling it!,jessdelight just played joint songs Everyone studio feeling,0.0,0.0,Neutral,0.4404,0.0,0.394,0.606
+767,0,- @jonswerens I can't get excited about Conan. ,jonswerens cant excited about Conan,0.375,0.75,Positive,-0.2584,0.337,0.0,0.663
+768,1, @LadyKeisha @scorpio510 thanx for the post &amp; the warm wishes.. enjoy ur day!,LadyKeisha scorpio510 thanx post warm wishes enjoy,0.5,0.55,Positive,0.6908,0.0,0.626,0.374
+769,1, @latuacatante17 youu welcomee,latuacatante17 youu welcomee,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+770,1," @LisaBarone If, thru the miracle of modern science, Bruce and Danny had a child...",LisaBarone thru miracle modern science Bruce Danny child,0.2,0.3,Positive,0.5859,0.0,0.352,0.648
+771,0, @lisad stopped talking to me. I should stalk her. ^^,lisad stopped talking should stalk,0.0,0.0,Neutral,-0.2263,0.322,0.0,0.678
+772,0,"- @littlecharva - you'll be pleased to know I did not have a nice night's sleep, even in a comfy bed ;) even a sleeping bag would be same ",littlecharva youll pleased know have nice nights sleep even comfy even sleeping would same,0.3666666666666667,0.7083333333333334,Positive,0.6908,0.0,0.322,0.678
+773,1," @loic Now try sex in bing, deactivate safe search and go to video. You are now on a porn site without lea.. http://tr.im/n18y",loic bing deactivate safe search video porn site without http trim n18y,0.5,0.5,Positive,0.4404,0.0,0.209,0.791
+774,0, @lushone toolio has court on the 24th...,lushone toolio court 24th,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+775,0," @Mgapmp When you meet @johncmayer tonight, please tell him my story. How Laker Fans made me miss his show!",Mgapmp When meet johncmayer tonight please tell story Laker Fans made miss show,0.0,0.0,Neutral,0.1779,0.107,0.154,0.738
+776,1, @MICHAEL_CASTRO is not at 902  thanks!,MICHAELCASTRO thanks,0.2,0.2,Positive,0.4404,0.0,0.744,0.256
+777,0,- @minxlj hope you get better soon ,minxlj hope better soon,0.5,0.5,Positive,0.7003,0.0,0.744,0.256
+778,0, @misterdjin i just saw...,misterdjin just,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+779,0, @Mizz_Bliz I slept late too. I wonder y u did...Mhmm. I'm not as hype as u think to leave the country for 2 weeks &amp; 3 days.,MizzBliz slept late wonder didMhmm hype think leave country weeks days,-0.3,0.6,Negative,-0.0516,0.107,0.0,0.893
+780,0, @MIZZWALKER which one???,MIZZWALKER which,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+781,0, @moogyboobles AHHHHHH - bloody Five. Why did they give away House (and me the Sky subscription)?,moogyboobles AHHHHHH bloody Five they give away House subscription,-0.8,0.9,Negative,-0.4404,0.266,0.0,0.734
+782,0, @Mp3Jackson Is Upset With Me Lol,Mp3Jackson Upset With,0.0,0.0,Neutral,-0.3818,0.565,0.0,0.435
+783,1," @mrjoecool well praise the lord 4 gud moods i kno i need 2 b 1, im workn out ma thighs &amp; these dark clouds is scaring me",mrjoecool well praise lord moods need workn thighs these dark clouds scaring,-0.15,0.4,Negative,0.4215,0.165,0.324,0.511
+784,0, @Nambu sending my tweets from wrong account although selected the right one.,Nambu sending tweets from wrong account although selected right,-0.10714285714285715,0.7178571428571429,Negative,-0.4767,0.279,0.0,0.721
+785,1," @oliveshoot aw, sweet Leslie was tweeting luv last night!  You are my #1 and absolute FAVE!",oliveshoot sweet Leslie tweeting last night absolute FAVE,0.18333333333333335,0.5388888888888889,Positive,0.7672,0.0,0.525,0.475
+786,1, big ass kool-aid smile on my face from talkin to my boo...,koolaid smile face from talkin,0.3,0.1,Positive,0.3612,0.0,0.385,0.615
+787,0, bleh... I feel like QQing now. ,bleh feel like QQing,0.0,0.0,Neutral,0.3612,0.0,0.455,0.545
+788,1, blowdrying my hair,blowdrying hair,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+789,0, Boo to that ,that,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+790,1, bored........doing nothing at all....okay...i'm a pretty shy girl...,boreddoing nothing allokayim pretty girl,0.25,1.0,Positive,-0.3875,0.396,0.0,0.604
+791,1, BOREDDDD  going to do powerpoint,BOREDDDD going powerpoint,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+792,0, boring nite...damn I guess I better get use to this,boring nitedamn guess better this,-0.25,0.75,Negative,0.1531,0.28,0.354,0.366
+793,0, boro let me down. It's getting very tight.,boro down getting very tight,-0.19384920634920638,0.3301587301587302,Negative,0.0,0.0,0.0,1.0
+794,1, bosco graduation then sara's voice recital,bosco graduation then saras voice recital,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+795,1, breakfast with family,breakfast with family,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+796,1, Britains Got Talent on RIGHT NOW ! Good luck Susan Boyle ;),Britains Talent RIGHT Good luck Susan Boyle,0.4928571428571428,0.5678571428571428,Positive,0.8271,0.0,0.685,0.315
+797,0, bummed to be missing bb Kris's comcast chat. Stupid responsibilities.,bummed missing Kriss comcast chat Stupid responsibilities,-0.5,0.525,Negative,-0.6808,0.528,0.0,0.472
+798,0," burnt tongue, hot chocolate has a downside",burnt tongue chocolate downside,0.0,0.0,Neutral,-0.25,0.4,0.0,0.6
+799,0, but eatting popcorn so its getting better,eatting popcorn getting better,0.5,0.5,Positive,0.4404,0.0,0.492,0.508
+800,0, but I don't want a boyfriend for the summer.,dont want boyfriend summer,0.0,0.0,Neutral,-0.0572,0.289,0.0,0.711
+801,0," but I love you, Aaron.",love Aaron,0.5,0.6,Positive,0.6369,0.0,0.808,0.192
+802,0," but not HIM! He's just a brown nose, telling her she's super-duper beautyful and then he just said a day before: sorry someone died!",just brown nose telling shes superduper beautyful then just said before sorry someone died,-0.5,1.0,Negative,-0.5994,0.29,0.0,0.71
+803,1,"=- but suddenly something happens, I write it in Portuguese",suddenly something happens write Portuguese,0.0,0.5,Neutral,0.0,0.0,0.0,1.0
+804,0, can first see MTV Movie Awards on Thursday!! how sad!!&lt;3&lt;3 but am looking forward to Thursday!! jubii!!,first Movie Awards Thursday sadlt3lt3 looking forward Thursday jubii,0.25,0.3333333333333333,Positive,0.4588,0.0,0.273,0.727
+805,0, Can I join you?  {*_*}  KarenWild,join KarenWild,0.0,0.0,Neutral,0.296,0.0,0.688,0.312
+806,0, canon powershot s400 you had served me very well. i am sorry that i left u in that car for hottest 3 days... i mourn your loss,canon powershot s400 served very well sorry that left that hottest days mourn your loss,-0.09999999999999999,0.43333333333333335,Negative,-0.5082,0.333,0.119,0.548
+807,0," cant afford to see Angels and Demons, so i watched it for free: http://tr.im/lvBu",cant afford Angels Demons watched free http trim lvBu,0.4,0.8,Positive,0.5106,0.0,0.292,0.708
+808,0," can't get motivated, it might b the sunday crying club for me!!",cant motivated might sunday crying club,-0.2,0.6,Negative,-0.6788,0.582,0.0,0.418
+809,0, cant get up to auckland to watch jb 3d movie. im soo gutterd. suppose i have to wait till the dvd release..,cant auckland watch movie gutterd suppose have wait till release,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+810,0, Can't log into my computer at work.  ack!  Got lots to do. IT guru out today. can anyone help me?,Cant into computer work lots guru today anyone help,0.0,0.0,Neutral,0.4019,0.0,0.252,0.748
+811,0, can't make any labels til my computer is fixed..can't fix my computer until I make some money..can't make money unless I sell soap grrrr,cant make labels computer fixedcant computer until make some moneycant make money unless sell soap grrrr,-0.7,0.8,Negative,0.0,0.0,0.0,1.0
+812,0, can't sleep -_- this sucks eggs and bacon! I'm suppose to get up early to,cant sleep this sucks eggs bacon suppose early,-0.09999999999999999,0.3,Negative,-0.4357,0.291,0.0,0.709
+813,0," can't sleep, so damn miserable! I'm sooooo itchy please help, I can't sleep, I'm going to cry! :'(",cant sleep damn miserable sooooo itchy please help cant sleep going,-1.0,1.0,Negative,0.7774,0.117,0.55,0.334
+814,1, Can't Wait For Hills Finale Tonight! â¥,Cant Wait Hills Finale Tonight,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+815,1," Can't wait for the weekend, BMTH on Saturday!",Cant wait weekend BMTH Saturday,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+816,0, Carrie has a bad eye infection...just waiting for hear from the vets to see if they found anything ,Carrie infectionjust waiting hear from vets they found anything,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+817,0, cba i'm revising my french oral fuck it,revising french oral fuck,-0.2,0.3,Negative,-0.5423,0.538,0.0,0.462
+818,1,- certification test #2 at 8:30 this morning. Feeling much better about this one today ,certification test this morning Feeling much better about this today,0.5,0.5,Positive,0.5267,0.0,0.355,0.645
+819,1, changin my name to ambergirl66 ;) haha my youtube name and it mathces my background ;),changin name ambergirl66 haha youtube name mathces background,0.2,0.3,Positive,0.4588,0.0,0.3,0.7
+820,1,=-- chilling with my niggahz Haley and Dylan,chilling with niggahz Haley Dylan,-0.5,0.9,Negative,-0.0258,0.216,0.0,0.784
+821,1, chocolate cake with a delicious strawberry yummy yummy,chocolate cake with delicious strawberry yummy yummy,1.0,1.0,Positive,0.8885,0.0,0.724,0.276
+822,1," church with matt,was...good. I think I'm going to be a 'churchgirl' now. )",church with mattwasgood think going churchgirl,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+823,1,-- city tonight for mae! ,city tonight,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+824,0, cnt even use a single Twitter App!!!!!,even single Twitter,-0.07142857142857142,0.21428571428571427,Negative,0.0,0.0,0.0,1.0
+825,0," cold, despite the heater. weirdly though, it's not actually cold today!",cold despite heater weirdly though actually cold today,-0.5666666666666668,1.0,Negative,0.2235,0.0,0.212,0.788
+826,0, come on bitchesss #barakatday #barakatday #barakatday #barakatday,come bitchesss barakatday barakatday barakatday barakatday,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+827,0, come party,come party,0.0,0.0,Neutral,0.4019,0.0,0.73,0.27
+828,1," come to manchester while your in england  id love to meet you  did you have fun in germany? its beautiful, i love it. (L) xx",come manchester while your england love meet have germany beautiful love,0.6166666666666667,0.7333333333333334,Positive,0.9231,0.0,0.606,0.394
+829,1, Coming up to the home stretch now with this J/M fic. YAY!!,Coming home stretch with this,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+830,0, computer is being very tempermental at the moment....,computer being very tempermental moment,0.2,0.3,Positive,0.0,0.0,0.0,1.0
+831,1," Congrats to AL's newest state Senator elect, Democrat Mark Keahey. http://is.gd/MRr3 #alpolitics",Congrats newest state Senator elect Democrat Mark Keahey http isgd MRr3 alpolitics,0.8,0.9,Positive,0.5267,0.0,0.236,0.764
+832,1, Content.&quot;made a pac lets see how long it last&quot;,Contentquotmade lets long lastquot,-0.05,0.4,Negative,0.0,0.0,0.0,1.0
+833,1, cookies the first time,cookies first time,0.25,0.3333333333333333,Positive,0.0,0.0,0.0,1.0
+834,0, could this night be any worse?,could this night worse,-0.4,0.6,Negative,-0.4767,0.508,0.0,0.492
+835,0, couldn't find it,couldnt find,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+836,0, cramps. Drugs--good.,cramps Drugsgood,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+837,0, crap day tat will get craper,crap will craper,-0.8,0.8,Negative,-0.3818,0.565,0.0,0.435
+838,0, credit card bill. ow my wallet.,credit card bill wallet,0.0,0.0,Neutral,0.3818,0.0,0.464,0.536
+839,0,"-- dad came back &amp;asked us to go to anyer till thu! While him, gonna go back &amp;forth from banten to anyer, for us. Poor him ",came back ampasked anyer till While gonna back ampforth from banten anyer Poor,-0.13333333333333333,0.19999999999999998,Negative,-0.4767,0.205,0.0,0.795
+840,0, dads got to turn the power off  caio,dads turn power caio,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+841,0, dammit... No more sleep for me.. And on my day off to.. :-/,dammit more sleep,0.5,0.5,Positive,0.0,0.0,0.0,1.0
+842,0," damn gettin it from someone right now, damn i guess im not sleeping tonite with these texts.. ",damn gettin from someone right damn guess sleeping tonite with these texts,0.2857142857142857,0.5357142857142857,Positive,-0.6597,0.351,0.0,0.649
+843,0, damn u still haven't been to sleep? and just look them up...i think it was Royalty Beats and City Council,damn still havent been sleep just look them think Royalty Beats City Council,0.0,0.0,Neutral,-0.4019,0.184,0.0,0.816
+844,0, damn! didnt make on time and the border was closed! drove hr. to toher side of state to make it ti Mexico!.sniff! sniff! tired!,damn didnt make time border closed drove toher side state make Mexicosniff sniff tired,-0.25,0.39999999999999997,Negative,-0.6808,0.318,0.0,0.682
+845,0," Damn, lost three followers... I was getting so close to fifty.. Help me out?",Damn lost three followers getting close fifty Help,0.0,0.0,Neutral,-0.3182,0.394,0.213,0.394
+846,0, damn. There has to be something wrong. And its not youu,damn There something wrong youu,-0.5,0.9,Negative,-0.7003,0.659,0.0,0.341
+847,0, Dan won't have off for my birthday.,wont have birthday,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+848,0," darn you city, I just want to leave!",darn city just want leave,0.0,0.0,Neutral,0.0258,0.218,0.236,0.545
+849,1, def. i have no studio so ur jus gunna get the lyrics [shrug]  @ExoticBella_,have studio gunna lyrics shrug ExoticBella,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+850,0, definately bedtime,definately bedtime,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+851,0, definately just missed my train. smh. fuck!,definately just missed train fuck,-0.4,0.6,Negative,-0.6908,0.655,0.0,0.345
+852,0, depressing day ? http://blip.fm/~6tfp6,depressing http blipfm 6tfp6,-0.6,0.9,Negative,-0.3818,0.464,0.0,0.536
+853,0," devstateddd, my silly iphone deleted all my jailbreak stuff  thats 25 apps !",devstateddd silly iphone deleted jailbreak stuff thats apps,-0.5,0.875,Negative,0.0258,0.0,0.136,0.864
+854,0, did not get to go see UP!! Oh well ended up going to dinner with Blase and Bridget!,well ended going dinner with Blase Bridget,0.0,0.0,Neutral,0.2732,0.0,0.259,0.741
+855,0, didn't get much sleep again cos of the flippin neighbours! Grr time to work again! ,didnt much sleep again flippin neighbours time work again,0.2,0.2,Positive,0.0,0.0,0.0,1.0
+856,0," Didn't get to do some car scheming tonight. sad. but i did get to mosh while looking like a complete bogan, WOOTS!",Didnt some scheming tonight mosh while looking like complete bogan WOOTS,0.1,0.4,Positive,0.3612,0.0,0.2,0.8
+857,0, didn't go out last night I fell asleep .... I Suck (not literally),didnt last night fell asleep Suck literally,0.0,0.06666666666666667,Neutral,-0.4404,0.326,0.0,0.674
+858,1," Didn't have time updating because was 2 busy enjoying this &quot;love making, sleep with no clothes on, &amp; eating bbq&quot; weather. I miss this &lt;3",Didnt have time updating because busy enjoying this quotlove making sleep with clothes eating bbqquot weather miss this,0.3,0.44999999999999996,Positive,0.4215,0.076,0.162,0.762
+859,0, didn't think Netball was on coz it was raining when I got there ... Now no one can take me  Manee is going to b annoyed :|,didnt think Netball raining when there take Manee going annoyed,-0.4,0.8,Negative,-0.3818,0.224,0.0,0.776
+860,0, Didn't win the twitter contest. BOO,Didnt twitter contest,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+861,0, Dinara lost again in Roland Garros. Why the Safins have to do it hard?,Dinara lost again Roland Garros Safins have hard,-0.2916666666666667,0.5416666666666666,Negative,-0.4019,0.381,0.0,0.619
+862,1, dinner &lt; bath &lt; workout &lt; run,dinner bath workout,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+863,1, Diplomatic husband to his wife &quot;How do u expect me to remember ur birthday when u never look any older?&quot; (via @normaltusker @nehabagoria),Diplomatic husband wife quotHow expect remember birthday when never look olderquot normaltusker nehabagoria,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+864,0, dissapointed.,dissapointed,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+865,0, does anybody know the statistics homework *not that I have started* nobody is answering my emails about business studies...,does anybody know statistics homework that have started nobody answering emails about business studies,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+866,0, doesn't know what to get fir a tattoo,doesnt know what tattoo,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+867,0, dont feel good ptosis ;),dont feel good ptosis,0.7,0.6000000000000001,Positive,-0.3412,0.445,0.0,0.555
+868,1, Don't forget to vote today! http://bit.ly/3MG0r,Dont forget vote today http bitly 3MG0r,0.0,0.0,Neutral,0.1695,0.0,0.217,0.783
+869,0,- don't ignore the smell of sizzling skin when you're sitting in the sun! ,dont ignore smell sizzling skin when youre sitting,0.0,0.0,Neutral,0.2755,0.0,0.232,0.768
+870,0, dont know whats wrong with me,dont know whats wrong with,-0.5,0.9,Negative,0.3724,0.0,0.39,0.61
+871,0, Don't like ending the night arguing with the huz in SMF over stupid home improvement crap.,Dont like ending night arguing with over stupid home improvement crap,-0.8,0.9,Negative,-0.797,0.552,0.149,0.298
+872,0, don't wanna go to work,dont wanna work,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+873,1, @Dayngr TweetWrath I think I just coined a new word where is that twitter dictionary http://tr.im/nyYv,Dayngr TweetWrath think just coined word where that twitter dictionary http trim nyYv,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+874,0, @DemonicTurtle - You guys have fun last night? I hope you got my text... Pub quizzage tomorrow?,DemonicTurtle guys have last night hope text quizzage tomorrow,0.0,0.06666666666666667,Neutral,0.4404,0.0,0.266,0.734
+875,1, @DJWiLLGATES,DJWiLLGATES,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+876,0," @electrograffiti I know but I'll miss having someone to bitch about Brussels trams, metro, bad customer service, lack of quorn.. etc.",electrograffiti know miss having someone bitch about Brussels trams metro customer service lack quorn,0.0,0.0,Neutral,-0.7717,0.412,0.0,0.588
+877,0, @ELYSIANFIELDZ=CLASS @ELYSIANFIELDZAJ=NO ANSWER @RON_NO4LYFE=WORK @_ETJ= ON THE ROAD @PLUSISAPLUS=N NOLA IM HUNGRY WITH NO1 2 EAT WITH!,ELYSIANFIELDZ CLASS ELYSIANFIELDZAJ ANSWER RONNO4LYFE WORK ROAD PLUSISAPLUS NOLA HUNGRY WITH WITH,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+878,1, @essentially_me Funny fact: @sween has about 3x his town's population following him on tumblr. How does h.. http://tr.im/lCEl,essentiallyme Funny fact sween about towns population following tumblr does http trim lCEl,0.125,0.55,Positive,0.4404,0.0,0.195,0.805
+879,1," @fernandofelman am gonna miss you too. if it's really gonna be 2-3 years, i might end up visiting you in Aussie land (i wish)",fernandofelman gonna miss really gonna years might visiting Aussie land wish,0.2,0.2,Positive,0.2732,0.12,0.203,0.677
+880,0,- @flopearedmule  Guess that's the end of my love affair with emusic.,flopearedmule Guess thats love affair with emusic,0.5,0.6,Positive,0.6369,0.0,0.412,0.588
+881,1, @Grahamapalooza @RoniBryantMusic @Rob_in_Grantham @BananasMel @joetech @joecopas2671 @britespark @r0ckrulez @johnnybeane @bsideofSoccer,Grahamapalooza RoniBryantMusic RobinGrantham BananasMel joetech joecopas2671 britespark r0ckrulez johnnybeane bsideofSoccer,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+882,1,- @hannahradford is taking me to lunch today ,hannahradford taking lunch today,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+883,0, @I_am_delo,Iamdelo,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+884,0, @iggigg too busy to see me in London this evening. What is a boy to do?,iggigg busy London this evening What,0.1,0.3,Positive,0.0,0.0,0.0,1.0
+885,0, @JeffersonReid is never on Twitter anymore ,JeffersonReid never Twitter anymore,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+886,1, @jessdelight: LMAO @liveguy,jessdelight LMAO liveguy,0.6,1.0,Positive,0.6841,0.0,0.698,0.302
+887,1, @joeschmitt Twitter maintenance on a Friday night? They really haven't been listening if they think we wo.. http://tr.im/nDkq,joeschmitt Twitter maintenance Friday night They really havent been listening they think http trim nDkq,0.2,0.2,Positive,0.0,0.0,0.0,1.0
+888,1," @johnmaeda Are you a .EXE (do-er), .PPT (talk-er), or .TXT (leafy potted plant) http://tr.im/oBOf",johnmaeda doer talker leafy potted plant http trim oBOf,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+889,0, @joseke Trent Reznor quits Twitter - http://migre.me/281e (via @trabalhosujo),joseke Trent Reznor quits Twitter http migreme 281e trabalhosujo,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+890,0,- @Kerry350 would love to meet up with yourself and @angeloys but I've made plans already  we'll get another opportunity again soon!,Kerry350 would love meet with yourself angeloys made plans already well another opportunity again soon,0.5,0.6,Positive,0.8442,0.0,0.431,0.569
+891,1, @krystynchong that's a lovely compliment. thx much! ,krystynchong thats lovely compliment much,0.35,0.475,Positive,0.7845,0.0,0.697,0.303
+892,1, @ksymmonds THANKYOU ,ksymmonds THANKYOU,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+893,0, @LAFD*UPDATE: SB 110 Fwy x 8th St* Correction: Dead female now '16 y/o'; LAFD complete; CHP &amp; Coroner to handle; NFD - Brian Humphrey###,LAFD UPDATE Correction Dead female LAFD complete Coroner handle Brian Humphrey,-0.03333333333333333,0.32222222222222224,Negative,-0.6486,0.301,0.0,0.699
+894,0, @lazoug KStew and MA still together http://bit.ly/cdrcw happy or not?? Lol Im happy if Kristen is happy,lazoug KStew still together http bitly cdrcw happy happy Kristen happy,0.8000000000000002,1.0,Positive,0.9022,0.0,0.581,0.419
+895,0,- @libraritarian59 Oh no! @donutspy isn't a good link! ,libraritarian59 donutspy isnt good link,0.7,0.6000000000000001,Positive,-0.3412,0.376,0.0,0.624
+896,0,"- @littlecharva - if the front wasn't black on both, I would have got the white one. As it is, the black looks sleek &amp; the white doesn't ",littlecharva front wasnt black both would have white black looks sleek white doesnt,-0.08333333333333333,0.21666666666666667,Negative,0.0,0.0,0.0,1.0
+897,0,"- @littlecharva - the full voice control is making me want iPhone 3GS, but 02 will charge me a fortune as my 3G contract not up til April ",littlecharva full voice control making want iPhone will charge fortune contract April,0.35,0.55,Positive,0.0772,0.0,0.106,0.894
+898,0, @MaMii_THiCKNESS don't do dat. jst tell em 2 suck ur dyck! that always makes me feel better,MaMiiTHiCKNESS dont tell suck dyck that always makes feel better,0.5,0.5,Positive,0.6492,0.0,0.399,0.601
+899,1,- @MelbourneVixens Awesome 4th quarter ladies! Great game ,MelbourneVixens Awesome quarter ladies Great game,0.4666666666666666,0.7166666666666667,Positive,0.8481,0.0,0.672,0.328
+900,0, @monique4ever is messing with my mind.,monique4ever messing with mind,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+901,1, @netfart quite the opposite,netfart quite opposite,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+902,1,"- @nikkofelipe night, and thanks for the call ",nikkofelipe night thanks call,0.2,0.2,Positive,0.4404,0.0,0.492,0.508
+903,0, @ohhushaubrey it makes me wanna cry,ohhushaubrey makes wanna,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+904,1," @PAN1F @OregonMJW No, I do know the difference! Like I say, it's been a long time. A very long time http://tr.im/nJOo",PAN1F OregonMJW know difference Like been long time very long time http trim nJOo,-0.0575,0.46,Negative,0.3612,0.0,0.161,0.839
+905,1, @PhillMason @Philoscribe Thank you. I am genuinely grateful,PhillMason Philoscribe Thank genuinely grateful,0.4,0.5,Positive,0.6705,0.0,0.647,0.353
+906,1,- @PinkElephant73 So pretty much you look like a candy floss machine today ,PinkElephant73 pretty much look like candy floss machine today,0.225,0.6,Positive,0.6908,0.0,0.449,0.551
+907,1, @prblog @steverubel posterous looks like tumblr for iPhone? looks interesting. can you fold this content .. http://tr.im/nhcv,prblog steverubel posterous looks like tumblr iPhone looks interesting fold this content http trim nhcv,0.5,0.5,Positive,0.6369,0.0,0.286,0.714
+908,0, Dont Wanna Leave NY Today.,Dont Wanna Leave Today,0.0,0.0,Neutral,0.0382,0.0,0.277,0.723
+909,0,' dont worry about the for amigos!! there still hangin in there'   &lt;//3  ,dont worry about amigos there still hangin there,0.0,0.0,Neutral,0.3412,0.0,0.256,0.744
+910,0, down to 3k in chips.,down chips,-0.15555555555555559,0.2888888888888889,Negative,0.0,0.0,0.0,1.0
+911,0," downloaded one movie yesterday and having some problem with that ,  i thnk i deserve that...",downloaded movie yesterday having some problem with that thnk deserve that,0.0,0.0,Neutral,-0.4019,0.213,0.0,0.787
+912,0, Driving Lizzie to the airport. Say good bye Lizzie.,Driving Lizzie airport good Lizzie,0.7,0.6000000000000001,Positive,0.4404,0.0,0.42,0.58
+913,1,-- DT tonight; DT tomorrow day &amp; night   beauty.,tonight tomorrow night beauty,0.0,0.0,Neutral,0.5859,0.0,0.559,0.441
+914,0, dude I almost just shocked myself. Lesson learned never get outta the shower and think electricity won't hate on ur ass.,dude almost just shocked myself Lesson learned never outta shower think electricity wont hate,-0.75,0.8500000000000001,Negative,0.2444,0.119,0.176,0.705
+915,0,- eaten some steak!!! im feeling good! much better!! missing my lady though ,eaten some steak feeling good much better missing lady though,0.3333333333333333,0.38333333333333336,Positive,0.6249,0.142,0.471,0.387
+916,0, eating my last wizz fizz,eating last wizz fizz,0.0,0.06666666666666667,Neutral,0.0,0.0,0.0,1.0
+917,0, ECL all day to try to cram all of this organic chemistry back into my head. Final tomorrow. ugh,cram this organic chemistry back into head Final tomorrow,0.0,0.5,Neutral,0.0,0.0,0.0,1.0
+918,0, eff that bitch at Dunkin Donuts,that bitch Dunkin Donuts,0.0,0.0,Neutral,-0.5859,0.559,0.0,0.441
+919,1," elise and melanie are the SHIZ,",elise melanie SHIZ,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+920,0, ellie just text me saying &quot;theyre not gona read our text are they? &quot; I WILL SPEAK TO MCFLY!,ellie just text saying quottheyre gona read text they quot WILL SPEAK MCFLY,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+921,0, emotional.,emotional,0.0,0.65,Neutral,0.1531,0.0,1.0,0.0
+922,0," Everton F.C. just got beat in the Finals of the F.A. Cup against Chealea F.C. Oh well, at least we got to the finals and played well!",Everton just beat Finals against Chealea well least finals played well,-0.3,0.4,Negative,0.6808,0.0,0.452,0.548
+923,0, everton. oh well. lol.,everton well,0.0,0.0,Neutral,0.2732,0.0,0.677,0.323
+924,0, every fucking day,every fucking,-0.6,0.8,Negative,0.0,0.0,0.0,1.0
+925,0, every one i was talking to on msn has gone offline  and i won't be able to talk till them tomorrow  i feel lonely :'( x,every talking gone offline wont able talk till them tomorrow feel lonely,0.2,0.6625,Positive,-0.4588,0.286,0.0,0.714
+926,1,- Every so often I catch my own reflection &amp; think .. Now that's one cool son-of-a-b*tch .. today's one of those days ,Every often catch reflection think thats cool sonofab todays those days,0.35,0.65,Positive,0.3182,0.0,0.187,0.813
+927,0," every time i leave my room,i miss bubu sending me a msg and then he's gone,same on my side.its been hapnin all day...universe?!!mxit then",every time leave roomi miss bubu sending then gonesame sideits been hapnin dayuniversemxit then,0.0,0.0,Neutral,-0.2023,0.189,0.0,0.811
+928,0, everyones drunk but me,everyones drunk,-0.5,1.0,Negative,-0.34,0.706,0.0,0.294
+929,0, everyones dying or bordeirlne on SVU ,everyones dying bordeirlne,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+930,0, Exams.....help !,Examshelp,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+931,0, expensive car repairs   ,expensive repairs,-0.5,0.7,Negative,0.0,0.0,0.0,1.0
+932,1, Explore twitter,Explore twitter,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+933,0, F%$&amp;ing Red Wings!,amping Wings,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+934,0," failed inspection. Did you know you can pass wo/oven, but not wo/anti-tip bracket, which is only sold w/oven? This is worse than taxes.",failed inspection know pass oven antitip bracket which only sold oven This worse than taxes,-0.3,0.6333333333333333,Negative,-0.7861,0.348,0.0,0.652
+935,0, failing at everything i should just give up now....,failing everything should just give,0.0,0.0,Neutral,-0.5106,0.452,0.0,0.548
+936,1, Famed Michigan bookstore to close its doors http://u.mavrev.com/bc7v,Famed Michigan bookstore close doors http umavrevcom bc7v,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+937,0, famliy  going bck homee and have too taKE sister hores riding oh no gonna be a boring day ,famliy going homee have taKE sister hores riding gonna boring,-1.0,1.0,Negative,-0.3182,0.204,0.0,0.796
+938,0, Farrah Fawcett dies of cancer at 62. http://bit.ly/OnhYd,Farrah Fawcett dies cancer http bitly OnhYd,0.0,0.0,Neutral,-0.6597,0.423,0.0,0.577
+939,0, fcukk you!,fcukk,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+940,0, fedex will be kicked out of the french open ...,fedex will kicked french open,0.0,0.25,Neutral,0.0,0.0,0.0,1.0
+941,0, feelin very pessimistic ):,feelin very pessimistic,0.2,0.3,Positive,-0.4201,0.583,0.0,0.417
+942,0, feeling a litle sad ,feeling litle,0.0,0.0,Neutral,0.128,0.0,0.6,0.4
+943,0, feeling all sad leaving mumbai...,feeling leaving mumbai,0.0,0.0,Neutral,0.128,0.0,0.429,0.571
+944,0, feeling down. reality is setting in. i know i should be beyond this point. why am i still here? i want to follow my dreams but im scared,feeling down reality setting know should beyond this point still here want follow dreams scared,-0.15555555555555559,0.2888888888888889,Negative,0.1531,0.149,0.284,0.567
+945,0, Feels bad for Cali... poor thing.,Feels Cali poor thing,-0.4,0.6,Negative,-0.4767,0.508,0.0,0.492
+946,0, female model tortured by prince http://tinyurl.com/mbmanohara,female model tortured prince http tinyurlcom mbmanohara,0.0,0.16666666666666666,Neutral,-0.5574,0.375,0.0,0.625
+947,0, ferrets are much cooler than fishes.,ferrets much cooler than fishes,0.2,0.2,Positive,0.0,0.0,0.0,1.0
+948,1, FIELD TRIP TODAY  LEAVING NOW :3,FIELD TRIP TODAY LEAVING,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+949,1,"- finally at home ; bout to napp , then get ready for college tomorrow  ughhh ; sooo excited !",finally home bout napp then ready college tomorrow ughhh sooo excited,0.19166666666666665,0.75,Positive,0.5994,0.0,0.353,0.647
+950,0, Finally managed to check the Euromillions results......NO ï¿½89 million for me I'm afraid :[   Oh well...you gotta be in it to win it!,Finally managed check Euromillions resultsNO million afraid wellyou gotta,-0.3,0.95,Negative,0.0,0.0,0.0,1.0
+951,0," finding out the Hollywood Video i frequent, is not re-model-ing, and is in fact, closed  *cancels account* so much 4 super cheap DVDs",finding Hollywood Video frequent remodeling fact closed cancels account much super cheap DVDs,0.18333333333333335,0.44166666666666665,Positive,0.4588,0.113,0.232,0.655
+952,0, @PurpleHazeYobi Hope you had fun with &quot;Lisa&quot; the Jillian replacement lol... I was busy getting @_rosiecakes drunk! lol I &lt;3 u both... xo,PurpleHazeYobi Hope with quotLisaquot Jillian replacement busy getting rosiecakes drunk both,-0.2,0.65,Negative,0.128,0.168,0.203,0.629
+953,0, @richietachie i missed all..imma call u tomorrow..and reduce the number of Qs by tomorrow pls...i have a phobia for that lol seriously,richietachie missed allimma call tomorrowand reduce number tomorrow plsi have phobia that seriously,-0.3333333333333333,0.6666666666666666,Negative,-0.6369,0.387,0.077,0.536
+954,1, @rickswift #followfriday these ppl or catch crabs @KarlKleese @lpjdesign  @LostZombies @pinkraygun @BittenbyBooks @hippojuicefilm @zazzle,rickswift followfriday these catch crabs KarlKleese lpjdesign LostZombies pinkraygun BittenbyBooks hippojuicefilm zazzle,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+955,1," @SandyU @MightyBoognish @kittyireland It's light with a bit of punch. Mission=San Francisco gin, Mexican liqueur, seemed an apt name.",SandyU MightyBoognish kittyireland light with punch Mission Francisco Mexican liqueur seemed name,0.2,0.35,Positive,0.0,0.0,0.0,1.0
+956,1," @Savage_Death55 I am super emo about stupid stuff rn, and SG is making me feel better. :p",SavageDeath55 super about stupid stuff making feel better,0.011111111111111127,0.7222222222222222,Positive,0.5267,0.224,0.447,0.329
+957,0, @sf_giants bullpen loses lead,sfgiants bullpen loses lead,-0.3,0.1,Negative,-0.3182,0.434,0.0,0.566
+958,1, @ShawnaShameless &amp; @killavilla if anyone else said something it's to you too.,ShawnaShameless killavilla anyone else said something,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+959,0, @Spiral_galaxy @YMPtweet i mean we have the best religion the only thing that we have to do is to follow it the right way,Spiralgalaxy YMPtweet mean have best religion only thing that have follow right,0.24330357142857142,0.6308035714285715,Positive,0.6369,0.0,0.276,0.724
+960,0, @StephenHDunn bows out of the Raid. &quot;Dunn&quot; his back Inn. Speedy recovery mate.,StephenHDunn bows Raid quotDunnquot back Speedy recovery mate,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+961,1, @stevijean yeahuhh,stevijean yeahuhh,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+962,0," @sylvanus is having the worse day ever. Boss is spazzing out at work and finally done with a late night photo shoot, only to have a flat",sylvanus having worse ever Boss spazzing work finally done with late night photo shoot only have flat,-0.145,0.665,Negative,-0.6705,0.268,0.0,0.732
+963,0, @tahninial just called me a cheeseburglar. He made me sad,tahninial just called cheeseburglar made,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+964,0, @taylorswift13 didnt win the first award she was nominated for. Oh well.. Shes tied for most nominations.,taylorswift13 didnt first award nominated well Shes tied most nominations,0.375,0.41666666666666663,Positive,-0.1901,0.22,0.162,0.618
+965,0," @Tellman says, &quot;Crush the Commies&quot; = sad. My grandfather, RIP, was a Commie @Tellman",Tellman says quotCrush Commiesquot grandfather Commie Tellman,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+966,0,- @TendaiJoe well none of us are getting out of here alive but we would like to stay a while.I wish people would stop killing each other ,TendaiJoe well none getting here alive would like stay whileI wish people would stop killing each other,-0.012499999999999997,0.3875,Negative,-0.3578,0.324,0.27,0.406
+967,0, @the_prodigy AND @NKOTB in Boston 2day Boo!! Roll on summer already!!! x,theprodigy NKOTB Boston 2day Roll summer already,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+968,0, @therealglambert sorry...got carried away with gossip  on another note: Pass on a Hippo Birdie &amp; a big koala hug to KRIS for me! xoxo K,therealglambert sorrygot carried away with gossip another note Pass Hippo Birdie koala KRIS xoxo,0.0,0.0,Neutral,0.5106,0.096,0.226,0.678
+969,0," @thesmartmama I have no office. I know this is hard to believe, but people don't want to employ me.",thesmartmama have office know this hard believe people dont want employ,-0.2916666666666667,0.5416666666666666,Negative,-0.1833,0.232,0.0,0.768
+970,1, @ThisChicsFlava: @DaPrbmChild lmao&lt;3,ThisChicsFlava DaPrbmChild lmaolt3,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+971,0, @tommcfly hi when ur back &amp; when ur next in mk i am gona need 1 of your really good hugs that only you and my friend liam can give ok.,tommcfly when back when next gona need your really good hugs that only friend liam give,0.175,0.4,Positive,0.8712,0.0,0.432,0.568
+972,0," @tweetdeck lost my groups, and thats not a good thing with 23k followers ",tweetdeck lost groups thats good thing with followers,0.7,0.6000000000000001,Positive,0.1531,0.205,0.259,0.536
+973,0, @WeeLaura Guardian UK: 12 students reported killed in crackdown after violent clashes in #Iran http://bit.ly/wHLBv,WeeLaura Guardian students reported killed crackdown after violent clashes Iran http bitly wHLBv,-0.5,0.5,Negative,-0.8555,0.433,0.0,0.567
+974,0," @YMPtweet @Spiral_galaxy  but so badly no one does , i know that there is more but that's what i got so far",YMPtweet Spiralgalaxy badly does know that there more thats what,-0.09999999999999992,0.5833333333333333,Negative,-0.4767,0.256,0.0,0.744
+975,1," @zeldman just said on Flickr re a Mac that wouldn't install OS X (yes): &quot;As user-focused design goes, this is an exploding colostomy bag&quot;",zeldman just said Flickr that wouldnt install quotAs userfocused design goes this exploding colostomy bagquot,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+976,0, __cheer up emo kid.,cheer,0.0,0.0,Neutral,0.5106,0.0,1.0,0.0
+977,1, ~ LVATT IS COMMING!!! ~,LVATT COMMING,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+978,0, = next few days,next days,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+979,1, =] happy sunday =] ,happy sunday,0.8,1.0,Positive,0.5719,0.0,0.787,0.213
+980,0, 1 dinger in and I so regret popping that pill...,dinger regret popping that pill,0.0,0.0,Neutral,-0.4215,0.412,0.0,0.588
+981,0," 1 month of bed by 1:30AM, already failing as you can see",month 30AM already failing,0.0,0.0,Neutral,-0.5106,0.524,0.0,0.476
+982,0, 2 days I haven't tlkd 2 mi amor..im kinda stubborn when it comes 2 my bf..I will NOT call..not a bugaboo type,days havent tlkd amorim kinda stubborn when comes will callnot bugaboo type,0.0,0.0,Neutral,-0.3415,0.18,0.0,0.82
+983,0, 2 hear about jon n kate...couples should steer clear of those reality shows! just say no!,hear about katecouples should steer clear those reality shows just,0.10000000000000002,0.3833333333333333,Positive,0.3818,0.0,0.224,0.776
+984,1,--- 2009 NCAA National Softball Champions UW Huskies ,2009 NCAA National Softball Champions Huskies,0.0,0.0,Neutral,0.5267,0.0,0.405,0.595
+985,0," 2nd item did not arrive, am still waiting for it to show in my aramex web page.",item arrive still waiting show aramex page,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+986,0, Finished my paper!!!!!!!!!! But............   smh,Finished paper,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+987,1, first days are always good..wish my dentist gave me more hours though,first days always goodwish dentist gave more hours though,0.375,0.41666666666666663,Positive,0.0,0.0,0.0,1.0
+988,0, fone off....cant talk 2 my love....imu marcus!!!!!,fone offcant talk loveimu marcus,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+989,0," for the fact that *I* didn't get any work done, not that you all did. ",fact that didnt work done that,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+990,0," forgot XBL was off today, was about to check to see if a game was on XBLA that I wanted to buy  oh well, maybe tomorrow",forgot today about check game XBLA that wanted well maybe tomorrow,-0.4,0.4,Negative,0.2732,0.0,0.174,0.826
+991,0, found a mosquito bite.  (Those tend to get really swollen and red for me)  Distracting myself with caffeine,found mosquito bite Those tend really swollen Distracting myself with caffeine,0.2,0.2,Positive,-0.3566,0.199,0.0,0.801
+992,1, Found a way to make this Private woot woot,Found make this Private woot woot,0.0,0.375,Neutral,0.6808,0.0,0.583,0.417
+993,0, Four more fake people added me. Is this why people don't like Twitter?,Four more fake people added this people dont like Twitter,0.0,0.75,Neutral,-0.6708,0.408,0.0,0.592
+994,0, frank iero should be the sexiest vegetarian 2009.,frank iero should sexiest vegetarian 2009,0.0,0.0,Neutral,0.0,0.0,0.0,1.0
+995,0," french lost, #fb",french lost,0.0,0.0,Neutral,-0.3182,0.697,0.0,0.303
+996,0, fuck man .i hate this. =O. work suckss :'(,fuck hate this work suckss,-0.6000000000000001,0.75,Negative,-0.802,0.706,0.0,0.294
+997,0," fuck you, :]",fuck,-0.4,0.6,Negative,-0.5423,1.0,0.0,0.0
+998,0,"- fuck, my money is running out &amp; i have no jobs... ",fuck money running have jobs,-0.4,0.6,Negative,-0.5423,0.467,0.0,0.533
+999,0, fuck. I am an ugly person.,fuck ugly person,-0.55,0.8,Negative,-0.7783,0.872,0.0,0.128
+1000,1, fucking rur mom,fucking,-0.6,0.8,Negative,0.0,0.0,0.0,1.0
