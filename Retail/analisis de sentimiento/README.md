@@ -67,8 +67,10 @@ Esto les permite crear mejores estrategias de mercado, centrarse en la toma de d
 
 ## Cómo hacer un análisis de sentimiento usando: Spacy, TextBlob y neattext  
 
-[Analisis de sentimiento]()    
-https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Stock%20Market%20Sentiment.ipynb#Stock-Market-Sentiment-Analysis-Using-Python-&-Machine-Learning
+[Analisis de sentimiento](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/sentiment.ipynb)    
+[Analisis predicciones](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/Sentiment_Predictions.ipynb)  
+
+recomendación: visitar nuestro repositorio de datos donde podrá ver de tipo de [análsis y de otros](https://github.com/luishernand/Analisis-EDA-predicciones)
 
     creado por: Luis Hernández email: luishernand11@gmail.com
 
