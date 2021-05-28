@@ -20,6 +20,7 @@ Teniendo en cuenta este alto número de criterios, las compañías buscan conoce
 - Comportamiento del consumidor: Recae sobre la idea del fin del consumidor, es decir, saber por qué compra y qué busca cuando quiere algo. Por ejemplo, puede buscar eficiencia, relación calidad precio o por la imagen que proyecta a los demás.
 - Rasgos psicológicos: Hace referencia a los gustos, modas, estilos, carácter.
 - Factores económicos: Puesto de trabajo, estabilidad laboral o el nivel de ingresos.  
+
 Por lo tanto, conocer con gran precisión los detalles y comportamientos de cada segmento será un elemento básico a la hora de desarrollar un marketing mix efectivo para vender eficientemente. Es decir, será vital tener claro que el producto en cuestión está creado y dirigido a cierta parte de la población consumidora.   
 
 Emplear la segmentación ayuda a medir fiablemente el esfuerzo y la optimización de los recursos dedicados a un proyecto.  
@@ -28,7 +29,9 @@ Emplear la segmentación ayuda a medir fiablemente el esfuerzo y la optimizació
 1. [Limpieza de datos y EDA](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/segmentacion_de_mercado/Segmentacion%20Mercado.ipynb)
 2. [Modelos RFM y KMeans](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/segmentacion_de_mercado/RFM-Clusters.ipynb)
 
-
+**Recomendnmos visitar nuestro repositorio de datos donde podrá diversos tipos de análsisis asi como también trabajos de BI** 
+- [Analisis-EDA](https://github.com/luishernand/Analisis-EDA-predicciones)
+- [BI](https://github.com/luishernand/Inteligencia-de-Negocios)
 
         realizado por: Luis Hernández   email: luishernand11@gmail.com
 
