@@ -30,7 +30,7 @@ Emplear la segmentación ayuda a medir fiablemente el esfuerzo y la optimizació
 
 
 
-        `realizado por: Luis Hernández   email: luishernand11@gmail.com`
+        realizado por: Luis Hernández   email: luishernand11@gmail.com
 
 
 
