@@ -69,8 +69,9 @@ Esto les permite crear mejores estrategias de mercado, centrarse en la toma de d
 
 [Analisis de sentimiento](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/sentiment.ipynb)    
 [Analisis predicciones](https://nbviewer.jupyter.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Retail/analisis%20de%20sentimiento/Sentiment_Predictions.ipynb)  
+[Analisis de Sentimientos with Bert](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Sentiment_with_BERT.ipynb)  
 
-recomendación: visitar nuestro repositorio de datos donde podrá ver de tipo de [análsis y de otros](https://github.com/luishernand/Analisis-EDA-predicciones)
+recomendación: visité nuestro repositorio de datos [análsis EDA](https://github.com/luishernand/Analisis-EDA-predicciones) donde encontrará diferentes tipos de proyectos de Data Science
 
     creado por: Luis Hernández email: luishernand11@gmail.com
 
