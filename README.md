@@ -1,4 +1,4 @@
-# Mis-proyectos-de-ML-por-tipo-Industrias  
+# Proyectos de ML por Tipo Industrias  
 
 Visite las carpetas internas:
 1. [Retail](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Retail) 
