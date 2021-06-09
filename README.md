@@ -5,8 +5,8 @@ Visite las carpetas internas:
 2. [Sector Bancario](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros)  
 
 ## Repositorios de Data Science 
-[Análisis-EDA](https://github.com/luishernand/Analisis-EDA-predicciones)
+[Análisis-EDA](https://luishernand.github.io/Analisis-EDA-predicciones/)
 
 ## Repositorios de BI 
-[Inteligencia de Negocios BI](https://github.com/luishernand/Inteligencia-de-Negocios)
+[Inteligencia de Negocios BI](https://luishernand.github.io/Inteligencia-de-Negocios/)
 
