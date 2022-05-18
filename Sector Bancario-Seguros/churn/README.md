@@ -16,7 +16,7 @@ Como sabemos, es mucho más caro iniciar sesión en un nuevo cliente que mantene
 - [Exploratory Analysis-EDA](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/tree/main/Sector%20Bancario-Seguros/churn#exploratory-data-analysis--eda)
 - [modelo](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/README.md#modelo)  
 - [Conclusión](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/README.md#conclusi%C3%B3n)
-- [Notebook](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/README.md#notebook)  
+- [Notebook](https://nbviewer.org/github/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias/blob/main/Sector%20Bancario-Seguros/churn/churn.ipynb)  
 
 
 ## Conjunto de Datos 
